@@ -32,6 +32,13 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
+hr {height: 1px;
+  margin: -0.5em 0;
+  padding: 0;
+  color: #F00;
+  background-color: #F00;
+  border: 0;}
+
 ol, ul {
   list-style: none;
 }
