@@ -14,12 +14,12 @@ Eleven chapters present a rich array of material, spanning the fifth through the
 <h3>Co-editors</h3>
 <ul style="list-style-type: none;">
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)<br />
-  Vanessa Bigot Juloux is a PhD candidate at the École Pratique des Hautes Etudes and Paris Sciences et Lettres. She has recently developed open-access guidelines for analyzing actions in TEI-XML (DOI 10.5281/zenodo.1202468) and is currently co-editing a volume on violence in ancient cultures.
+  <span style="text-align: justify;">Vanessa Bigot Juloux is a PhD candidate at the École Pratique des Hautes Etudes and Paris Sciences et Lettres. She has recently developed open-access guidelines for analyzing actions in TEI-XML (DOI 10.5281/zenodo.1202468) and is currently co-editing a volume on violence in ancient cultures.</span>
   </li>
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell</a> (St Johns University)<br />
-  Amy Rebecca Gansell, Ph.D. (2008), Harvard University, is Associate Professor of Art History at St. John’s University (New York). She has published computational and digital research in <em>the American Journal of Archaeology, Cambridge Archaeological Journal, and Journal of Archaeological Science</em>.</li>
+  <span style="text-align: justify;">Amy Rebecca Gansell, Ph.D. (2008), Harvard University, is Associate Professor of Art History at St. John’s University (New York). She has published computational and digital research in <em>the American Journal of Archaeology, Cambridge Archaeological Journal, and Journal of Archaeological Science</em>.</span></li>
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapienza University)<br />
-  Alessandro di Ludovico, Ph.D. (2007), Sapienza University, Rome, is a research fellow in Near Eastern Archaeology at the same university. His research deals with perception and communication in the ancient Near East; he is co-director of “Atlante del Vicino Oriente Antico”.</li>
+  <span style="text-align: justify;">Alessandro di Ludovico, Ph.D. (2007), Sapienza University, Rome, is a research fellow in Near Eastern Archaeology at the same university. His research deals with perception and communication in the ancient Near East; he is co-director of “Atlante del Vicino Oriente Antico”.</span></li>
 </ul>
 
 <h3><a name="authors" style="color: black">Authors</a></h3>
