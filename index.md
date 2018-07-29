@@ -5,6 +5,8 @@ title: home
 
 **Scientific Publishing on the Ancient Near East and Neighboring Regions**
 
+<hr width="75%"/>
+
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Digital Practices, including Computer Sciences</h2>
 <ul style="list-style-type: none;">
        <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> “CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico, 2018:<br/>
