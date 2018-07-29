@@ -84,7 +84,7 @@ _by (surnames) alphabetic order_<br />
 <li>10 Digital Philology in the Ras Shamra Tablet Inventory Project: Text Curation through Computational Intelligence<br />
   <span style="padding-left: 1em"><em>Miller C. Prosser</em></span></li>
 <li>11 Publishing Sumerian Literature on the Semantic Web<br />
-  <span style="padding-left:12em"><em>Terhi Nurmikko-Fuller</em></span></li>
+  <span style="padding-left:1em"><em>Terhi Nurmikko-Fuller</em></span></li>
 </ul>  
 
 <ul style="list-style-type: none;">
