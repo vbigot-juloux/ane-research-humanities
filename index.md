@@ -8,7 +8,7 @@ title: home
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Digital Practices, including Computer Sciences</h2>
 <ul style="list-style-type: none;">
        <li><span style="color:#b30000; font-size: 14px">&#8702;</span> “CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico<br/>
-       <i>CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation.</i> <a href="">Read more...</a> </li>
+       <em>CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation.</em> <a href="">Read more...</a> </li>
 
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Terhi Nurmikko Fuller, and Sveta Matskevich</li>
 </ul>
