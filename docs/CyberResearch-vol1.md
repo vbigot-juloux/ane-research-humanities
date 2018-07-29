@@ -4,12 +4,22 @@ layout: default
 ---
 
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2>
+Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill, Digital Bible Studies 2. 2018, 460 +  XXVIII.
 <span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
+
+<h3>Overview</h3>
+<p>CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation. 
+Eleven chapters present a rich array of material, spanning the fifth through the first millennium BCE, from Anatolia, the Levant, Mesopotamia, and Iran. Customized cyber- and general glossaries support readers who lack either a technical background or familiarity with the ancient cultures. Edited by Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico, this volume is dedicated to broadening the understanding and accessibility of digital humanities tools, methodologies, and results to Ancient Near Eastern Studies. Ultimately, this book provides a model for introducing cyber-studies to the mainstream of humanities research.</p> 
+
 <h3>Co-editors</h3>
 <ul style="list-style-type: none;">
-<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
-<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell</a> (St Johns University)</li>
-<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapienza University)</li>
+<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)<br />
+  Vanessa Bigot Juloux is a PhD candidate at the École Pratique des Hautes Etudes and Paris Sciences et Lettres. She has recently developed open-access guidelines for analyzing actions in TEI-XML (DOI 10.5281/zenodo.1202468) and is currently co-editing a volume on violence in ancient cultures.
+  </li>
+<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell</a> (St Johns University)<br />
+  Amy Rebecca Gansell, Ph.D. (2008), Harvard University, is Associate Professor of Art History at St. John’s University (New York). She has published computational and digital research in <em>the American Journal of Archaeology, Cambridge Archaeological Journal, and Journal of Archaeological Science</em>.</li>
+<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapienza University)<br />
+  Alessandro di Ludovico, Ph.D. (2007), Sapienza University, Rome, is a research fellow in Near Eastern Archaeology at the same university. His research deals with perception and communication in the ancient Near East; he is co-director of “Atlante del Vicino Oriente Antico”.</li>
 </ul>
 
 <h3><a name="authors" style="color: black">Authors</a></h3>
@@ -32,7 +42,7 @@ _by (surnames) alphabetic order_<br />
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/AleksiSahala" target="_blank">Aleksi Sahala</a> (University of Helsinki)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/SaanaSvärd" target="_blank">Saana Svärd</a> (University of Helsinki)</li>
   
-  </ul>
+ </ul>
   
 <h3><a name="table-content" style="color: black">Table of contents</a></h3> 
 <ul style="list-style-type: none;">
@@ -97,5 +107,6 @@ _by (surnames) alphabetic order_<br />
 </ul>
  
 
-<h3><a name="readership" style="color: black">Readership</a></h3> 
+<h3><a name="readership" style="color: black">Readership</a></h3>
+<p style="text-align: justify;">This volume will interest scholars and students of the ancient Near East as well as digital humanities researchers across disciplines.</p>
   
