@@ -10,11 +10,13 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <h3>Overview</h3>
 <p>CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation. 
 Eleven chapters present a rich array of material, spanning the fifth through the first millennium BCE, from Anatolia, the Levant, Mesopotamia, and Iran. Customized cyber- and general glossaries support readers who lack either a technical background or familiarity with the ancient cultures. Edited by Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico, this volume is dedicated to broadening the understanding and accessibility of digital humanities tools, methodologies, and results to Ancient Near Eastern Studies. Ultimately, this book provides a model for introducing cyber-studies to the mainstream of humanities research.</p> 
+<br />
+Order the volume on <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (Ebook in open access and hardback).
 
 <h3>Co-editors</h3>
 <ul style="list-style-type: none;">
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)<br />
-  <span style="text-align: justify;">Vanessa Bigot Juloux is a PhD candidate at the École Pratique des Hautes Etudes and Paris Sciences et Lettres. She has recently developed open-access guidelines for analyzing actions in TEI-XML (DOI 10.5281/zenodo.1202468) and is currently co-editing a volume on violence in ancient cultures.</span>
+  <span style="text-align: justify;">Vanessa Bigot Juloux is a PhD candidate at the École Pratique des Hautes Etudes and Paris Sciences et Lettres. She has recently developed open-access guidelines for analyzing actions in TEI-XML (<a href="https://zenodo.org/record/1202468" target="_blank">DOI 10.5281/zenodo.1202468</a>) and is currently co-editing a volume on violence in ancient cultures.</span>
   </li>
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell</a> (St Johns University)<br />
   <span style="text-align: justify;">Amy Rebecca Gansell, Ph.D. (2008), Harvard University, is Associate Professor of Art History at St. John’s University (New York). She has published computational and digital research in <em>the American Journal of Archaeology, Cambridge Archaeological Journal, and Journal of Archaeological Science</em>.</span></li>
