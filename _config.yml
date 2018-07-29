@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+title: ANE Research Humanities
+#description: Volumes on ANE Research
+show_downloads: true
+google_analytics:
+theme: 
+#url: "http://ancient-worlds-symposium.eu"
