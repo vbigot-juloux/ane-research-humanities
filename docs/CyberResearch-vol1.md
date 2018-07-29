@@ -4,8 +4,7 @@ layout: default
 ---
 
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2>
-Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill, Digital Bible Studies 2. 2018, 460 +  XXVIII.<br /><br />
-<span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
+Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill, Digital Bible Studies 2. 2018, 460 +  XXVIII.<br /> <br />
 
 <div class="social">
   <span class="twitter">
@@ -17,6 +16,10 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <iframe src="https://www.facebook.com/plugins/like.php?href=https://vbigot-juloux.github.io/ane-research-humanities//docs/CyberResearch-vol1&amp;show_faces=false&amp;layout=button_count" scrolling="no" frameborder="0" style="height: 20px; width: 100px; margin-left: -40px" allowTransparency="true"></iframe>
 </span>
   </div>
+ 
+  <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
+<span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
+
 
 <h3>Overview</h3>
 <p><a href="../assets/CyberResearch_FrontCover.png" target="_blank"><img src="../assets/CyberResearch_FrontCover.png" style="float: left; overflow: auto; width:25%; padding-right: 10px; padding-bottom: 10px; border:0; -webkit-box-shadow: 0 0 0;"/></a>CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation. 
