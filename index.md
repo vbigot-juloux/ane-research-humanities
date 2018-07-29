@@ -14,7 +14,7 @@ title: home
 technical background or familiarity with the ancient cultures.</em> <a href="">Read more...</a>
        </li>
 
-<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Terhi Nurmikko Fuller, and Sveta Matskevich.
+<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Terhi Nurmikko-Fuller, and Sveta Matskevich.
 </li>
 </ul>
 
