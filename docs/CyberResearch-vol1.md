@@ -16,7 +16,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <iframe src="https://www.facebook.com/plugins/like.php?href=https://vbigot-juloux.github.io/ane-research-humanities//docs/CyberResearch-vol1&amp;show_faces=false&amp;layout=button_count" scrolling="no" frameborder="0" style="height: 20px; width: 100px; margin-left: -40px" allowTransparency="true"></iframe>
 </span>
  </div>
-<hr style="height:0; margin:10px 0 10px 0; background:transparent; border-bottom:0.5px solid #cccccc;" />
+<br />
 
 <span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
 
