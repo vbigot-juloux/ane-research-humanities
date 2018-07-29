@@ -68,7 +68,7 @@ img#psl{width: 20%; -webkit-box-shadow: 0 0 0; border: none;}
   right: 0;
 }
 .forkme_banner {
-  background: url('../images/blacktocat.png') #C11A31 no-repeat 95% 50%;  
+  background: url('../images/blacktocat.png') /*#C11A31*/ #4d4d4d no-repeat 95% 50%;  
   font-weight: 600;
   width: auto;
   display: inline-block;
