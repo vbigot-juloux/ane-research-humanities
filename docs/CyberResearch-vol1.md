@@ -46,15 +46,15 @@ _by (surnames) alphabetic order_<br />
 <li>Notes on Contributors</li>
 <li />
 <li>Introduction to CyberResearch on the Ancient Near East and Neighboring Regions<br />
-<span style="padding-right: 3em"><em>Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico</em></span></li>
+<span style="padding-left: 3em"><em>Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico</em></span></li>
   </ul>
 
 <h4>Part 1: Archaeology</h4>
 <ul style="list-style-type: none;">
 <li> 1 A Conceptual Framework for Archaeological Data Encoding<br />
-  <span style="padding-right: 6em"><em>Sveta Matskevich and Ilan Sharon</em></span></li>
+  <span style="padding-left: 6em"><em>Sveta Matskevich and Ilan Sharon</em></span></li>
 <li>2 Landscape Archaeology and Artificial Intelligence: the Neural Hypersurface of the Mesopotamian Urban Revolution<br />
-<span style="padding-right: 6em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
+<span style="padding-left: 6em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
   </ul>
   
 <h4>Part 2: Objects</h4>
