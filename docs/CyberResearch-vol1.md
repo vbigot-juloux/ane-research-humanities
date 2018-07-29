@@ -8,8 +8,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<img src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhttps://vbigot-juloux.github.io/ane-research-humanities//docs/CyberResearch-vol1&amp;layout=standard&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp" style="overflow:hidden;width:100%;height:80px;" scrolling="no" frameborder="0" allowTransparency="true"/>
-<!-- <a href="/" class="fbook">addlikebutton.net</a></img> -->
+<iframe src="https://www.facebook.com/plugins/like.php?href=[your-url-here]&amp;show_faces=false&amp;layout=button_count" scrolling="no" frameborder="0" style="height: 21px; width: 100px" allowTransparency="true"></iframe>
 
 <h3>Overview</h3>
 <p><a href="../assets/CyberResearch_FrontCover.png" target="_blank"><img src="../assets/CyberResearch_FrontCover.png" style="float: left; overflow: auto; width:25%; padding-right: 10px; padding-bottom: 10px; border:0; -webkit-box-shadow: 0 0 0;"/></a>CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation. 
