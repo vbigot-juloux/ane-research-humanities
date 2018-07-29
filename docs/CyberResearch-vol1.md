@@ -39,11 +39,11 @@ _by (surnames) alphabetic order_<br />
 <h3>Table of contents</h3> 
 <ul style="list-style-type: none;">
   <li>Acknowledgments</li>
-<li>Editors’ Note/li>
-<li>Phonology/li>
-<li>Abbreviations/li>
-<li>List of Figures, Tables, and Appendices/li>
-<li>Notes on Contributors/li>
+<li>Editors’ Note</li>
+<li>Phonology</li>
+<li>Abbreviations</li>
+<li>List of Figures, Tables, and Appendices</li>
+<li>Notes on Contributors</li>
 <br />
 <li>Introduction to CyberResearch on the Ancient Near East and Neighboring Regions<br />
 <em>Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico</em></li>
