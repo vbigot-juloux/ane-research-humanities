@@ -60,7 +60,7 @@ _by (surnames) alphabetic order_<br />
 <h4>Part 2: Part 2: Objects</h4>
 <ul style="list-style-type: none;">
 <li> 3 Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals<br />
-  <em>Alessandro di Ludovico</em>
+  <em>Alessandro di Ludovico</em></li>
 <li>4 A Quantitative Method for the Creation of Typologies for Qualitatively Described Objects<br />
  <em>Shannon Martino and Matthew Martino</em></li>
   </ul>
