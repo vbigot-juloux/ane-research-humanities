@@ -9,30 +9,30 @@ layout: default
 <ul style="list-style-type: none;">
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux (EPHE-PSL)</a></li>
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell (St Johns University)</a></li>
-<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico (Sapienza)</a></li>
+<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico (Sapienza University)</a></li>
 </ul>
 
 <h3><a name="Authors">Authors</a></h3>
 _by (surnames) alphabetic order_<br />
 <ul style="list-style-type: none;">
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Paolo Massimo Buscema</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Doğu Kaan Eraslan</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Heidi Jauhiainen</a></li>
-   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Alessandro di Ludovico</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Krister Lindén</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Matthew Martino</a></li>
-   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Shannon Martino</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Giulia Massini</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Sveta Matskevich</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">M. Willis Monroe</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Terhi Nurmikko-Fuller</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Émilie Pagé-Perron</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Miller C. Prosser</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Ilan Sharon</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Marco Ramazzotti</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Aleksi Sahala</a></li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Saana Svärd</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://ucdenver.academia.edu/PaoloMassimoBuscema" target="_blank">Paolo Massimo Buscema</a> (University of Colorado Denver)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://ephe-sorbonne.academia.edu/DKaanEr" target="_blank">Doğu Kaan Eraslan</a> (EPHE-PSL)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span>Heidi Jauhiainen (University of Helsinki)</li>
+   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapieneza University)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/KristerLindén" target="_blank">Krister Lindén</a> (University of Helsinki)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://independent.academia.edu/MatthewMartino3" target="_blank">Matthew Martino</a></li>
+   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://saic.academia.edu/ShannonMartino" target="_blank">Shannon Martino</a> (School of Art University of Chicago)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span>Giulia Massini</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://huji.academia.edu/SvetaMatskevich" target="_blank">Sveta Matskevich</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://ubc.academia.edu/MWillisMonroe" target="_blank">M. Willis Monroe</a> (University of British Columbia)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://anu-au.academia.edu/TerhiNurmikkoFuller" target="_blank">Terhi Nurmikko-Fuller</a> (Australian National University)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://utoronto.academia.edu/ÉmiliePagéPerron" target="_blank">Émilie Pagé-Perron</a> (University of Toronto)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://chicago.academia.edu/MillerProsser" target="_blank">Miller C. Prosser</a> (University of Chicago)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://huji.academia.edu/IlanSharon" target="_blank">Ilan Sharon</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/MarcoRamazzotti" target="_blank">Marco Ramazzotti</a> (Sapieneza University)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/AleksiSahala" target="_blank">Aleksi Sahala</a> (University of Helsinki)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/SaanaSvärd" target="_blank">Saana Svärd</a> (University of Helsinki)</li>
   
   </ul>
   
@@ -65,7 +65,7 @@ _by (surnames) alphabetic order_<br />
   <span style="padding-left: 1em"><em>Shannon Martino and Matthew Martino</em></span></li>
   </ul>
   
-<h4>Part 3:Texts</h4>
+<h4>Part 3: Texts</h4>
 <ul style="list-style-type: none;">
 <li> 5 A Qualitative Approach Using Digital Analyses for the Study of Action in Narrative Texts:  <span style="font-variant: small-caps;">KTU</span> 1.1-6 from the Scribe ʾIlimilku of Ugarit as a Case Study<br />
   <span style="padding-left: 1em"><em>Vanessa Bigot Juloux</em></span></li> 
