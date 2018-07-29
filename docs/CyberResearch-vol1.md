@@ -16,14 +16,12 @@ layout: default
 _by (surnames) alphabetic order_<br />
 <ul style="list-style-type: none;">
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://ucdenver.academia.edu/PaoloMassimoBuscema" target="_blank">Paolo Massimo Buscema</a> (University of Colorado Denver)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://ephe-sorbonne.academia.edu/DKaanEr" target="_blank">Doğu Kaan Eraslan</a> (EPHE-PSL)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span>Heidi Jauhiainen (University of Helsinki)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Heidi Jauhiainen (University of Helsinki)</li>
    <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapieneza University)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/KristerLindén" target="_blank">Krister Lindén</a> (University of Helsinki)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://independent.academia.edu/MatthewMartino3" target="_blank">Matthew Martino</a></li>
    <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://saic.academia.edu/ShannonMartino" target="_blank">Shannon Martino</a> (School of Art University of Chicago)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span>Giulia Massini</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://huji.academia.edu/SvetaMatskevich" target="_blank">Sveta Matskevich</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://ubc.academia.edu/MWillisMonroe" target="_blank">M. Willis Monroe</a> (University of British Columbia)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://anu-au.academia.edu/TerhiNurmikkoFuller" target="_blank">Terhi Nurmikko-Fuller</a> (Australian National University)</li>
