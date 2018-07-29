@@ -46,45 +46,45 @@ _by (surnames) alphabetic order_<br />
 <li>Notes on Contributors</li>
 <li />
 <li>Introduction to CyberResearch on the Ancient Near East and Neighboring Regions<br />
-<span style="padding-left: 4em"><em>Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico</em></span></li>
+<span style="padding-left: 12em"><em>Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico</em></span></li>
   </ul>
 
 <h4>Part 1: Archaeology</h4>
 <ul style="list-style-type: none;">
-<li> 1 A Conceptual Framework for Archaeological Data Encoding<br /></li>
-  <span style="padding-left: 4em"><em>Sveta Matskevich and Ilan Sharon</em></span>
+<li> 1 A Conceptual Framework for Archaeological Data Encoding<br />
+  <span style="padding-left: 12em"><em>Sveta Matskevich and Ilan Sharon</em></span></li>
 <li>2 Landscape Archaeology and Artificial Intelligence: the Neural Hypersurface of the Mesopotamian Urban Revolution<br />
-<span style="padding-left: 4em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
+<span style="padding-left: 12em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
   </ul>
   
 <h4>Part 2: Part 2: Objects</h4>
 <ul style="list-style-type: none;">
 <li> 3 Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals<br />
-  <span style="padding-left: 4em"><em>Alessandro di Ludovico</em></span></li>
+  <span style="padding-left: 12em"><em>Alessandro di Ludovico</em></span></li>
 <li>4 A Quantitative Method for the Creation of Typologies for Qualitatively Described Objects<br />
-  <span style="padding-left: 4em"><em>Shannon Martino and Matthew Martino</em></span></li>
+  <span style="padding-left: 12em"><em>Shannon Martino and Matthew Martino</em></span></li>
   </ul>
   
 <h4>Part 3:Texts</h4>
 <ul style="list-style-type: none;">
 <li> 5 A Qualitative Approach Using Digital Analyses for the Study of Action in Narrative Texts:  <span style="font-variant: small-caps;">KTU</span> 1.1-6 from the Scribe ʾIlimilku of Ugarit as a Case Study<br />
-  <span style="padding-left: 4em"><em>Vanessa Bigot Juloux</em></span></li> 
+  <span style="padding-left: 12em"><em>Vanessa Bigot Juloux</em></span></li> 
 <li>6 Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora<br />
-  <span style="padding-left: 4em"><em>Émilie Pagé-Perron </em></span></li>
+  <span style="padding-left: 12em"><em>Émilie Pagé-Perron </em></span></li>
  <li>7 Semantic Domains in Akkadian Texts<br />
- <span style="padding-left: 4em"><em>Saana Svärd, Heidi Jauhiainen, Aleksi Sahala, and Krister Lindén </em></span></li>
+ <span style="padding-left: 12em"><em>Saana Svärd, Heidi Jauhiainen, Aleksi Sahala, and Krister Lindén </em></span></li>
  <li>8 Using Quantitative Methods for Measuring Inter-Textual Relations in Cuneiform<br />
-   <span style="padding-left: 4em"><em>M. Willis Monroe</em></span></li>
+   <span style="padding-left: 12em"><em>M. Willis Monroe</em></span></li>
   </ul> 
   
 <h4>Part 4: Online Publishing, Digital Archiving, and Preservation</h4>
 <ul style="list-style-type: none;">
 <li>9 On the Problem of the Epigraphic Interoperability of Digitized Texts of the Mediterranean and Near Eastern Regions in First Millennium <span style="font-variant: small-caps;">BCE</span><br />
-  <span style="padding-left: 4em"><em>Doğu Kaan Eraslan</em></span></li>
+  <span style="padding-left: 12em"><em>Doğu Kaan Eraslan</em></span></li>
 <li>10 Digital Philology in the Ras Shamra Tablet Inventory Project: Text Curation through Computational Intelligence<br />
-  <span style="padding-left: 4em"><em>Miller C. Prosser</em></span></li>
+  <span style="padding-left: 12em"><em>Miller C. Prosser</em></span></li>
 <li>11 Publishing Sumerian Literature on the Semantic Web<br />
-  <span style="padding-left: 4em"><em>Terhi Nurmikko-Fuller</em></span></li>
+  <span style="padding-left: 12em"><em>Terhi Nurmikko-Fuller</em></span></li>
 </ul>  
 
 <ul style="list-style-type: none;">
