@@ -12,7 +12,7 @@ layout: default
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapienza University)</li>
 </ul>
 
-<h3 style="color: black"><a name="authors">Authors</a></h3>
+<h3><a name="authors" style="color: black">Authors</a></h3>
 _by (surnames) alphabetic order_<br />
 <ul style="list-style-type: none;">
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
@@ -34,7 +34,7 @@ _by (surnames) alphabetic order_<br />
   
   </ul>
   
-<h3 style="color: black"><a name="table-content">Table of contents</a></h3> 
+<h3><a name="table-content" style="color: black">Table of contents</a></h3> 
 <ul style="list-style-type: none;">
 <li>Acknowledgments</li>
 <li>Editors’ Note</li>
@@ -97,5 +97,5 @@ _by (surnames) alphabetic order_<br />
 </ul>
  
 
-<h3 style="color: black"><a name="readership">Readership</a></h3> 
+<h3><a name="readership" style="color: black">Readership</a></h3> 
   
