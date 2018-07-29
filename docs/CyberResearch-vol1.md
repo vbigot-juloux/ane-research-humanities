@@ -57,7 +57,7 @@ _by (surnames) alphabetic order_<br />
 <span style="padding-left: 12em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
   </ul>
   
-<h4>Part 2: Part 2: Objects</h4>
+<h4>Part 2: Objects</h4>
 <ul style="list-style-type: none;">
 <li> 3 Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals<br />
   <span style="padding-left: 12em"><em>Alessandro di Ludovico</em></span></li>
