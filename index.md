@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: home
+---
 
-You can use the [editor on GitHub](https://github.com/vbigot-juloux/ane-research-humanities.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Scientific Publishing on the Ancient Near East and Neighboring Regions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### On Digital Practices, including Computer Sciences
 
-### Markdown
+#### <span style="color: #C11A31">&#10143;</span> <span style="font-weight:600; font-size: 13px;" >“CyberResearch on the Ancient Near East and Neighboring Regions. [subtitle] Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico</span>
+_CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation._[Read more]()... 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### <span style="color: #C11A31">&#10143;</span> <span style="font-weight:600; font-size: 13px;" >Preliminary entitled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). [subtitle] Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Terhi Nurmikko Fuller, and Sveta Matskevich</span>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### On the Violence
 
-- Bulleted
-- List
+#### <span style="color: #C11A31">&#10143;</span> <span style="font-weight:600; font-size: 13px;" >Preliminary entitled: “The use of violence in the ancient Near East and neighboring regions: case studies on texts, images and archaeology” co-editors, Vanessa Bigot Juloux and Leann Pace</span>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vbigot-juloux/ane-research-humanities.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
