@@ -5,7 +5,7 @@ layout: default
 
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2>
 Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill, Digital Bible Studies 2. 2018, 460 +  XXVIII.<br /><br />
-<span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
+<span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
 
 <h3>Overview</h3>
 <p><a href="../assets/CyberResearch_FrontCover.png" target="_blank"><img src="../assets/CyberResearch_FrontCover.png" style="float: left; overflow: auto; width:25%; padding-right: 10px; padding-bottom: 10px; border:0; -webkit-box-shadow: 0 0 0;"/></a>CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation. 
@@ -16,7 +16,7 @@ Eleven chapters present a rich array of material, spanning the fifth through the
 <img src="../assets/baseline_add_shopping_cart_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/> Order on <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (Ebook in open access and hardback).
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
-<h3>Co-editors</h3>
+<h3><a name="eds" style="color: black">Co-editors</a></h3>
 <ul style="list-style-type: none;">
 <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> is a PhD candidate at the École Pratique des Hautes Etudes and Paris Sciences et Lettres. She has recently developed open-access guidelines for analyzing actions in TEI-XML (<a href="https://zenodo.org/record/1202468" target="_blank">DOI 10.5281/zenodo.1202468</a>) and is currently co-editing a volume on violence in ancient cultures.</li>
 <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell</a>, Ph.D. (2008), Harvard University, is Associate Professor of Art History at St. John’s University (New York). She has published computational and digital research in <em>the American Journal of Archaeology, Cambridge Archaeological Journal, and Journal of Archaeological Science</em>.</li>
