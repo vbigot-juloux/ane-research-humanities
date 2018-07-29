@@ -4,7 +4,7 @@ layout: default
 ---
 
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2>
-<span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#authors">Authors</a> | Table of contents | Readership
+<span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
 <h3>Co-editors</h3>
 <ul style="list-style-type: none;">
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
@@ -12,7 +12,7 @@ layout: default
 <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapienza University)</li>
 </ul>
 
-<h3><a name="Authors">Authors</a></h3>
+<h3><a name="authors">Authors</a></h3>
 _by (surnames) alphabetic order_<br />
 <ul style="list-style-type: none;">
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
@@ -34,7 +34,7 @@ _by (surnames) alphabetic order_<br />
   
   </ul>
   
-<h3>Table of contents</h3> 
+<h3><a name="table-content">Table of contents</a></h3> 
 <ul style="list-style-type: none;">
 <li>Acknowledgments</li>
 <li>Editors’ Note</li>
@@ -98,5 +98,5 @@ _by (surnames) alphabetic order_<br />
 </ul>
  
 
-<h3>Readership</h3> 
+<h3><a name="readership">Readership</a></h3> 
   
