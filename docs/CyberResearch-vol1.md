@@ -11,7 +11,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <p>CyberResearch on the Ancient Near East and Neighboring Regions provides case studies on archaeology, objects, cuneiform texts, and online publishing, digital archiving, and preservation. 
 Eleven chapters present a rich array of material, spanning the fifth through the first millennium BCE, from Anatolia, the Levant, Mesopotamia, and Iran. Customized cyber- and general glossaries support readers who lack either a technical background or familiarity with the ancient cultures. Edited by Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico, this volume is dedicated to broadening the understanding and accessibility of digital humanities tools, methodologies, and results to Ancient Near Eastern Studies. Ultimately, this book provides a model for introducing cyber-studies to the mainstream of humanities research.</p> 
 <br />
-Order the volume on <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (Ebook in open access and hardback).
+<img src="../assets/baseline_add_shopping_cart_black_18dp.png"/> Order on <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (Ebook in open access and hardback).
 
 <h3>Co-editors</h3>
 <ul style="list-style-type: none;">
