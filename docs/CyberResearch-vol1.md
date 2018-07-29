@@ -18,7 +18,7 @@ layout: default
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2>
 Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill, Digital Bible Studies 2. 2018, 460 +  XXVIII.<br />
 
-<span style="color:#b30000; font-size: 14px all: unset">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
+<span style="color:#b30000; font-size: 14px; all: unset">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
 
 
 <h3>Overview</h3>
