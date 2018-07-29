@@ -15,24 +15,24 @@ layout: default
 <h3><a name="Authors">Authors</a></h3>
 _by (surnames) alphabetic order_<br />
 <ul style="list-style-type: none;">
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Paolo Massimo Buscema</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Doğu Kaan Eraslan</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Heidi Jauhiainen</a> | abstract | bio</li>
-   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Alessandro di Ludovico</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Krister Lindén</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Matthew Martino</a> | abstract | bio</li>
-   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Shannon Martino</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Giulia Massini</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Sveta Matskevich</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">M. Willis Monroe</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Terhi Nurmikko-Fuller</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Émilie Pagé-Perron</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Miller C. Prosser</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Ilan Sharon</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Marco Ramazzotti</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Aleksi Sahala</a> | abstract | bio</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Saana Svärd</a> | abstract | bio</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Paolo Massimo Buscema</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Doğu Kaan Eraslan</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Heidi Jauhiainen</a></li>
+   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Alessandro di Ludovico</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Krister Lindén</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Matthew Martino</a></li>
+   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Shannon Martino</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Giulia Massini</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Sveta Matskevich</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">M. Willis Monroe</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Terhi Nurmikko-Fuller</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Émilie Pagé-Perron</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Miller C. Prosser</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Ilan Sharon</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Marco Ramazzotti</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Aleksi Sahala</a></li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="" target="_blank">Saana Svärd</a></li>
   
   </ul>
   
