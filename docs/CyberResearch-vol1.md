@@ -7,9 +7,9 @@ layout: default
 <span style="color:#b30000; font-size: 14px">&#9758;</span> <a href="#authors">Authors</a> | Table of contents | Readership
 <h3>Co-editors</h3>
 <ul style="list-style-type: none;">
-<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux (EPHE-PSL)</a></li>
-<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell (St Johns University)</a></li>
-<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico (Sapienza University)</a></li>
+<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
+<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell</a> (St Johns University)</li>
+<li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapienza University)</li>
 </ul>
 
 <h3><a name="Authors">Authors</a></h3>
@@ -47,7 +47,7 @@ _by (surnames) alphabetic order_<br />
 <span style="padding-left: 1em"><em>Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico</em></span></li>
   </ul>
 
-<h4>Part 1: Archaeology</h4>
+<h4 style="color:#b30000;">Part 1: Archaeology</h4>
 <ul style="list-style-type: none;">
 <li> 1 A Conceptual Framework for Archaeological Data Encoding<br />
   <span style="padding-left: 1em"><em>Sveta Matskevich and Ilan Sharon</em></span></li>
@@ -55,7 +55,7 @@ _by (surnames) alphabetic order_<br />
 <span style="padding-left: 1em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
   </ul>
   
-<h4>Part 2: Objects</h4>
+<h4 style="color:#b30000;">Part 2: Objects</h4>
 <ul style="list-style-type: none;">
 <li> 3 Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals<br />
   <span style="padding-left: 1em"><em>Alessandro di Ludovico</em></span></li>
@@ -63,7 +63,7 @@ _by (surnames) alphabetic order_<br />
   <span style="padding-left: 1em"><em>Shannon Martino and Matthew Martino</em></span></li>
   </ul>
   
-<h4>Part 3: Texts</h4>
+<h4 style="color:#b30000;">Part 3: Texts</h4>
 <ul style="list-style-type: none;">
 <li> 5 A Qualitative Approach Using Digital Analyses for the Study of Action in Narrative Texts:  <span style="font-variant: small-caps;">KTU</span> 1.1-6 from the Scribe ʾIlimilku of Ugarit as a Case Study<br />
   <span style="padding-left: 1em"><em>Vanessa Bigot Juloux</em></span></li> 
@@ -75,7 +75,7 @@ _by (surnames) alphabetic order_<br />
    <span style="padding-left: 1em"><em>M. Willis Monroe</em></span></li>
   </ul> 
   
-<h4>Part 4: Online Publishing, Digital Archiving, and Preservation</h4>
+<h4 style="color:#b30000;">Part 4: Online Publishing, Digital Archiving, and Preservation</h4>
 <ul style="list-style-type: none;">
 <li>9 On the Problem of the Epigraphic Interoperability of Digitized Texts of the Mediterranean and Near Eastern Regions in First Millennium <span style="font-variant: small-caps;">BCE</span><br />
   <span style="padding-left: 1em"><em>Doğu Kaan Eraslan</em></span></li>
