@@ -5,7 +5,7 @@ title: home
 
 **Scientific Publishing on the Ancient Near East and Neighboring Regions**
 
-<hr width="75%"/>
+<hr />
 
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Digital Practices, including Computer Sciences</h2>
 <ul style="list-style-type: none;">
