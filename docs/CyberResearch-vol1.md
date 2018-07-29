@@ -2,7 +2,17 @@
 title: CyberResearch vol.1
 layout: default
 ---
-
+<div class="social">
+  <span class="twitter">
+  <!--<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
+    <a href="http://twitter.com/share" class="twitter-share-button" data-url="https://vbigot-juloux.github.io/ane-research-humanities//docs/CyberResearch-vol1">Tweet</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  </span>
+  <span class="Facebook">
+<iframe src="https://www.facebook.com/plugins/like.php?href=https://vbigot-juloux.github.io/ane-research-humanities//docs/CyberResearch-vol1&amp;show_faces=false&amp;layout=button_count" scrolling="no" frameborder="0" style="height: 20px; width: 100px; margin-left: -40px" allowTransparency="true"></iframe>
+</span>
+ </div>
+ 
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2>
 Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill, Digital Bible Studies 2. 2018, 460 +  XXVIII.<br />
 
@@ -115,13 +125,4 @@ _by (surnames) alphabetic order_<br />
 <h3><a name="readership" style="color: black">Readership</a></h3>
 <p style="text-align: justify;">This volume will interest scholars and students of the ancient Near East as well as digital humanities researchers across disciplines.</p>
 
-<div class="social">
-  <span class="twitter">
-  <!--<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
-    <a href="http://twitter.com/share" class="twitter-share-button" data-url="https://vbigot-juloux.github.io/ane-research-humanities//docs/CyberResearch-vol1">Tweet</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-  </span>
-  <span class="Facebook">
-<iframe src="https://www.facebook.com/plugins/like.php?href=https://vbigot-juloux.github.io/ane-research-humanities//docs/CyberResearch-vol1&amp;show_faces=false&amp;layout=button_count" scrolling="no" frameborder="0" style="height: 20px; width: 100px; margin-left: -40px" allowTransparency="true"></iframe>
-</span>
- </div>
+
