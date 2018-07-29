@@ -3,7 +3,7 @@ title: CyberResearch vol.1
 layout: default
 ---
 
-<h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2
+<h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2>
 
 ### ![sharp_group](assets/images/sharp_group_black_18dp.png) Co-editors
 <ul style="list-style-type: none;">
