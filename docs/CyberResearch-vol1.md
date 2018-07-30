@@ -88,7 +88,7 @@ _by (surnames) alphabetic order_<br />
   </ul>
   
 <h4 style="color:#b30000; font-size: 12px">Part 2: Objects</h4>
-<ul style="list-style-type: ">
+<ul style="list-style-type: none ">
 <li> <a href="CyberResearch-vol1-abstracts.html#chapt3">3 Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals</a><br />
   <span style="padding-left: 1em"><em>Alessandro di Ludovico</em></span></li>
 <li><a href="CyberResearch-vol1-abstracts.html#chapt4">4 A Quantitative Method for the Creation of Typologies for Qualitatively Described Objects</a><br />
@@ -96,7 +96,7 @@ _by (surnames) alphabetic order_<br />
   </ul>
   
 <h4 style="color:#b30000; font-size: 12px">Part 3: Texts</h4>
-<ul style="list-style-type: ">
+<ul style="list-style-type: none ">
 <li> <a href="CyberResearch-vol1-abstracts.html#chapt5">5 A Qualitative Approach Using Digital Analyses for the Study of Action in Narrative Texts:  <span style="font-variant: small-caps;">KTU</span> 1.1-6 from the Scribe ʾIlimilku of Ugarit as a Case Study</a><br />
   <span style="padding-left: 1em"><em>Vanessa Bigot Juloux</em></span></li> 
 <li>6 Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora<br />
@@ -108,7 +108,7 @@ _by (surnames) alphabetic order_<br />
   </ul> 
   
 <h4 style="color:#b30000; font-size: 12px">Part 4: Online Publishing, Digital Archiving, and Preservation</h4>
-<ul style="list-style-type: ">
+<ul style="list-style-type: none ">
 <li>9 On the Problem of the Epigraphic Interoperability of Digitized Texts of the Mediterranean and Near Eastern Regions in First Millennium <span style="font-variant: small-caps;">BCE</span><br />
   <span style="padding-left: 1em"><em>Doğu Kaan Eraslan</em></span></li>
 <li>10 Digital Philology in the Ras Shamra Tablet Inventory Project: Text Curation through Computational Intelligence<br />
