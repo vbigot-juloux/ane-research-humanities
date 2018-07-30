@@ -30,6 +30,6 @@ technical background or familiarity with the ancient cultures.</em> <a href="doc
  <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “The use of violence in the ancient Near East and neighboring regions: case studies on texts, images and archaeology” co-editors, Vanessa Bigot Juloux and Leann Pace.</li>
   </ul>
 
-Interested in submitting a paper to <a href="">CyberResearch vol.3</a> or to <a href="">the Use of Violence vol. 2</a>?  
+Interested in submitting a paper to <a href="mailto:vanessa.bigot-juloux@ephe.psl.eu?subject=CyberResearch vol. 3 submission">CyberResearch vol.3</a> or to <a href="mailto:vanessa.bigot-juloux@ephe.psl.eu?subject=Use of Violence vol. 2 submission">the Use of Violence vol. 2</a>?  
 
 
