@@ -74,7 +74,7 @@ _by (surnames) alphabetic order_<br />
 
 <h4 style="color:#b30000; font-size: 12px">Part 1: Archaeology</h4>
 <ul style="list-style-type: none;">
-<li> <a href="CyberResearch-vol1-abstracts.html#chapt1" name="chapt1">1 A Conceptual Framework for Archaeological Data Encoding</a><br />
+<li> <a href="CyberResearch-vol1-abstracts.html#chapt1" name="chapt1" style="border:0; -webkit-box-shadow: 0 0 0;">1 A Conceptual Framework for Archaeological Data Encoding</a><br />
   <span style="padding-left: 1em"><em>Sveta Matskevich and Ilan Sharon</em></span></li>
 <li><a href="CyberResearch-vol1-abstracts.html#chapt2">2 Landscape Archaeology and Artificial Intelligence: the Neural Hypersurface of the Mesopotamian Urban Revolution</a><br />
 <span style="padding-left: 1em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
