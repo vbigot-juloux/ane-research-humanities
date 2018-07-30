@@ -10,7 +10,7 @@ title: home
 **Scientific Publishing on the Ancient Near East and Neighboring Regions**
 <br />
 <br />
-A strong team of co-editors: <br />
+A strong team of co-editors with combined skills in particular to domains of research related to ANE, including Anthropology, Archaeology, Art History, Philology and digital practices: <br />
 <a href="" target="_blank">V. Bigot Juloux</a> | <a href="" target="_blank">A. R. Gansell</a> | <a href="" target="_blank">A. di Ludovico</a> | <a href="" target="_blank">T. Nurmikko-Fuller</a> | <a href="" target="_blank">S. Matskevich</a> | <a href="" target="_blank">L. Pace</a>
 
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Digital Practices, including Computer Sciences</h2>
