@@ -9,7 +9,9 @@ title: home
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />       
 **Scientific Publishing on the Ancient Near East and Neighboring Regions**
 <br />
-       A strong team of co-editors: <a href="" target="_blank">V. Bigot Juloux</a> | <a href="" target="_blank">A. R. Gansell</a> | <a href="" target="_blank">A. di Ludovico</a> | <a href="" target="_blank">T. Nurmikko-Fuller</a> | <a href="" target="_blank">S. Matskevich</a> | <a href="" target="_blank">L. Pace</a>
+<br />
+A strong team of co-editors: <br />
+<a href="" target="_blank">V. Bigot Juloux</a> | <a href="" target="_blank">A. R. Gansell</a> | <a href="" target="_blank">A. di Ludovico</a> | <a href="" target="_blank">T. Nurmikko-Fuller</a> | <a href="" target="_blank">S. Matskevich</a> | <a href="" target="_blank">L. Pace</a>
 
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Digital Practices, including Computer Sciences</h2>
 <ul style="list-style-type: none;">
