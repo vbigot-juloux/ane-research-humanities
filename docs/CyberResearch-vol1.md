@@ -132,7 +132,7 @@ _by (surnames) alphabetic order_<br />
 
 <h3><a name="panels" style="color: black">Panels</a></h3>
 <ul>
-	<li>At <a href="http://ancient-worlds-symposium.eu/docs/program#panel" target="_blank">ASOR/EPHE-PSL European Symposium</a> in PAris, Sept. 6, 2018, 3:OO-4:30 PM (GMT+1). Presiding: Claire Clivaz (Swiss Institute of Bioinformatics). Panelists: Peter Stokes (EPHE-PSL) and Massimo Maiocchi (Università Ca’ Foscari Venezia). Respondent Vanessa Bigot Juloux.</li>
+	<li>At <a href="http://ancient-worlds-symposium.eu/docs/program#panel" target="_blank">ASOR/EPHE-PSL European Symposium</a> in Paris, Sept. 6, 2018, 3:OO-4:30 PM (GMT+1). Presiding: Claire Clivaz (Swiss Institute of Bioinformatics). Panelists: Peter Stokes (EPHE-PSL) and Massimo Maiocchi (Università Ca’ Foscari Venezia). Respondent Vanessa Bigot Juloux (EPHE-PSL).</li>
 <li>At SBL in Denver, <a href="https://www.sbl-site.org/meetings/Congresses_ProgramBook.aspx?MeetingId=33" target="_blank"><em>Panel on CyberResearch on the Ancient Near East and Neighboring Regions (DBS 2)</em></a>,  Nov. 18, 2018, 9:00 to 10:30 AM. Presiding: Paul Dilley (University of Iowa). Panelists: Tiffany Earley (University of Central Florida), Helen Dixon (Wofford College), Randall Younker (Andrews University), David Hamidovic (Université de Lausanne). Respondents: Vanessa Bigot Juloux (EPHE-PSL), Amy Rebecca Gansell (Saint John's University).</li>
 	</ul>
 
