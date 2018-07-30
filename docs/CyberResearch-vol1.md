@@ -133,6 +133,9 @@ _by (surnames) alphabetic order_<br />
 <h3><a name="readership" style="color: black">Readership</a></h3>
 <p style="text-align: justify;">This volume will interest scholars and students of the ancient Near East as well as digital humanities researchers across disciplines. <a href="#readership2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
 
+<h3>On Open access</h3>
+<p style="text-align: justify">We ask that you please use the link on the <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (or <a href="" target="_blank">oapen.org</a> and <a href="" target="_blank">opendition.org</a>)so that the number of downloads are tracked, and therefore we demonstrate the value of OA</p>
+
 <h3><a name="panels" style="color: black">Panels</a></h3>
 <ul style="text-align: justify">
 	<li>At <a href="http://ancient-worlds-symposium.eu/docs/program#panel" target="_blank">ASOR/EPHE-PSL European Symposium</a> in Paris, Sept. 6, 2018, 3:OO-4:30 PM (GMT+1). Presiding: Claire Clivaz (Swiss Institute of Bioinformatics). Panelists: Peter Stokes (EPHE-PSL) and Massimo Maiocchi (Università Ca’ Foscari Venezia). Respondent Vanessa Bigot Juloux (EPHE-PSL).</li>
