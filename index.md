@@ -6,7 +6,7 @@ title: home
 **Scientific Publishing on the Ancient Near East and Neighboring Regions**
 
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
-<span style="background-color:#ffa31a; width: auto; padding: 3px 2px 3px 2px; color:#b30000;">
+<span style="background-color:#ffa31a; width: auto; padding: 4px 2px 5px 2px; color:white; ">
        <img src="assets/outline_message_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/>
       <a href="" target="_blank" style="color:white; font-weight: 600; text-decoration: underline">Fundraising campaign</a> in order to cover the copy-editing costs of the first volume on CyberResearch. </span>
        <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
