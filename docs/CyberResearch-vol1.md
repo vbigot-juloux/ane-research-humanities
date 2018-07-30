@@ -24,7 +24,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
   
 
 <span style="border: 0">
-	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a>
+	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a> | <a href="">Panels</a> | <a href="">On Open Access</a>
 </span>
 
 <h3>Overview</h3>
