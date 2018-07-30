@@ -14,7 +14,7 @@ title: home
 <ul style="list-style-type: none;">
        <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> “CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico, 2018:<br/>
        <em>Eleven chapters present a rich array of material, spanning the fifth through the first millennium BCE, from Anatolia, the Levant, Mesopotamia, and Iran. Customized cyber- and general glossaries support readers who lack either a
-technical background or familiarity with the ancient cultures.</em> <a href="">Read more...</a>
+technical background or familiarity with the ancient cultures.</em> <a href="docs/CyberResearch-vol1.html">Read more...</a>
        </li>
 
 <li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Terhi Nurmikko-Fuller, and Sveta Matskevich.
