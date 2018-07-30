@@ -138,7 +138,7 @@ _by (surnames) alphabetic order_<br />
 
 <h3><a name="OA" style="color: black">On Open access</a></h3>
 <p style="text-align: justify">You can read and download CyberResearch on the Ancient Near East and Neighboring Regions for free here. We ask that you please use the link on the <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (or <a href="" target="_blank">oapen.org</a> and <a href="" target="_blank">opendition.org</a>) so that the number of downloads are tracked, and therefore we demonstrate the value of OA. <br />
-<img src="../assets/outline_bookmark_border_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 3%; margin-top: -1px"/>Please bookmark this access page for future reference (the link is stable). <a href="#OA2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
+<img src="../assets/outline_bookmark_border_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2.5%; margin-top: -4px; margin-left: -3px"/>Please bookmark this access page for future reference (the link is stable). <a href="#OA2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
 
 
 <h3><a name="panels" style="color: black">Panels</a></h3>
