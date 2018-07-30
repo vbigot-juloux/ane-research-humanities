@@ -29,6 +29,20 @@ h3 {font-size: 13px; font-weight: 600; /*font-variant: small-caps; font-stretch:
 
 .social iframe {	vertical-align: middle;}
 
+#fund-home {-moz-box-shadow: 0px 5px 4px 0px #f8a102; 
+-webkit-box-shadow: 0px 5px 4px 0px #f8a102;
+-o-box-shadow: 0px 5px 4px 0px #f8a102;
+box-shadow: 0px 5px 4px 0px #f8a102;
+filter:progid:DXImageTransform.Microsoft.Shadow(color=#f8a102, Direction=180, Strength=4);
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px; 
+background-color:#ffa31a; 
+width: auto; 
+padding: 6px 10px 6px 10px; 
+color:white; 
+text-align: center;}
+
 img[alt=asor] { width: 10%; height: 10%; border:0; -webkit-box-shadow: 0 0 0; margin-top: -20px}
 img[alt=psl] { width: 20%; height: 20%; border:0; -webkit-box-shadow: 0 0 0; margin-left: 40px; margin-top: -20px}
 img[alt=ephe] { width: 40%; height: 40%; border:0; -webkit-box-shadow: 0 0 0; margin-left: 40px; margin-top: -20px}
