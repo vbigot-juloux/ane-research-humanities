@@ -23,7 +23,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
 <span style="border: 0">
-	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds" name="eds2">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#panels" name="panels2">Panels</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a> | <a href="#OA" name="OA2">On Open Access</a>
+	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds" name="eds2">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a> | <a href="#OA" name="OA2">On Open Access</a> | <a href="#panels" name="panels2">Panels</a> 
 </span>
 
 <h3>Overview</h3>
@@ -133,6 +133,12 @@ _by (surnames) alphabetic order_<br />
 <h3><a name="readership" style="color: black">Readership</a></h3>
 <p style="text-align: justify;">This volume will interest scholars and students of the ancient Near East as well as digital humanities researchers across disciplines. <a href="#readership2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
 
+<h3><a name="acknowledgment" style="color: black">Acknowledgment</a></h3>
+<p style="text-align: justify;">We would like to thank Claire Clivaz and David Hamidović, our series (Digital Biblical Studies) editors at Brill, for their support and assistance preparing this volume for Open Access. We would also like to thank Claire Clivaz, David Hamidović once again, and Brill Publishers for supporting this volume through the nomination and selection process for Knowledge Unlatched. Finally, we are grateful to Knowledge Unlatched for taking interest in and ultimately selecting this volume for the honor of Open Access, which we hope will benefit researchers and students worldwide.  For more information about Knowledge Unlatched, see <a href="http://www.knowledgeunlatched.org" target="_blank">http://www.knowledgeunlatched.org</a>. <a href="#acknowledgment2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
+
+<h3><a name="OA" style="color: black">On Open access</a></h3>
+<p style="text-align: justify">We ask that you please use the link on the <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (or <a href="" target="_blank">oapen.org</a> and <a href="" target="_blank">opendition.org</a>) so that the number of downloads are tracked, and therefore we demonstrate the value of OA. <a href="#OA2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
+
 <h3><a name="panels" style="color: black">Panels</a></h3>
 <ul style="text-align: justify">
 	<li>At <a href="http://ancient-worlds-symposium.eu/docs/program#panel" target="_blank">ASOR/EPHE-PSL European Symposium</a> in Paris, Sept. 6, 2018, 3:OO-4:30 PM (GMT+1). Presiding: Claire Clivaz (Swiss Institute of Bioinformatics). Panelists: Peter Stokes (EPHE-PSL) and Massimo Maiocchi (Università Ca’ Foscari Venezia). Respondent Vanessa Bigot Juloux (EPHE-PSL).</li>
@@ -140,8 +146,4 @@ _by (surnames) alphabetic order_<br />
 <li style="list-style-type: none;"><a href="#panels2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
 	</ul>
 
-<h3><a name="acknowledgment" style="color: black">Acknowledgment</a></h3>
-<p style="text-align: justify;">We would like to thank Claire Clivaz and David Hamidović, our series (Digital Biblical Studies) editors at Brill, for their support and assistance preparing this volume for Open Access. We would also like to thank Claire Clivaz, David Hamidović once again, and Brill Publishers for supporting this volume through the nomination and selection process for Knowledge Unlatched. Finally, we are grateful to Knowledge Unlatched for taking interest in and ultimately selecting this volume for the honor of Open Access, which we hope will benefit researchers and students worldwide.  For more information about Knowledge Unlatched, see <a href="http://www.knowledgeunlatched.org" target="_blank">http://www.knowledgeunlatched.org</a>. <a href="#acknowledgment2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
 
-<h3><a name="OA" style="color: black">On Open access</a></h3>
-<p style="text-align: justify">We ask that you please use the link on the <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (or <a href="" target="_blank">oapen.org</a> and <a href="" target="_blank">opendition.org</a>) so that the number of downloads are tracked, and therefore we demonstrate the value of OA. <a href="#OA2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
