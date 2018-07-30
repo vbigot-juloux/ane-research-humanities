@@ -23,7 +23,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
 <span style="border: 0">
-	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#panels" name="panels2">Panels</a> | <a href="">On Open Access</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a>
+	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds" name="eds2">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#panels" name="panels2">Panels</a> | <a href="">On Open Access</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a>
 </span>
 
 <h3>Overview</h3>
@@ -41,6 +41,7 @@ Eleven chapters present a rich array of material, spanning the fifth through the
 <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="http://vanessajuloux.xyz" target="_blank">Vanessa Bigot Juloux</a> is a Ph.D. candidate at the École Pratique des Hautes Etudes and Paris Sciences et Lettres. She has recently developed open-access guidelines for analyzing actions in TEI-XML (<a href="https://zenodo.org/record/1202468" target="_blank">DOI 10.5281/zenodo.1202468</a>) and is currently co-editing a volume on violence in ancient cultures.</li>
 <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Amy Rebecca Gansell</a>, Ph.D. (2008), Harvard University, is Associate Professor of Art History at St. John’s University (New York). She has published computational and digital research in <em>the American Journal of Archaeology, Cambridge Archaeological Journal, and Journal of Archaeological Science</em>.</li>
 <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a>, Ph.D. (2007), Sapienza University, Rome, is a research fellow in Near Eastern Archaeology at the same university. His research deals with perception and communication in the ancient Near East; he is co-director of “Atlante del Vicino Oriente Antico”.</li>
+<li><a href="eds2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></li> 	
 </ul>
 
 <h3><a name="authors" style="color: black">Authors</a></h3>
@@ -61,7 +62,8 @@ _by (surnames) alphabetic order_<br />
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://huji.academia.edu/IlanSharon" target="_blank">Ilan Sharon</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/MarcoRamazzotti" target="_blank">Marco Ramazzotti</a> (Sapieneza University)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/AleksiSahala" target="_blank">Aleksi Sahala</a> (University of Helsinki)</li>
-  <li style="display: inline-block"><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/SaanaSvärd" target="_blank">Saana Svärd</a> (University of Helsinki) <a href="authors2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a> </li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/SaanaSvärd" target="_blank">Saana Svärd</a> (University of Helsinki)</li>
+<li><a href="authors2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></li> 	  
   
  </ul>
   
@@ -123,8 +125,8 @@ _by (surnames) alphabetic order_<br />
 <li>Index of Authors in Bibliographical References </li>
 <li>Index of Digital Terms </li>
 <li>Index of History and Geography </li>
-<li>Index of Literature <a href="#table-content2" style="text-decoration: none"></li>
-<li><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></li>
+<li>Index of Literature</li>
+<li><a href="#table-content2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></li>
 </ul>
  
 
@@ -134,7 +136,8 @@ _by (surnames) alphabetic order_<br />
 <h3><a name="panels" style="color: black">Panels</a></h3>
 <ul style="text-align: justify">
 	<li>At <a href="http://ancient-worlds-symposium.eu/docs/program#panel" target="_blank">ASOR/EPHE-PSL European Symposium</a> in Paris, Sept. 6, 2018, 3:OO-4:30 PM (GMT+1). Presiding: Claire Clivaz (Swiss Institute of Bioinformatics). Panelists: Peter Stokes (EPHE-PSL) and Massimo Maiocchi (Università Ca’ Foscari Venezia). Respondent Vanessa Bigot Juloux (EPHE-PSL).</li>
-<li>At SBL in Denver, <a href="https://www.sbl-site.org/meetings/Congresses_ProgramBook.aspx?MeetingId=33" target="_blank"><em>Panel on CyberResearch on the Ancient Near East and Neighboring Regions (DBS 2)</em></a>,  Nov. 18, 2018, 9:00 to 10:30 AM. Presiding: Paul Dilley (University of Iowa). Panelists: Tiffany Earley (University of Central Florida), Helen Dixon (Wofford College), Randall Younker (Andrews University), David Hamidovic (Université de Lausanne). Respondents: Vanessa Bigot Juloux (EPHE-PSL), Amy Rebecca Gansell (Saint John's University). <a href="#panels2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></li>
+<li>At SBL in Denver, <a href="https://www.sbl-site.org/meetings/Congresses_ProgramBook.aspx?MeetingId=33" target="_blank"><em>Panel on CyberResearch on the Ancient Near East and Neighboring Regions (DBS 2)</em></a>,  Nov. 18, 2018, 9:00 to 10:30 AM. Presiding: Paul Dilley (University of Iowa). Panelists: Tiffany Earley (University of Central Florida), Helen Dixon (Wofford College), Randall Younker (Andrews University), David Hamidovic (Université de Lausanne). Respondents: Vanessa Bigot Juloux (EPHE-PSL), Amy Rebecca Gansell (Saint John's University).</li>
+<li style="list-style-type: none;><a href="#panels2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></li>
 	</ul>
 
 <h3><a name="acknowledgment" style="color: black">Acknowledgment</a></h3>
