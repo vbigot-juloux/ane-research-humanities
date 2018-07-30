@@ -23,7 +23,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
 <span style="border: 0">
-	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a> | <a href="">Panels</a> | <a href="">On Open Access</a>
+	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a> | <a href="">Panels</a> | <a href="">On Open Access</a> | <a href="#acknowledgment">Acknowledgment</a>
 </span>
 
 <h3>Overview</h3>
@@ -130,5 +130,7 @@ _by (surnames) alphabetic order_<br />
 
 <h3><a name="readership" style="color: black">Readership</a></h3>
 <p style="text-align: justify;">This volume will interest scholars and students of the ancient Near East as well as digital humanities researchers across disciplines.</p>
+
+<h3><a name="acknowledgment" style="color: black">Acknowledgment</a></h3>
 
 
