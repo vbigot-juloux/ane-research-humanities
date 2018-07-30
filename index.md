@@ -6,7 +6,8 @@ title: home
 **Scientific Publishing on the Ancient Near East and Neighboring Regions**
 
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
-<span style="background-color:#f2f2f2; width: auto; padding: 2px 1px 2px 1px;"><img src="assets/outline_message_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/><span style="color:#b30000;"> <a href="" target="_blank" style="color:#b30000; text-decoration: underline">Fundraising campaign</a> in order to cover the copy-editing costs of the first volume on CyberResearch. </span>
+<span style="background-color:#f2f2f2; width: auto; padding: 2px 1px 2px 1px;">
+       <img src="assets/outline_message_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/><span style="color:#b30000;"> <a href="" target="_blank" style="color:#b30000; text-decoration: underline">Fundraising campaign</a> in order to cover the copy-editing costs of the first volume on CyberResearch. </span></span>
        <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Digital Practices, including Computer Sciences</h2>
