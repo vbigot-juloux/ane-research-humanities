@@ -4,7 +4,7 @@ title: home
 ---
 <span id="fund-home">
        <!--<img src="assets/outline_message_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/>-->
-      Fundraising campaign</a>: <a href="" target="_blank" style="color:white; font-weight: 600; text-decoration: underline">help us</span> to to cover the copy-editing costs of the first volume on CyberResearch. 
+      Fundraising campaign: <a href="" target="_blank" style="color:white; font-weight: 600; text-decoration: underline">help us</a> to to cover the copy-editing costs of the first volume on CyberResearch. 
 
 <b>Scientific Publishing on the Ancient Near East and Neighboring Regions</b>
 
