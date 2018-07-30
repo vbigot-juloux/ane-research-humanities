@@ -23,7 +23,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
 <span style="border: 0">
-	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors">Authors</a> | <a href="#table-content">Table of contents</a> | <a href="#readership">Readership</a> | <a href="#panels">Panels</a> | <a href="">On Open Access</a> | <a href="#acknowledgment">Acknowledgment</a>
+	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#panels" name="panels2">Panels</a> | <a href="">On Open Access</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a>
 </span>
 
 <h3>Overview</h3>
@@ -61,7 +61,8 @@ _by (surnames) alphabetic order_<br />
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://huji.academia.edu/IlanSharon" target="_blank">Ilan Sharon</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/MarcoRamazzotti" target="_blank">Marco Ramazzotti</a> (Sapieneza University)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/AleksiSahala" target="_blank">Aleksi Sahala</a> (University of Helsinki)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/SaanaSvärd" target="_blank">Saana Svärd</a> (University of Helsinki)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/SaanaSvärd" target="_blank">Saana Svärd</a> (University of Helsinki) <a href="authors2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a> </li>
+</ul></li>
   
  </ul>
   
@@ -123,19 +124,19 @@ _by (surnames) alphabetic order_<br />
 <li>Index of Authors in Bibliographical References </li>
 <li>Index of Digital Terms </li>
 <li>Index of History and Geography </li>
-<li>Index of Literature </li>
+<li>Index of Literature <a href="#table-content2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a> </li>
 </ul>
  
 
 <h3><a name="readership" style="color: black">Readership</a></h3>
-<p style="text-align: justify;">This volume will interest scholars and students of the ancient Near East as well as digital humanities researchers across disciplines.</p>
+<p style="text-align: justify;">This volume will interest scholars and students of the ancient Near East as well as digital humanities researchers across disciplines. <a href="#readership2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
 
 <h3><a name="panels" style="color: black">Panels</a></h3>
-<ul>
+<ul style="text-align: justify">
 	<li>At <a href="http://ancient-worlds-symposium.eu/docs/program#panel" target="_blank">ASOR/EPHE-PSL European Symposium</a> in Paris, Sept. 6, 2018, 3:OO-4:30 PM (GMT+1). Presiding: Claire Clivaz (Swiss Institute of Bioinformatics). Panelists: Peter Stokes (EPHE-PSL) and Massimo Maiocchi (Università Ca’ Foscari Venezia). Respondent Vanessa Bigot Juloux (EPHE-PSL).</li>
-<li>At SBL in Denver, <a href="https://www.sbl-site.org/meetings/Congresses_ProgramBook.aspx?MeetingId=33" target="_blank"><em>Panel on CyberResearch on the Ancient Near East and Neighboring Regions (DBS 2)</em></a>,  Nov. 18, 2018, 9:00 to 10:30 AM. Presiding: Paul Dilley (University of Iowa). Panelists: Tiffany Earley (University of Central Florida), Helen Dixon (Wofford College), Randall Younker (Andrews University), David Hamidovic (Université de Lausanne). Respondents: Vanessa Bigot Juloux (EPHE-PSL), Amy Rebecca Gansell (Saint John's University).</li>
+<li>At SBL in Denver, <a href="https://www.sbl-site.org/meetings/Congresses_ProgramBook.aspx?MeetingId=33" target="_blank"><em>Panel on CyberResearch on the Ancient Near East and Neighboring Regions (DBS 2)</em></a>,  Nov. 18, 2018, 9:00 to 10:30 AM. Presiding: Paul Dilley (University of Iowa). Panelists: Tiffany Earley (University of Central Florida), Helen Dixon (Wofford College), Randall Younker (Andrews University), David Hamidovic (Université de Lausanne). Respondents: Vanessa Bigot Juloux (EPHE-PSL), Amy Rebecca Gansell (Saint John's University). <a href="#panels2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></li>
 	</ul>
 
 <h3><a name="acknowledgment" style="color: black">Acknowledgment</a></h3>
-
+<p>We would like to thank Claire Clivaz and David Hamidović, our series (Digital Biblical Studies) editors at Brill, for their support and assistance preparing this volume for Open Access. We would also like to thank Claire Clivaz, David Hamidović once again, and Brill Publishers for supporting this volume through the nomination and selection process for Knowledge Unlatched. Finally, we are grateful to Knowledge Unlatched for taking interest in and ultimately selecting this volume for the honor of Open Access, which we hope will benefit researchers and students worldwide.  For more information about Knowledge Unlatched, see <a href="http://www.knowledgeunlatched.org" target="_blank">http://www.knowledgeunlatched.org</a>. <a href="#acknowledgment2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
 
