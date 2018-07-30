@@ -72,8 +72,7 @@ _by (surnames) alphabetic order_<br />
 <li>Phonology</li>
 <li>Abbreviations</li>
 <li>List of Figures, Tables, and Appendices</li>
-<li>Notes on Contributors</li>
-<li />
+<li style="padding-bottom: 12px;">Notes on Contributors</li>
 <li>Introduction to CyberResearch on the Ancient Near East and Neighboring Regions<br />
 <span style="padding-left: 1em"><em>Vanessa Bigot Juloux, Amy Rebecca Gansell, and Alessandro di Ludovico</em></span></li>
   </ul>
@@ -118,7 +117,7 @@ _by (surnames) alphabetic order_<br />
 
 <ul style="list-style-type: none;">
 <li>Maps</li>
-<li>Toponyms Related to Ancient Settlements or Regions Mentioned in</li>
+<li style="margin-bottom: 12px;">Toponyms Related to Ancient Settlements or Regions Mentioned in</li>
 <li>Glossaries </li>
 <li>Index of Archaeology and Typology </li>
 <li>Index of Authors in Bibliographical References </li>
