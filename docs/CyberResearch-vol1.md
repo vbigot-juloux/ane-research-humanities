@@ -23,7 +23,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
 <span style="border: 0">
-	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds" name="eds2">Abstract | <a href="#eds" name="eds2">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a> | <a href="#OA" name="OA2">On Open Access</a> | <a href="#panels" name="panels2">Panels</a> 
+	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds" name="eds2">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a> | <a href="#OA" name="OA2">On Open Access</a> | <a href="#panels" name="panels2">Panels</a> 
 </span>
 
 <h3>Overview</h3>
