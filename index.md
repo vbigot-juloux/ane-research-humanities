@@ -22,21 +22,23 @@ technical background or familiarity with the ancient cultures.</em> <a href="doc
 
 <li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Terhi Nurmikko-Fuller, and Sveta Matskevich. _Forthcoming 2019_.
 </li>
-</ul>
 
 <li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “Les Actes of the European Symposium ASOR/EPHE-PSL, Paris, Sept. 4-5, 2018. Collaborative Projects among European and International Scholars for the Study of Ancient Worlds Using Digital Approaches” co-editors, Vanessa Bigot Juloux and Randall W. Younker. _Forthcoming first term 2020_.
 </li>
+
 </ul>
+
 
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On the Violence</h2>
 
 <ul style="list-style-type: none;">
  <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “The use of violence in the ancient Near East and neighboring regions: case studies on texts, images and archaeology” co-editors, Vanessa Bigot Juloux and Leann Pace. _Forthcoming 2019_.</li>
-  </ul>
-  
+
 <li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “Les Actes of the European Symposium ASOR/EPHE-PSL, Paris, Sept. 4-6, 2018. Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds” co-editors, Vanessa Bigot Juloux and Randall W. Younker. _Forthcoming first term 2020_.
 </li>
-</ul>  
+  
+</ul>
+ 
 
 Interested in submitting a paper to <a href="mailto:vanessa.bigot-juloux@ephe.psl.eu?subject=CyberResearch vol. 3 submission">CyberResearch vol.3</a> or to <a href="mailto:vanessa.bigot-juloux@ephe.psl.eu?subject=Use of Violence vol. 2 submission">the Use of Violence vol. 2</a>?  
 
