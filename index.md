@@ -32,7 +32,7 @@ technical background or familiarity with the ancient cultures.</em> <a href="doc
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Violence</h2>
 
 <ul style="list-style-type: none;">
- <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “The use of violence in the ancient Near East and neighboring regions: case studies on texts, images and archaeology” co-editors, Vanessa Bigot Juloux and Leann Pace. <em>Forthcoming 2019</em>.</li>
+ <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “The use of violence in the ancient Near East and neighboring regions: case studies on texts, images and archaeology” co-editors, Vanessa Bigot Juloux and Leann Pace. <em>Forthcoming 2019</em>.</li>
 
 <li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “Les Actes of the European Symposium ASOR/EPHE-PSL, Paris, Sept. 4-6, 2018. Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds” co-editors, Vanessa Bigot Juloux and Randall W. Younker. <em>Forthcoming first term 2020</em>.
 </li>
