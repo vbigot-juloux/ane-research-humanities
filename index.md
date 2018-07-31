@@ -29,7 +29,7 @@ technical background or familiarity with the ancient cultures.</em> <a href="doc
 </ul>
 
 
-<h2> <span style="color:orange; font-size: 18px">&#9788;</span> On the Violence</h2>
+<h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Violence</h2>
 
 <ul style="list-style-type: none;">
  <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary entitled: “The use of violence in the ancient Near East and neighboring regions: case studies on texts, images and archaeology” co-editors, Vanessa Bigot Juloux and Leann Pace. <em>Forthcoming 2019</em>.</li>
