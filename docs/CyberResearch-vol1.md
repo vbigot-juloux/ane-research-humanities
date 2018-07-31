@@ -81,39 +81,39 @@ _by (surnames) alphabetic order_<br />
 
 <h4 style="color:#b30000; font-size: 12px">Part 1: Archaeology</h4>
 <ul style="list-style-type: none; ">
-<li><a name="chapt1"></a><a href="CyberResearch-vol1-abstracts.html#chapt1">1 A Conceptual Framework for Archaeological Data Encoding</a><br />
+<li>1 <a name="chapt1"></a><a href="CyberResearch-vol1-abstracts.html#chapt1">A Conceptual Framework for Archaeological Data Encoding</a><br />
   <span style="padding-left: 1em"><em>Sveta Matskevich and Ilan Sharon</em></span></li>
-<li><a href="CyberResearch-vol1-abstracts.html#chapt2">2 Landscape Archaeology and Artificial Intelligence: the Neural Hypersurface of the Mesopotamian Urban Revolution</a><br />
+<li>2 <a href="CyberResearch-vol1-abstracts.html#chapt2">Landscape Archaeology and Artificial Intelligence: the Neural Hypersurface of the Mesopotamian Urban Revolution</a><br />
 <span style="padding-left: 1em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
   </ul>
   
 <h4 style="color:#b30000; font-size: 12px">Part 2: Objects</h4>
 <ul style="list-style-type: none ">
-<li><a href="CyberResearch-vol1-abstracts.html#chapt3">3 Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals</a><br />
+<li>3 <a href="CyberResearch-vol1-abstracts.html#chapt3">Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals</a><br />
   <span style="padding-left: 1em"><em>Alessandro di Ludovico</em></span></li>
-<li><a href="CyberResearch-vol1-abstracts.html#chapt4">4 A Quantitative Method for the Creation of Typologies for Qualitatively Described Objects</a><br />
+<li>4 <a href="CyberResearch-vol1-abstracts.html#chapt4">A Quantitative Method for the Creation of Typologies for Qualitatively Described Objects</a><br />
   <span style="padding-left: 1em"><em>Shannon Martino and Matthew Martino</em></span></li>
   </ul>
   
 <h4 style="color:#b30000; font-size: 12px">Part 3: Texts</h4>
 <ul style="list-style-type: none ">
-<li><a href="CyberResearch-vol1-abstracts.html#chapt5">5 A Qualitative Approach Using Digital Analyses for the Study of Action in Narrative Texts:  <span style="font-variant: small-caps;">KTU</span> 1.1-6 from the Scribe ʾIlimilku of Ugarit as a Case Study</a><br />
+<li>5 <a href="CyberResearch-vol1-abstracts.html#chapt5">A Qualitative Approach Using Digital Analyses for the Study of Action in Narrative Texts:  <span style="font-variant: small-caps;">KTU</span> 1.1-6 from the Scribe ʾIlimilku of Ugarit as a Case Study</a><br />
   <span style="padding-left: 1em"><em>Vanessa Bigot Juloux</em></span></li> 
-<li><a href="CyberResearch-vol1-abstracts.html#chapt6">6 Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora</a><br />
+<li>6 <a href="CyberResearch-vol1-abstracts.html#chapt6">Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora</a><br />
   <span style="padding-left: 1em"><em>Émilie Pagé-Perron </em></span></li>
-	<li><a href="CyberResearch-vol1-abstracts.html#chapt7">7 Semantic Domains in Akkadian Texts</a><br />
+<li>7 <a href="CyberResearch-vol1-abstracts.html#chapt7">Semantic Domains in Akkadian Texts</a><br />
  <span style="padding-left: 1em"><em>Saana Svärd, Heidi Jauhiainen, Aleksi Sahala, and Krister Lindén </em></span></li>
- <li><a href="CyberResearch-vol1-abstracts.html#chapt8">8 Using Quantitative Methods for Measuring Inter-Textual Relations in Cuneiform</a><br />
+ <li>8 <a href="CyberResearch-vol1-abstracts.html#chapt8">Using Quantitative Methods for Measuring Inter-Textual Relations in Cuneiform</a><br />
    <span style="padding-left: 1em"><em>M. Willis Monroe</em></span></li>
   </ul> 
   
 <h4 style="color:#b30000; font-size: 12px">Part 4: Online Publishing, Digital Archiving, and Preservation</h4>
 <ul style="list-style-type: none ">
-<li><a href="CyberResearch-vol1-abstracts.html#chapt9">9 On the Problem of the Epigraphic Interoperability of Digitized Texts of the Mediterranean and Near Eastern Regions in First Millennium <span style="font-variant: small-caps;">BCE</span></a><br />
+<li>9 <a href="CyberResearch-vol1-abstracts.html#chapt9">On the Problem of the Epigraphic Interoperability of Digitized Texts of the Mediterranean and Near Eastern Regions in First Millennium <span style="font-variant: small-caps;">BCE</span></a><br />
   <span style="padding-left: 1em"><em>Doğu Kaan Eraslan</em></span></li>
-<li><a href="CyberResearch-vol1-abstracts.html#chapt10">10 Digital Philology in the Ras Shamra Tablet Inventory Project: Text Curation through Computational Intelligence</a><br />
+<li>10 <a href="CyberResearch-vol1-abstracts.html#chapt10">Digital Philology in the Ras Shamra Tablet Inventory Project: Text Curation through Computational Intelligence</a><br />
   <span style="padding-left: 1em"><em>Miller C. Prosser</em></span></li>
-<li><a href="CyberResearch-vol1-abstracts.html#chapt11">11 Publishing Sumerian Literature on the Semantic Web</a><br />
+<li>11 <a href="CyberResearch-vol1-abstracts.html#chapt11">Publishing Sumerian Literature on the Semantic Web</a><br />
   <span style="padding-left:1em"><em>Terhi Nurmikko-Fuller</em></span></li>
 </ul>  
 
