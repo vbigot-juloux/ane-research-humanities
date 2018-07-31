@@ -23,7 +23,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
 <span style="border: 0">
-	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds" name="eds2">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a> | <a href="#OA" name="OA2">On Open Access</a> | <a href="#panels" name="panels2">Panels</a> 
+	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds" name="eds2">Abstract | <a href="#eds" name="eds2">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a> | <a href="#OA" name="OA2">On Open Access</a> | <a href="#panels" name="panels2">Panels</a> 
 </span>
 
 <h3>Overview</h3>
@@ -81,7 +81,7 @@ _by (surnames) alphabetic order_<br />
 
 <h4 style="color:#b30000; font-size: 12px">Part 1: Archaeology</h4>
 <ul style="list-style-type: none; ">
-<li> <a name="chapt1"></a><a href="CyberResearch-vol1-abstracts.html#chapt1">1 A Conceptual Framework for Archaeological Data Encoding</a><br />
+<li><a name="chapt1"></a><a href="CyberResearch-vol1-abstracts.html#chapt1">1 A Conceptual Framework for Archaeological Data Encoding</a><br />
   <span style="padding-left: 1em"><em>Sveta Matskevich and Ilan Sharon</em></span></li>
 <li><a href="CyberResearch-vol1-abstracts.html#chapt2">2 Landscape Archaeology and Artificial Intelligence: the Neural Hypersurface of the Mesopotamian Urban Revolution</a><br />
 <span style="padding-left: 1em"><em>Marco Ramazzotti, Paolo Massimo Buscema & Giulia Massini</em></span></li>
@@ -89,7 +89,7 @@ _by (surnames) alphabetic order_<br />
   
 <h4 style="color:#b30000; font-size: 12px">Part 2: Objects</h4>
 <ul style="list-style-type: none ">
-<li> <a href="CyberResearch-vol1-abstracts.html#chapt3">3 Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals</a><br />
+<li><a href="CyberResearch-vol1-abstracts.html#chapt3">3 Data Description and the Integrated Study of Ancient Near Eastern Works of Art: The Potential of Cylinder Seals</a><br />
   <span style="padding-left: 1em"><em>Alessandro di Ludovico</em></span></li>
 <li><a href="CyberResearch-vol1-abstracts.html#chapt4">4 A Quantitative Method for the Creation of Typologies for Qualitatively Described Objects</a><br />
   <span style="padding-left: 1em"><em>Shannon Martino and Matthew Martino</em></span></li>
@@ -97,23 +97,23 @@ _by (surnames) alphabetic order_<br />
   
 <h4 style="color:#b30000; font-size: 12px">Part 3: Texts</h4>
 <ul style="list-style-type: none ">
-<li> <a href="CyberResearch-vol1-abstracts.html#chapt5">5 A Qualitative Approach Using Digital Analyses for the Study of Action in Narrative Texts:  <span style="font-variant: small-caps;">KTU</span> 1.1-6 from the Scribe ʾIlimilku of Ugarit as a Case Study</a><br />
+<li><a href="CyberResearch-vol1-abstracts.html#chapt5">5 A Qualitative Approach Using Digital Analyses for the Study of Action in Narrative Texts:  <span style="font-variant: small-caps;">KTU</span> 1.1-6 from the Scribe ʾIlimilku of Ugarit as a Case Study</a><br />
   <span style="padding-left: 1em"><em>Vanessa Bigot Juloux</em></span></li> 
-<li>6 Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora<br />
+<li><a href="CyberResearch-vol1-abstracts.html#chapt6">6 Network Analysis for Reproducible Research on Large Administrative Cuneiform Corpora</a><br />
   <span style="padding-left: 1em"><em>Émilie Pagé-Perron </em></span></li>
- <li>7 Semantic Domains in Akkadian Texts<br />
+	<li><a href="CyberResearch-vol1-abstracts.html#chapt7">7 Semantic Domains in Akkadian Texts</a><br />
  <span style="padding-left: 1em"><em>Saana Svärd, Heidi Jauhiainen, Aleksi Sahala, and Krister Lindén </em></span></li>
- <li>8 Using Quantitative Methods for Measuring Inter-Textual Relations in Cuneiform<br />
+ <li><a href="CyberResearch-vol1-abstracts.html#chapt8">8 Using Quantitative Methods for Measuring Inter-Textual Relations in Cuneiform</a><br />
    <span style="padding-left: 1em"><em>M. Willis Monroe</em></span></li>
   </ul> 
   
 <h4 style="color:#b30000; font-size: 12px">Part 4: Online Publishing, Digital Archiving, and Preservation</h4>
 <ul style="list-style-type: none ">
-<li>9 On the Problem of the Epigraphic Interoperability of Digitized Texts of the Mediterranean and Near Eastern Regions in First Millennium <span style="font-variant: small-caps;">BCE</span><br />
+<li><a href="CyberResearch-vol1-abstracts.html#chapt9">9 On the Problem of the Epigraphic Interoperability of Digitized Texts of the Mediterranean and Near Eastern Regions in First Millennium <span style="font-variant: small-caps;">BCE</span></a><br />
   <span style="padding-left: 1em"><em>Doğu Kaan Eraslan</em></span></li>
-<li>10 Digital Philology in the Ras Shamra Tablet Inventory Project: Text Curation through Computational Intelligence<br />
+<li><a href="CyberResearch-vol1-abstracts.html#chapt10">10 Digital Philology in the Ras Shamra Tablet Inventory Project: Text Curation through Computational Intelligence</a><br />
   <span style="padding-left: 1em"><em>Miller C. Prosser</em></span></li>
-<li>11 Publishing Sumerian Literature on the Semantic Web<br />
+<li><a href="CyberResearch-vol1-abstracts.html#chapt11">11 Publishing Sumerian Literature on the Semantic Web</a><br />
   <span style="padding-left:1em"><em>Terhi Nurmikko-Fuller</em></span></li>
 </ul>  
 
