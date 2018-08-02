@@ -52,14 +52,14 @@ _by (surnames) alphabetic order_<br />
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#eraslan" name="eraslan2">Doğu Kaan Eraslan</a> (EPHE-PSL)</li>
  <li><span style="color:#b30000; font-size: 14px">&#8702;</span><a href="CyberResearch-vol1-bios.html#gansell" name="gansell2">Amy Rebecca Gansell</a> (St. John's University)</li>	
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#jauhiainen" name="jauhiainen2">Heidi Jauhiainen</a> (University of Helsinki)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#Ludovico" name="ludovico2">Alessandro di Ludovico</a> (Sapieneza University)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/KristerLindén" target="_blank">Krister Lindén</a> (University of Helsinki)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://independent.academia.edu/MatthewMartino3" target="_blank">Matthew Martino</a></li>
-   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://saic.academia.edu/ShannonMartino" target="_blank">Shannon Martino</a> (School of Art University of Chicago)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://huji.academia.edu/SvetaMatskevich" target="_blank">Sveta Matskevich</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://ubc.academia.edu/MWillisMonroe" target="_blank">M. Willis Monroe</a> (University of British Columbia)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://anu-au.academia.edu/TerhiNurmikkoFuller" target="_blank">Terhi Nurmikko-Fuller</a> (Australian National University)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://utoronto.academia.edu/ÉmiliePagéPerron" target="_blank">Émilie Pagé-Perron</a> (University of Toronto)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#linden" name="linden">Krister Lindén</a> (University of Helsinki)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#ludovico" name="ludovico2">Alessandro di Ludovico</a> (Sapieneza University)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#m-martino" name="m-martino2">Matthew Martino</a></li>
+   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#s-martino" name="s-martino2">Shannon Martino</a> (School of Art University of Chicago)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#matskevich" name="matskevich2">Sveta Matskevich</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#monroe" name="monroe2">M. Willis Monroe</a> (University of British Columbia)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#nurmikko-fuller" name="nurmikko-fuller2">Terhi Nurmikko-Fuller</a> (Australian National University)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#page-perron" name="page-perron2>Émilie Pagé-Perron</a> (University of Toronto)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://chicago.academia.edu/MillerProsser" target="_blank">Miller C. Prosser</a> (University of Chicago)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://huji.academia.edu/IlanSharon" target="_blank">Ilan Sharon</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/MarcoRamazzotti" target="_blank">Marco Ramazzotti</a> (Sapieneza University)</li>
