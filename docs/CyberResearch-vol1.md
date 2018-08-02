@@ -59,8 +59,8 @@ _by (surnames) alphabetic order_<br />
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#matskevich" name="matskevich2">Sveta Matskevich</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#monroe" name="monroe2">M. Willis Monroe</a> (University of British Columbia)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#nurmikko-fuller" name="nurmikko-fuller2">Terhi Nurmikko-Fuller</a> (Australian National University)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#page-perron" name="page-perron2>Émilie Pagé-Perron</a> (University of Toronto)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://chicago.academia.edu/MillerProsser" target="_blank">Miller C. Prosser</a> (University of Chicago)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#page-perron" name="page-perron2">Émilie Pagé-Perron</a> (University of Toronto)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#prosser" name="prosser2">Miller C. Prosser</a> (University of Chicago)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://huji.academia.edu/IlanSharon" target="_blank">Ilan Sharon</a> (Institute of Archaeology at the Hebrew University, Jerusalem)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/MarcoRamazzotti" target="_blank">Marco Ramazzotti</a> (Sapieneza University)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/AleksiSahala" target="_blank">Aleksi Sahala</a> (University of Helsinki)</li>
