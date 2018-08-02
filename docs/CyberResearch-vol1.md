@@ -48,11 +48,11 @@ Eleven chapters present a rich array of material, spanning the fifth through the
 <h3><a name="authors" style="color: black">Authors</a></h3>
 _by (surnames) alphabetic order_<br />
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#bigot-juloux" target="_blank">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://ephe-sorbonne.academia.edu/DKaanEr" target="_blank">Doğu Kaan Eraslan</a> (EPHE-PSL)</li>
- <li><span style="color:#b30000; font-size: 14px">&#8702;</span><a href="CyberResearch-vol1-bios.html#gansell>Amy Rebecca Gansell</a> (St. John's University)</li>	
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Heidi Jauhiainen (University of Helsinki)</li>
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Alessandro di Ludovico</a> (Sapieneza University)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#bigot-juloux" name="bigot-juloux2">Vanessa Bigot Juloux</a> (EPHE-PSL)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#eraslan" name="eraslan2">Doğu Kaan Eraslan</a> (EPHE-PSL)</li>
+ <li><span style="color:#b30000; font-size: 14px">&#8702;</span><a href="CyberResearch-vol1-bios.html#gansell" name="gansell2">Amy Rebecca Gansell</a> (St. John's University)</li>	
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#jauhiainen" name="jauhiainen2">Heidi Jauhiainen</a> (University of Helsinki)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#Ludovico" name="ludovico2">Alessandro di Ludovico</a> (Sapieneza University)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://helsinki.academia.edu/KristerLindén" target="_blank">Krister Lindén</a> (University of Helsinki)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://independent.academia.edu/MatthewMartino3" target="_blank">Matthew Martino</a></li>
    <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="https://saic.academia.edu/ShannonMartino" target="_blank">Shannon Martino</a> (School of Art University of Chicago)</li>
