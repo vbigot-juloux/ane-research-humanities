@@ -60,6 +60,39 @@ The theoretical basis of our research lies in its emic approach. In lexical sema
 <em>Keywords: Akkadian, language technology, lexical semantics, linguistics, methodology, <span style="font-variant: small-caps; font-size: 15px">pmi</span>, Word2vec</em>
 <a href="CyberResearch-vol1.html#chapt7" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a>
 
+<h4 style="font-size: 12px;"><a name="chapt8"></a>Using Quantitative Methods for Measuring Inter-Textual Relations in Cuneiform</h4>
+_M Willis Monroe_
+<p style="text-align: justify">This project employs known methods used in the digital humanities and text processing to look for patterns of associations in a corpus of cuneiform astrological documents. The material is fragmentary, damaged, and difficult to read and analyze with traditional methods. Digital tools allow the corpus to be quickly processed and analyzed in furtherance of a larger research goal. The article serves as an introduction to these methods and as a discussion of their application to a non-traditional text corpus.</p>
+<em>Keywords: astrology, cluster analysis, cuneiform, text analysis, zodiac</em>
+<a href="CyberResearch-vol1.html#chapt8" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a>
+<br />
+
+<h3 style="color:#b30000;">Part 4: Online Publishing, Digital Archiving, and Preservation</h3>
+
+<h4 style="font-size: 12px;"><a name="chapt9"></a>On the Problem of the Epigraphic Interoperability of Digitized Texts of the Mediterranean and Near Eastern Regions in First Millennium BCE</h4>
+_Doğu Kaan Eraslan_
+<p style="text-align: justify">This paper focuses on the integration of the encoding schemes for digitizing first-millennium bce texts from the Mediterranean and Near Eastern regions. It first gives a brief survey of the encoding schemes used to document these texts and identifies a key problem, from a computational perspective, i.e., the lack of interoperability of the encoding schemes. The reasons behind this problem are discussed, and a solution is proposed: using vector spaces for representing signs in order to express them in a common unit. Possible tools to achieve this solution and how these tools can be adapted to ongoing projects are also discussed. The project used as a case study concerns the quadrilingual vase of Darius.</p>
+<em>Keywords: <span style="font-variant: small-caps; font-size: 15px">c-atf</span>, <span style="font-variant: small-caps; font-size: 15px">cal</span> Code, digital epigraphy, EpiDoc, Manuel de Codage, vector spaces</span>
+<a href="CyberResearch-vol1.html#chapt9" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a>
+
+<h4 style="font-size: 12px;"><a name="chapt10"></a>Digital Philology in the Ras Shamra Tablet Inventory Project: Text Curation through Computational Intelligence</h4>
+_Miller C. Prosser_
+<p style="text-align: justify">The Ras Shamra Tablet Inventory (<span style="font-variant: small-caps; font-size: 15px">rsti</span>) is a research project co-directed by Miller C. Prosser and Dennis Pardee. A primary goal of the project is to create reliable digital editions of the texts in the Ras Šamra-Ugarit corpus within a research database environment. More than just a data store of texts translated from their ancient languages, <span style="font-variant: small-caps; font-size: 15px">rsti</span> serves as a tool for addressing research questions. To this end, the project also seeks to integrate archaeological data from the excavations at Ras Šamra, including published archaeological plans, grid and square systems, and any other information freely available. Using the Online Cultural and Historical Research Environment (<span style="font-variant: small-caps; font-size: 15px">ochre</span>), we are currently adding and curating data with the help of various workflow wizards. To add new data to rsti, we begin with a standard text transliteration saved as a Microsoft Word document or in another common document format. We load this document into ochre, which uses intelligent functions to atomize the linear transcription into individual signs or letters. As part of this process, ochre validates these signs and letters to make sure there are no typographical errors. Once the text is added to the database, analytical wizards guide the user through the tasks of finding words in project dictionaries, adding grammatical properties to the words, and identifying people and places in the texts. The importation and curation steps both employ processes developed specifically for the task of knowledge representation of philological data.</p>
+<em>Keywords: archaeology, database, Online Cultural and Historical Research Environment (<span style="font-variant: small-caps; font-size: 15px">ochre</span>), philology, Ras Shamra, Ras Šamra, Ugarit</em>
+<a href="CyberResearch-vol1.html#chapt10" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a>
+
+<h4 style="font-size: 12px;"><a name="chapt11"></a>Publishing Sumerian Literature on the Semantic Web</h4>
+_Terhi Nurmikko-Fuller_
+<p style="text-align: justify">Literary Sumerology in particular, and Assyriology in general, are in a position to be relevant and significant in the ongoing development of semantic web (<span style="font-variant: small-caps; font-size: 15px">SW</span>) technologies through the promotion of common data formats and exchange protocols. The rich philological material of the ancient Near East can be used to evaluate the robustness and flexibility of models and schemas designed from the perspective of other disciplines, with the aim of upper-level (and thus universal) applicability. Assyriological research can in turn be supported by knowledge from other data-streams and has become increasingly relevant in interdisciplinary research agendas; data is disseminated further and becomes better known in the public domain. This chapter outlines the main practical considerations and terminologies needed for understanding and applying the Linked Data (<span style="font-variant: small-caps; font-size: 15px">LD</span>) online publication paradigm to philological, museological, curatorial, and archaeological data. Three existing ontologies—the <span style="font-variant: small-caps; font-size: 15px">cidoc crm</span>, <span style="font-variant: small-caps; font-size: 15px">frbroo</span>, and Ontomedia—are evaluated in the context of their suitability for representing information contained in the Electronic Text Corpus of Sumerian Literature (<span style="font-variant: small-caps; font-size: 15px">etcsl</span>), an existing online resource that provides access to some 400 transliterated and translated composite texts.</p>
+<em>Keywords: Linked Data, literature, ontologies, <span style="font-variant: small-caps; font-size: 15px">rdf</span>, semantic web, Sumerian </em>
+<a href="CyberResearch-vol1.html#chapt11" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a>
+
+
+
+
+
+
+
 
 
 
