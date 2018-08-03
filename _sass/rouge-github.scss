@@ -356,8 +356,9 @@ Small Device Styles
   }
   
   #project_title {
-  font-size: 1.5em;
-  margin-top: 5% 0 0 0;
+  /*font-size: 1.5em;
+  margin-top: 5% 0 0 0;*/
+  -webkit-margin-before: 5%;
   }
 
   h1 {
