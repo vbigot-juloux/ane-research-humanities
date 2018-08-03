@@ -329,10 +329,10 @@ padding: 0 30%; margin: 0 auto;}
 Small Device Styles
 *******************************************************************************/
 
-@viewport {
-   width: device-width; /* largeur du viewport */
-   zoom: 1; /* zoom initial à 1.0 (et clin d'oeil aux fans d'IE6/7) */
-}
+/*@viewport {
+   width: device-width; //largeur du viewport 
+   zoom: 1; // zoom initial à 1.0 (et clin d'oeil aux fans d'IE6/7) 
+}*/
 
 @media (max-width: 100%) {
   * {
@@ -340,11 +340,11 @@ Small Device Styles
   }
 }
   
-@media screen and (max-width: 100%) {
+/*@media screen and (max-width: 100%) {
   img {
     max-width: 100%;
   }
-}
+}*/
 
 @media /*screen and (max-width: 100%)*/ {
   body {
@@ -373,9 +373,9 @@ Small Device Styles
   
 p {
   -webkit-hyphens: auto; /* césure propre */
-		-moz-hyphens: auto;
-		hyphens: auto;
-		word-wrap: break-word; /* passage à la ligne forcé */
+  -moz-hyphens: auto;
+  hyphens: auto;
+  word-wrap: break-word; /* passage à la ligne forcé */
   }
   
 body:before {
@@ -386,8 +386,48 @@ body:before {
 	color: #777;
 	}
   
+ img {
+	 max-width: 100%;
+	 height: auto;
+	}
  
-  /*#header_wrap.outer {
+
+  h2 {
+    font-size: 14px;
+  }
+
+  h3 {
+    font-size: 12px;
+  }
+
+  h4 {
+    font-size: 12px;
+  }
+
+  h5 {
+    font-size: 12px;
+  }
+
+  h6 {
+    font-size: 12px;
+  }
+
+  code, pre {
+    min-width: 320px;
+    max-width: 480px;
+    font-size: 11px;
+  }
+
+}
+
+ @media (max-device-width:100%) and (orientation: landscape) {
+  html {
+   -webkit-text-size-adjust: 100%;
+   -ms-text-size-adjust: 100%;
+  }
+}
+
+ /*#header_wrap.outer {
     width: 0;
   }*/
 
@@ -426,40 +466,3 @@ body:before {
     font-size: 18px;
     -webkit-margin-before: 5%;
   }*/
-
-  h2 {
-    font-size: 14px;
-  }
-
-  h3 {
-    font-size: 12px;
-  }
-
-  h4 {
-    font-size: 12px;
-  }
-
-  h5 {
-    font-size: 12px;
-  }
-
-  h6 {
-    font-size: 12px;
-  }
-
-  code, pre {
-    min-width: 320px;
-    max-width: 480px;
-    font-size: 11px;
-  }
-
-}
-
- /*@media (max-device-width:100%) and (orientation: landscape) {
-  html {
-   -webkit-text-size-adjust: 100%;
-   -ms-text-size-adjust: 100%;
-  }
-}*/
-
-
