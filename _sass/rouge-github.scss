@@ -326,12 +326,33 @@ Small Device Styles
     font-size:1em;
   }
 
-  #header_wrap {
+  /*#header_wrap {
     -webkit-padding-start: 5%;
     width: 95%
-  }
+  }*/
   
-  #main_content_wrap {width: 0}
+  #header_wrap {
+  background: #212121;
+  background: -moz-linear-gradient(top, #373737, #212121);
+  background: -webkit-linear-gradient(top, #cc0000, #212121);
+  background: -ms-linear-gradient(top, #373737, #212121);
+  background: -o-linear-gradient(top, #373737, #212121);
+  background: linear-gradient(top, #373737, #212121);
+}
+
+#header_wrap .inner {
+  padding: 50px 10px 30px 10px;
+}
+
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+  
+
   
   /*#header_wrap.outer {
     width: 0;
@@ -341,15 +362,15 @@ Small Device Styles
     width: 96%;
   }*/
  
-  #header_wrap .inner{padding:70px 10px 30px 10px}
+  /*#header_wrap .inner{padding:70px 10px 30px 10px}*/
   
-  .inner {
-    /*min-width: 320px;*/
+  /*.inner {
+    min-width: 320px;
     max-width: 100%;
     margin: 0 5%;
-  }
+  }*/
   
-  .outer {width: 100%}
+  /*.outer {width: 100%}*/
  
   
   /*#header_wrap .inner {
