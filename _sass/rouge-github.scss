@@ -338,9 +338,13 @@ Small Device Styles
     margin: 0 5%;
   }
   
-  #header_wrap .inner {
-    padding: 32% 10px 0px 10px;
+  #header_wrap {
+    -webkit-padding-start: 20px;
   }
+  
+  /*#header_wrap .inner {
+    padding: 32% 10px 0px 10px;
+  }*/
 
   #project_title {
   font-size: 2em;
