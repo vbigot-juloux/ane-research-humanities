@@ -338,6 +338,7 @@ Small Device Styles
   * {
     box-sizing: border-box;
   }
+}
   
 @media screen and (max-width: 100%) {
   img {
@@ -378,20 +379,14 @@ p {
   }
   
 body:before {
-		content: "Mobile version of the website";
-		display: block;
-		text-align: center;
-		font-style: italic;
-		color: #777;
+        content: "Mobile version of the website";
+	display: block;
+	text-align: center;
+	font-style: italic;
+	color: #777;
 	}
   
-  @media (max-device-width:100%) and (orientation: landscape) {
-  html {
-   -webkit-text-size-adjust: 100%;
-   -ms-text-size-adjust: 100%;
-  }
-  
-  
+ 
   /*#header_wrap.outer {
     width: 0;
   }*/
@@ -459,5 +454,11 @@ body:before {
   }
 
 }
+
+ @media (max-device-width:100%) and (orientation: landscape) {
+  html {
+   -webkit-text-size-adjust: 100%;
+   -ms-text-size-adjust: 100%;
+  }
 
 
