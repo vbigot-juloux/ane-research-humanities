@@ -385,11 +385,13 @@ body:before {
 	color: #777;
 	}
   
- img {
+ img, ul, li, h1, #project_title {
 	 max-width: 100%;
-	 height: auto;
 	}
- 
+	
+ img {
+	 height: auto:
+	}
 
   h2 {
     font-size: 14px;
