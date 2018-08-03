@@ -34,11 +34,10 @@ h3 {font-size: 13px; font-weight: 600; /*font-variant: small-caps; font-stretch:
   text-shadow: #111 0px 0px 10px;
 }
 
-@media screen and (min-width : 375px) {
+@media screen and (min-width: 375px) and (max-width : 1024px) {
   #project_title {
     font-size: 1.5em;
     margin-top: 1em;
-    color: #fff
   }
 }
 
