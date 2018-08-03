@@ -382,6 +382,6 @@ Small Device Styles
 }
 
  @media screen and (max-width: 100%) {
-   #header_wrap {
+   #header_wrap.outer {
     -webkit-padding-start: 20px;
   }
