@@ -334,6 +334,11 @@ Small Device Styles
    zoom: 1; /* zoom initial à 1.0 (et clin d'oeil aux fans d'IE6/7) */
 }
 
+@media (max-width: 100%) {
+  * {
+    box-sizing: border-box;
+  }
+  
 @media screen and (max-width: 100%) {
   img {
     max-width: 100%;
@@ -343,7 +348,10 @@ Small Device Styles
 @media screen and (max-width: 100%) {
   body {
     font-size:1em;
-  }
+    width: auto;
+    margin: 0;
+    padding: 0;
+  } 
 
   /*#header_wrap {
     -webkit-padding-start: 5%;
@@ -362,7 +370,27 @@ Small Device Styles
   text-shadow: #111 0px 0px 10px;
 }
   
-
+p {
+  -webkit-hyphens: auto; /* césure propre */
+		-moz-hyphens: auto;
+		hyphens: auto;
+		word-wrap: break-word; /* passage à la ligne forcé */
+  }
+  
+body:before {
+		content: "Mobile version of the website";
+		display: block;
+		text-align: center;
+		font-style: italic;
+		color: #777;
+	}
+  
+  @media (max-device-width:100%) and (orientation: landscape) {
+  html {
+   -webkit-text-size-adjust: 100%;
+   -ms-text-size-adjust: 100%;
+  }
+  
   
   /*#header_wrap.outer {
     width: 0;
