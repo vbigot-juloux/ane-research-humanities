@@ -22,6 +22,14 @@ h2 {font-size: 14px; font-weight: 400; /*font-variant: small-caps; font-stretch:
 h3 {font-size: 13px; font-weight: 600; /*font-variant: small-caps; font-stretch: condensed;*/ padding-bottom: 5px; letter-spacing: -0.1px;}
 .small {font-variant:small-caps; font-weight: 500; font-size: 15px}
 
+#project_title {
+  margin: 0;
+  color:#000;
+  font-size: 32px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+
 /* This gets Facebook to fall into place, according to https://gist.github.com/thebigreason/1296097#file-social-sharing-alignment-html */
 /* Set an optional width for your button wrappers */
 .social span {display: inline-block; width: 110px;}
@@ -97,6 +105,8 @@ img#psl{width: 20%; -webkit-box-shadow: 0 0 0; border: none;}
 }
 .forkme_banner > a {color: white; font-size: 12px}
 .forkme_banner > a.active {color: #ffffff;}
+
+
 
 footer.inner {background: url("/assets/back_logo.jpg"); background-position: 500px 10%; background-repeat: repeat-x; background-size: 1000px 60px;
 padding: 0 30%; margin: 0 auto;}
