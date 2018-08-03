@@ -329,6 +329,11 @@ padding: 0 30%; margin: 0 auto;}
 Small Device Styles
 *******************************************************************************/
 
+@viewport {
+   width: device-width; /* largeur du viewport */
+   zoom: 1; /* zoom initial à 1.0 (et clin d'oeil aux fans d'IE6/7) */
+}
+
 @media screen and (max-width: 100%) {
   img {
     max-width: 100%;
