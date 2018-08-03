@@ -327,7 +327,8 @@ Small Device Styles
   }
 
   #header_wrap {
-    -webkit-padding-start: 20px;
+    -webkit-padding-start: 5%;
+    width: 95%
   }
   
   #header_wrap.outer {
@@ -338,7 +339,7 @@ Small Device Styles
     width: 96%;
   }*/
  
-  /*#header_wrap .inner{padding:70px 10px 30px 10px}*/
+  #header_wrap .inner{padding:70px 10px 30px 10px}
   
   .inner {
     /*min-width: 320px;*/
