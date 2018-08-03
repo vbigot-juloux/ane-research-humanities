@@ -38,7 +38,7 @@ h3 {font-size: 13px; font-weight: 600; /*font-variant: small-caps; font-stretch:
 /* Set an optional width for your button wrappers */
 .social span {display: inline-block; width: 110px;}
 
-.social iframe {	vertical-align: middle;}
+.social iframe {vertical-align: middle;}
 
 #fund-home {-moz-box-shadow: 0px 6px 3px 0px #cfcfcf;
 -webkit-box-shadow: 0px 6px 3px 0px #cfcfcf;
@@ -455,11 +455,11 @@ body:before {
 
 }
 
- @media (max-device-width:100%) and (orientation: landscape) {
+ /*@media (max-device-width:100%) and (orientation: landscape) {
   html {
    -webkit-text-size-adjust: 100%;
    -ms-text-size-adjust: 100%;
   }
-}
+}*/
 
 
