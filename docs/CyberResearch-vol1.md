@@ -48,7 +48,7 @@ Eleven chapters present a rich array of material, spanning the fifth through the
 <h3><a name="authors" style="color: black">Authors</a></h3>
 _by (surnames) alphabetic order_<br />
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#bigot-juloux" name="bigot-juloux2">Vanessa Bigot Juloux</a> (<span class="small">ephe-psl</span>)</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#bigot-juloux" name="bigot-juloux2">Vanessa Bigot Juloux</a> (<span class="small">ephe-psl</span> and Andrews University)</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#eraslan" name="eraslan2">Doğu Kaan Eraslan</a> (<span class="small">ephe-psl</span>)</li>
  <li><span style="color:#b30000; font-size: 14px">&#8702;</span><a href="CyberResearch-vol1-bios.html#gansell" name="gansell2">Amy Rebecca Gansell</a> (St. John's University)</li>	
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> <a href="CyberResearch-vol1-bios.html#jauhiainen" name="jauhiainen2">Heidi Jauhiainen</a> (University of Helsinki)</li>
