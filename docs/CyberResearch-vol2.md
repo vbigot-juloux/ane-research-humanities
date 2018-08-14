@@ -16,5 +16,5 @@ layout: default
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving</h2>
 Vanessa Bigot Juloux, Terhi Nurmikko-Fuller, and Sveta Matskevich (eds.). Forthcoming 2019.<br />
 
-_Manuscript in preparation_
-<span style="margin-bottom: 300px"/>
+
+<span style="padding-bottom: 300px"><em>Manuscript in preparation</em></span>
