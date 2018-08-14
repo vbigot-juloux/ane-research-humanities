@@ -15,6 +15,13 @@ layout: default
  
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving</h2>
 Vanessa Bigot Juloux, Terhi Nurmikko-Fuller, and Sveta Matskevich (eds.). Forthcoming 2019.<br />
+_Manuscript in preparation_
+<h3> Overview</h3>
+<ul>
+	<li>Chronology: 3rd millennium BC - 5th century AD.</li>
+	<li>Region: Mesopotamia, Levant, Cyprus, Arabian Peninsula, and Iran.</li>
+	<li>Special elements: Some essays dealing with ancient texts will include non-Latin scripts to represent the cuneiform script and Semitic languages.</li>
+</ul>
+<p style="padding-bottom: 200px">The content of this second volume builds on the investigations and critical evaluations into digital practices outlined in the first volume CyberResearch on the Ancient Near East and Neighboring Regions.<br />
+Increasing numbers of researchers of the ancient Near East and Eastern Mediterranean have began to engage with digital tools, both as a new standard methodology and in the sphere of experimental research. This shift in paradigms has however yet to fully manifest in the publication histories or our respective disciplines, with the majority of existing work focusing on the summary and representation of results, rather than a critical evaluation of applied processes. As ever-greater numbers of researchers adopt digital tools, the need for reproducible, variable, and repeatable workflows, accessible and accessed by beginners and interdisciplinary scholars alongside interdisciplinary experts, increases. Where the first volume of the series discussed the most recent of digital research projects, this volume provides a unique critical evaluation of workflows so that scholars can learn method as well as fact. </p>
 
-
-<p style="padding-bottom: 300px"><em>Manuscript in preparation</em></p>
