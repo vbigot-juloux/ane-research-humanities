@@ -17,4 +17,4 @@ layout: default
 Vanessa Bigot Juloux, Terhi Nurmikko-Fuller, and Sveta Matskevich (eds.). Forthcoming 2019.<br />
 
 
-<span style="padding-bottom: 300px"><em>Manuscript in preparation</em></span>
+<p style="padding-bottom: 300px"><em>Manuscript in preparation</em></p>
