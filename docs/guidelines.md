@@ -1,0 +1,50 @@
+---
+title: Guidelines
+layout: default
+---
+
+<h2>Guidelines</h2>
+
+<h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in the list of references</h3>
+
+<ul style="list-style-type: none; padding-left: 0;">
+<li>For articles in journals<br />
+[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]: [Page(s)].<br />
+i.e., </li>
+
+<li>For articles in electronic journals<br />
+[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]. <[Web-Address]>.<br />
+i.e.,</li>
+
+<li>For articles in daily journals<br />
+[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics], [Month] [Day]. <[Web-Address]>.<br />
+i.e.,</li>
+
+<li>For articles in an edited volume<br />
+[Author(s)]. [Year]. “[Title].” In [Title of the Book, in italics], edited by [First Name] [Family Name], [First Name] [Family Name], and [(last editor's) First Name] [(last editor's) Family Name], [Page(s)]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
+i.e.,</li>
+
+<li>For monographs<br />
+[Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
+i.e.,</li>
+
+<li>For electronic web-books<br />
+[Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher]. <[Web-Address]>.<br />
+i.e.,</li>
+
+<li>For articles edited volumes<br />
+[Editor(s), here mentioned like the Authors in the monographs], eds. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
+i.e.,</li>
+
+<li>For PhD-, MA- or other Dissertations<br />
+[Author]. [Year]. “[Title] (PhD/MA/... Diss., Unpublished).” [Place of defence].<br />
+i.e.,</li>
+
+<li>For Websites<br />
+[Author(s), if present]. [Year, if present or available]. [Title of the Website, in italics]. <[Web-Address]>.<br />
+i.e.,</li>
+
+<li>For Web articles<br />
+[Author(s), if present]. [Year, if present or available]. “[Title].” [Title of the Website, if present, in italics]. <[Web-Address]>.<br />
+i.e.,</li>
+</ul>
