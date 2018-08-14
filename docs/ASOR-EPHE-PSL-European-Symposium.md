@@ -13,12 +13,12 @@ layout: default
 </span>
  </div>
  
-<h2> [Preliminary title] Les Actes of ASOR/EPHE-PSL European Symposium, Paris, Sept. 4-6, 2018. Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds</h2>
+<h2><span style="weight: 400">[Preliminary titled]</span> Les Actes of ASOR/EPHE-PSL European Symposium, Paris, Sept. 4-6, 2018. Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds</h2>
 Vanessa Bigot Juloux and Randall W. Younker (eds). Forthcoming first term 2020.<br />
 
 <p><span style="color:#b30000; font-size: 14px">&#8702;</span> Further information on the content, see the abstracts of the symposium: <br /><a href="http://ancient-worlds-symposium.eu/docs/abstracts-violence" blank="_blank">ancient-worlds-symposium.eu/docs/abstracts-violence</a>.</p>
 <br />
-<h2> [Preliminary titled] Les Actes of ASOR/EPHE-PSL European Symposium, Paris, Sept. 4-5, 2018. Collaborative Projects among European and International Scholars for the Study of Ancient Worlds Using Digital Approaches</h2>
+<h2><span style="weight: 400">[Preliminary titled]</span> Les Actes of ASOR/EPHE-PSL European Symposium, Paris, Sept. 4-5, 2018. Collaborative Projects among European and International Scholars for the Study of Ancient Worlds Using Digital Approaches</h2>
 Vanessa Bigot Juloux and Randall W. Younker (eds). Forthcoming last term 2019.<br />
 
 <p style="padding-bottom: 200px"><span style="color:#b30000; font-size: 14px">&#8702;</span> Further information on the content, see the abstracts of the symposium:<br /> <a href="http://ancient-worlds-symposium.eu/docs/abstracts-digital-practices" blank="_blank">ancient-worlds-symposium.eu/docs/abstracts-digital-practices</a>.</p>
