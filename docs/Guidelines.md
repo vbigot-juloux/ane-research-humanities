@@ -20,7 +20,7 @@ i.e.,</li>
 [Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics], [Month] [Day]. <[Web-Address]>.<br />
 i.e.,</li>
 
-<li>For articles in an edited volume<br />
+<li style="padding-bottom: 12px; text-align: justify">For articles in an edited volume<br />
   [Author(s)]. [Year]. “[Title].” In <em>[Title of the Book, in italics]</em>, edited by [First Name] [Family Name], [First Name] [Family Name], and [(last editor's) First Name] [(last editor's) Family Name], [Page(s)]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
 i.e., Binding, Ceri, Keith May, and Doug Tudhope. 2008. “Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the <span style="font-variant: small-caps">CIDOC CRM.</span>” In <em>Proceedings (ECDL 2008) 12th European Conference on Research and Advanced Technology for Digital Libraries, Aarhus</em>, edited by Birte Christensen-Dalsgaard, Donatella Castelli, Bolette Ammitzbøll Jurik, and Joan Lippincott, 280–290. Berlin: Springer.</li>
 
