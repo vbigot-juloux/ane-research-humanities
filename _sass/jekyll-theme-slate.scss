@@ -388,6 +388,24 @@ Small Device Styles
     font-size: 1.5em;
     margin-top: 2em;
   }
+
+
+  #forkme_banner {
+    float:right; 
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+  }
+  
+  .forkme_banner {
+  font-weight: 600;
+  width: auto;
+  display: inline-block;
+  padding: 5px;
+  }
+
+  .forkme_banner > a {font-size: 11px}
 }
 
 /*@media screen and (max-width: 992px) {
