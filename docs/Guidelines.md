@@ -50,6 +50,14 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 
 <h3 style="color:#b30000;">Illustrations</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
+<p>Always provide a file in high resolution. For a photo, we recommand .tiff and for a graphic .svg.</p>
+<p>File name should be: [number]_[Author's name]: 1_Bigot-Juloux (for illustration 1), 2_Bigot-Juloux (for illustration 2), …</p>
+<p>Never add illustration(s) within the content. Instead, write in the desired location <span style="color: rgba(191, 4, 27, 0.97)">[PLACE ILLUSTRATION “number + size HERE]</span>. There are three different sizes: Small (S), Medium (M), Large (L). So you should write for example:</p>
+<ul style="list-style-type: none; font-size: 13px; color: #4d4d4d;">
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> [PLACE ILLUSTRATION 1(S) HERE]</li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> [PLACE ILLUSTRATION 2(L) HERE]</li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> [PLACE ILLUSTRATION 3(M) HERE]</li>
+  </ul>
 
 <h3 style="font-size: 12px; background-color: #f2f2f2; text-align: center">Citation</h3>
 _Nota bene_
@@ -160,7 +168,7 @@ The volumes are freely downloadable at <https://oi.uchicago.edu/research/publica
 
 Note: 
 <ul style="list-style-type:decimal; margin-top: -12px">
-  <li style="padding-bottom: 12px; text-align: justify">If there is the need to mention two or more consecutive times a same work, after the first normal citation in the same paragraph, the abbreviation “ibid.” should be used as substitution of [Author Year]:<br />
+  <li style="padding-bottom: 12px; text-align: justify">If there is the need to mention two or more consecutive times a same work, after the first normal citation in the same paragraph, the abbreviation “ibid.” should be used as substitution of <span style="color: rgba(191, 4, 27, 0.97)">[Author Year]</span>:<br />
    <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> … as in Bovon 2004, 318–319. […] Furthermore, … (ibid., 321).</span>
   </li>
