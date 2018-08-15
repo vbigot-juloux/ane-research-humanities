@@ -35,7 +35,7 @@ It-Digital/137325>.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles edited volumes<br />
 [Editor(s), here mentioned like the Authors in the monographs], eds. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Dirksen, Dieter, and Gert von Bally, eds. 1997. <em>Optical  Technologies in the Humanities: Selected Contributions to the International Conference on New Technologies in the Humanities and Fourth International Conference on Optics within Life Sciences <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">OWLS</span> IV Münster, Germany, 9–13 July 1996.</em> Series of the International Society on Optics within Life Sciences 4. Berlin: Springer.</li>
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Dirksen, Dieter, and Gert von Bally, eds. 1997. <em>Optical  Technologies in the Humanities: Selected Contributions to the International Conference on New Technologies in the Humanities and Fourth International Conference on Optics within Life Sciences <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">owls</span> IV Münster, Germany, 9–13 July 1996.</em> Series of the International Society on Optics within Life Sciences 4. Berlin: Springer.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For PhD-, MA- or other Dissertations<br />
 [Author]. [Year]. “[Title] (PhD/MA/... Diss., Unpublished).” [Place of defence].<br />
