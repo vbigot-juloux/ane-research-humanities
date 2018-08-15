@@ -26,7 +26,7 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 <h3 style="color:#b30000;">Titles levels</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>Do not use “1,” “2,”, "A,” “B,” … Instead indicate heading levels: L1, L2, L3, L4. Try to avoid more than four levels.</p>
-<ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
+<ul style="list-style-type: none; font-size: 13px; color: #4d4d4d; margin-top: -16px">
   <li>L1 title name of level 1
     <ul style="list-style-type: none; margin-left: -20px;">
       <li>L2 sub-title name of level 2</li>
