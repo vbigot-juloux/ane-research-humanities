@@ -62,12 +62,12 @@ April 12, 2017], 4–5).
     </span>
   </li>
 
-  <li style="padding-bottom: 12px; text-align: justify;">For websites 
+  <li style="padding-bottom: 12px; text-align: justify;">For websites<br /> 
   <span style="font-size: 13px; color: black">[Website's name],  <[Web-Adresse]>, (accessed [Month] [Day], [Year]):</span> <br />
   <span style="font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Natural Language Toolkit (<span style="font-variant: small-caps; font-size: 17px;">nltk</span>): <http://www.nltk.org/> (accessed July 1, 2017).
   </span>
-  <ul style="list-style-type: none; padding-left: 5px; font-size: 13px; color: #4d4d4d">
+  <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
     <li> <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Particular cases:
         <ul style="list-style-type:decimal;">
            <li><u>For a succession of websites, with an access the same day</u>:<br />
