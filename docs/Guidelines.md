@@ -70,7 +70,7 @@ April 12, 2017], 4–5).
 
 
 Note: 
-<ul style="list-style-type:decimal">
+<ul style="list-style-type:decimal; margin-top: -12px">
   <li style="padding-bottom: 12px; text-align: justify">If there is the need to mention two or more consecutive times a same work, after the first normal citation in the same paragraph, the abbreviation “ibid.” should be used as substitution of [Author Year]:<br />
    <span style="padding-left: 15px; display: inline-block">
      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> … as in Bovon 2004, 318–319. […] Furthermore, … (ibid., 321).</span>
