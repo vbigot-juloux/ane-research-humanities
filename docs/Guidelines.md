@@ -42,7 +42,7 @@ layout: default
   </li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For cuneiform or hieroglyph sign(s), provide the unicode reference at the desired location. The publisher will change to cuneiform/hieroglyph script during the editing process. For example:<br />
     <span style="font-size: 13px; color: #4d4d4d;">… this Ugaritic verb: Unicode: U+1038E, U+10383, U+10395 is transcribed as “mḫṣ.”<br />
-      For example, if one finds (Unicode U+12217) on a cuneiform tablet, the transliteration would read “lugal,” which means king.</span></li>
+      … if one finds (Unicode U+12217) on a cuneiform tablet, the transliteration would read “lugal,” which means king.</span></li>
   </ul>
 
 <h3 style="color:#b30000;">Abbreviations</h3>
