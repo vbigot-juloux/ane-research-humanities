@@ -27,7 +27,7 @@ It-Digital/137325>.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For monographs<br />
 [Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> </li>
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Gardiner, Eileen, and Ronald G. Musto. 2015. <em>The Digital Humanities: A Primer for Students and Scholars</em>. New York: Cambridge University Press.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For electronic web-books<br />
 [Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher]. <[Web-Address]>.<br />
@@ -43,9 +43,10 @@ It-Digital/137325>.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For Websites<br />
 [Author(s), if present]. [Year, if present or available]. [Title of the Website, in italics]. <[Web-Address]>.<br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> </li>
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Bavant, Marc. 2014. <em><span style="font-variant: small-caps; font-size: 17px; font-style: italic;">svg</span> Cuneiform Tool (v4.3)</em>. <http://kursoj.pagesperso-orange.fr/cunei/>.<br />
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Eraslan, Doğu Kaan. 2017b. <em>PySesh: A Python <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">nlp</span> Complement to Jsesh</em>. Last modified March 22, 2017. <https://github.com/D-K-E/PySesh>.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For Web articles<br />
-[Author(s), if present]. [Year, if present or available]. “[Title].” [Title of the Website, if present, in italics]. <[Web-Address]>.<br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> </li>
+[Author(s), if present]. [Year, if present or available]. [Title in italics]. [Title of the Website]. <[Web-Address]>.<br />
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Crofts, Nick, Martin Doerr, Tony Gill, Stephen Stead, and Matthew Stiff. 2008. <em>Definition of the <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">cidoc</span> Conceptual Reference Model.</em> icom/cidoc Documentation Standards Group. <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">cidoc crm</span> Special Interest Group 5. <http://www.cidoc-crm.org/get-lastofficial-release>.</li>
 </ul>
