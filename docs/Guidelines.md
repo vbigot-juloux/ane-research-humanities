@@ -39,6 +39,29 @@ The multiple-author scheme is:<br />
 <span style="color: rgba(191, 4, 27, 0.97); font-size: 12">[Family Name], [First Name], [First Name] [Family Name], and [(last author's) [First Name] [(last author's) Family Name].</span> <span style="font-size: 12">And following...</span>
 <h4 style="font-size: 13px; color:#b30000;">Text formatting for the references</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
+<ul style="list-style-type: none">
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always use long dash ( – ) to mean a page or time interval.</li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Pay attention to the use of full stops, inverted commas, and italics.</li>
+<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always write websites between < > and not underlined (they should not be web-links--please de-activate each web-link in the text and bibliography).</li>
+<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> English titles should be, as usual, written with capital first letters for verbs, substantives and adjectives.</li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Put all bibliography in footnotes, nothing in the text.</li>
+<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Call of footnote should follow a punctuation mark:
+<ul style="list-style-type: none">
+  <li>- “… based on a text format.<sub>14</sub>“</li>
+  <li>- “… in his definition of apocryphal texts,<sub>38</sub>“</li>
+  <li>- “… in the Leuven Database of Ancient Books (LDAB):<sub>9</sub>“</li>
+  </ul>
+  </li>
+<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Please beware: arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
+  <li>Names with particles, including aristrocratic particles, shall be removed in citation within footnotes (“van…”, “de…”, “di…”, “von…”, “de la…”, etc.). In the list of references, if the name with particle is the first author, write:
+  <ul style="list-style-type: none">
+    <li>- In footnote: “Ludovico. Soldt.</li>
+     <li>- In the citation list: “Ludovico, Alessandro di. Soldt, Wilfred van.</li>
+    </ul>
+    </li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Do no write particle with capital.</li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Second Names should be abbreviated.</li>
+  </ul>
 
 
 <h4 style="font-size: 13px; color:#b30000;">Citation in text</h4>
