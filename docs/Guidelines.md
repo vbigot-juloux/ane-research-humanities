@@ -5,7 +5,34 @@ layout: default
 
 <h2>Guidelines</h2>
 
-<h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in the list of references</h3>
+<span style="color:#b30000; font-size: 14px;">&#9758;</span> Abbreviations | Titles levels | Illustrations | Text formatting for the references |  Citation in text | Citation in the list of references  
+
+<br /><br />
+<h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Abbreviations</h3>
+<p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. <br />
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 17px;">ane</span>)<br />
+Use small-caps for Journals and Series (no need to write it in full): <br />
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 17px;">jnes</span></p>
+
+<h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Titles levels</h3>
+
+<h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Illustrations</h3>
+
+<h3>Citations</h3>
+
+<h4><span style="color:#b30000; font-size: 14px;">&#9758;</span> Text formatting for the references</h4>
+
+_Nota bene_
+<br />
+The one-author scheme is:<br />
+[Family Name], [First Name]. And following...<br />
+<br />
+The multiple-author scheme is:<br />
+[Family Name], [First Name], [First Name] [Family Name], and [(last author's) [First Name] [(last author's) Family Name]. And following...
+
+<h4><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in text</h4>
+
+<h4><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in the list of references</h4>
 
 <ul style="list-style-type: circle;">
 <li style="padding-bottom: 12px; text-align: justify">For articles in journals<br />
