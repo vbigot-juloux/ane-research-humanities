@@ -48,9 +48,10 @@ The multiple-author scheme is:<br />
 
 <h4 style="font-size: 13px; color:#b30000;">Citation in footnote</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
+<br />
 <ul style="list-style-type: circle;">
   <li style="padding-bottom: 12px; text-align: justify;">The scheme for printed or electronic articles and monographs is: [Family Name] [Year], [Page(s)]: <br />
-    <span style="padding-left: 15px; display: inline-block">
+    <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Korfmann 1983, 216–217, 242.<br/>
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Seeher 1992: fig. 7.3–4.<br />
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Makowski 2005, 14–15; Renfrew 1969, 9.<br />
