@@ -43,11 +43,11 @@ The multiple-author scheme is:<br />
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always use long dash ( – ) to mean a page or time interval.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Pay attention to the use of full stops, inverted commas, and italics.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Quotation mark should include other punctuation marks:
-  <ul>
+  <ul style="list-style-type: none">
     <li>- … which defined objects as a descriptive list of qualities, or “factors,” allowed objects…</li>
     <li>- … from geographically defined styles to the notion of “communities of styles.</li>
     <li>- Its inflectional form “t-m-t-ḫṣ-n,”…</li>
-    <li><u>With the exception of a translation's word</u>: <em>muḫḫu</em (3,493), “skull, top, concerning (something)”.</li> 
+    <li><u>With the exception of a translation's word</u>: <em>muḫḫu</em> (3,493), “skull, top, concerning (something)”.</li> 
     </ul>
   </li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always write websites between < > and not underlined (they should not be web-links--please de-activate each web-link in the text and bibliography).</li>
