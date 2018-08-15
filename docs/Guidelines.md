@@ -14,6 +14,7 @@ layout: default
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <br />
 <h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Abbreviations</h3>
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. Afterwards, use only the abbreviation. <br />
 <span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 17px;">ane</span>)<br />
 Use small-caps for Journals and Series (no need to write it in full): <br />
@@ -33,7 +34,9 @@ The multiple-author scheme is:<br />
 [Family Name], [First Name], [First Name] [Family Name], and [(last author's) [First Name] [(last author's) Family Name]. And following...
 <h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Text formatting for the references</h4>
 
+
 <h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in text</h4>
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>For the first occurrence, write [First name] [Last name], afterwards [Last name]: <br />
 <span style="padding-left: 15px; display: inline-block"><span style="color:#b30000; font-size: 14px;">&#x27A2;</span> “The Ras Shamra Tablet Inventory (<span style="font-variant: small-caps; font-size: 17px;">rsti</span>) is a research project co-directed by Miller C. Prosser and Dennis Pardee. [...] Among Pardee’s published works, one of the first volumes transformed and ingested into <span style="font-variant: small-caps; font-size: 17px;">rsti</span> was <em>La Trouvaille Épigraphique de l’Ougarit</em>, a volume written jointly with Pierre Bordreuil.”</span></p>
 
