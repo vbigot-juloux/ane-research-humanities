@@ -9,8 +9,9 @@ layout: default
 <br >
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <span style="border: 0">
-  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>Titles levels</a> | <a>Font</a> | <a>Abbreviations</a | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
+  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>Titles levels</a> | <a>Font</a> | <a>Abbreviations</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
   </span>
+
   
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <br />
