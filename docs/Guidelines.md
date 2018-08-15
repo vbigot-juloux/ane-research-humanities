@@ -7,7 +7,7 @@ layout: default
 
 <h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in the list of references</h3>
 
-<ul style="list-style-type: circle; padding-left: 0;">
+<ul style="list-style-type: circle;">
 <li style="padding-bottom: 12px; text-align: justify">For articles in journals<br />
 [Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]: [Page(s)].<br />
 i.e., </li>
@@ -22,7 +22,7 @@ i.e.,</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in an edited volume<br />
   [Author(s)]. [Year]. “[Title].” In <em>[Title of the Book, in italics]</em>, edited by [First Name] [Family Name], [First Name] [Family Name], and [(last editor's) First Name] [(last editor's) Family Name], [Page(s)]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
-  <u>i.e.</u>, Binding, Ceri, Keith May, and Doug Tudhope. 2008. “Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the <span style="font-variant: small-caps">CIDOC CRM.</span>” In <em>Proceedings (ECDL 2008) 12th European Conference on Research and Advanced Technology for Digital Libraries, Aarhus</em>, edited by Birte Christensen-Dalsgaard, Donatella Castelli, Bolette Ammitzbøll Jurik, and Joan Lippincott, 280–290. Berlin: Springer.</li>
+  <span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Binding, Ceri, Keith May, and Doug Tudhope. 2008. “Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the <span style="font-variant: small-caps">CIDOC CRM.</span>” In <em>Proceedings (ECDL 2008) 12th European Conference on Research and Advanced Technology for Digital Libraries, Aarhus</em>, edited by Birte Christensen-Dalsgaard, Donatella Castelli, Bolette Ammitzbøll Jurik, and Joan Lippincott, 280–290. Berlin: Springer.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For monographs<br />
 [Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
