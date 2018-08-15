@@ -4,7 +4,8 @@ layout: default
 ---
 
 <h2 style="color:#b30000; font-size: 15px">Guidelines</h2>
-<p>Note: The examples used below mostly come from <em><a href="http://ane-research-humanities.science/docs/CyberResearch-vol1" target="_blank">CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</a></em>.</p>
+<p>Note 1: The following guidelines may vary according to the publisher. In this case, we will notify the authors and additional recommendations will be added.</p> 
+<p>Note 2: The examples used below mostly come from <em><a href="http://ane-research-humanities.science/docs/CyberResearch-vol1" target="_blank">CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</a></em>.</p>
 <br >
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <span style="border: 0">
