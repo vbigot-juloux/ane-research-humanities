@@ -252,9 +252,16 @@ Note:
 
 <li style="padding-bottom: 12px; text-align: justify">For Websites<br />
 <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s), if present]. [Year, if present or available]. [Title of the Website, in italics]. <[Web-Address]></span><br />
-<span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
+  </span><br />
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Bavant, Marc. 2014. <em><span style="font-variant: small-caps; font-size: 15px; font-style: italic;">svg</span> Cuneiform Tool (v4.3)</em>. <http://kursoj.pagesperso-orange.fr/cunei/>.<br />
 <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Eraslan, Doğu Kaan. 2017b. <em>PySesh: A Python <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">nlp</span> Complement to Jsesh</em>. Last modified March 22, 2017. <https://github.com/D-K-E/PySesh>.
+  </span>
+  </li>
+  
+  <li style="padding-bottom: 12px; text-align: justify">For article of conference proceedings available online<br />
+  <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s)]. [Year]. “[Title].“ <[Web-Address]></span><br />
+  <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
+    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>Jewell, Michael O., Faith K. Lawrence, Mischa M. Tuffield, Adam Prugel-Bennett, David E. Millard, Mark S. Nixon, m.c. schraefel, and Nigel R. Shadbolt. 2005. “OntoMedia: An Ontology for the Representation of Heterogeneous Media.” <https://eprints.soton.ac.uk/261024/>
   </span>
   </li>
 
