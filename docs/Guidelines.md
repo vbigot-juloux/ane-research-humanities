@@ -21,10 +21,12 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 <span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 17px;">jnes</span></p>
 
 <h3 style="color:#b30000;">Titles levels</h3>
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 
 <h3 style="color:#b30000;">Illustrations</h3>
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 
-<h3 style="font-size: 12px;"><u>CITATIONS</u></h3>
+<h3 style="font-size: 12px; background-color: #f2f2f2; text-align: center">Citation</h3>
 _Nota bene_
 <br />
 The one-author scheme is:<br />
@@ -32,7 +34,8 @@ The one-author scheme is:<br />
 <br />
 The multiple-author scheme is:<br />
 [Family Name], [First Name], [First Name] [Family Name], and [(last author's) [First Name] [(last author's) Family Name]. And following...
-<h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Text formatting for the references</h4>
+<h4 style="font-size: 13px; color:#b30000;">Text formatting for the references</h4>
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 
 
 <h4 style="font-size: 13px; color:#b30000;">Citation in text</h4>
