@@ -60,10 +60,9 @@ April 12, 2017], 4–5).
   </li>
 
   <li style="padding-bottom: 12px; text-align: justify;">For websites: [Website's name], s.v. "[Title (if present)],”  <[Web-Adresse]>, (accessed [Month] [Day], [Year]): <br />
-  <span style="padding-left: 15px; display: inline-block">
+  <span style="padding-left: 15px;">
     <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Stanford Encyclopedia of Philosophy, s.v. “implicature, Gricean theory,” <https://plato.stanford.edu/entries/implicature/#GriThe> (accessed April 25, 2017)<br />
-    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> 
-    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> <em>if the revision date is specified</em>: <span style="font-variant: small-caps; font-size: 17px;">w3c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).
+    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> <em>if the revision date is specified</em>: <span style="font-variant: small-caps; font-size: 17px;">w</span>3<span style="font-variant: small-caps; font-size: 17px;">c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).
     
   </span>
   </li>
