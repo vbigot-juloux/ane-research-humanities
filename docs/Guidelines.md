@@ -34,9 +34,9 @@ layout: default
   
 <h3 style="color:#b30000;">Font</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
-<ul style="list-style-type: none; font-size: 13px; color: #4d4d4d; margin-top: -16px">
+<ul style="list-style-type: none; font-size: 13px; color: #4d4d4d;">
   <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For computer language, use Courier New font, size 10pt in the content, size 9pt in the footnotes.</li>
-  <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For ancient language, write the occurrence or expression in italic</li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For ancient language, write the occurrence or expression in italic</li>
   </ul>
 
 <h3 style="color:#b30000;">Abbreviations</h3>
