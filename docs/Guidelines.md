@@ -55,7 +55,7 @@ The multiple-author scheme is:<br />
 <h4 style="font-size: 13px; color:#b30000;">Text formatting for the references</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: none">
-  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always use long dash ( – ) to mean a page or time interval.</li>
+  <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always use long dash ( – ) to mean a page or time interval.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Pay attention to the use of full stops, inverted commas, and italics.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Quotation mark should include other punctuation marks:
   <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
