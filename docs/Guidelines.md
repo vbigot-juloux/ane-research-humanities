@@ -4,18 +4,18 @@ layout: default
 ---
 
 <h2>Guidelines</h2>
-_The examples used below mostly come from “[CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving](http://ane-research-humanities.science/docs/CyberResearch-vol1).”
+_The examples used below mostly come from “[CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving](http://ane-research-humanities.science/docs/CyberResearch-vol1).”_
 <br />
 <span style="border: 0">
   <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>Abbreviations</a> | <a>Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
   </span>
 
-<br /><br />
+<br />
 <h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Abbreviations</h3>
 <p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. <br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 17px;">ane</span>)<br />
+<span style="color:#b30000; font-size: 14px; margin-left: 5px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 17px;">ane</span>)<br />
 Use small-caps for Journals and Series (no need to write it in full): <br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 17px;">jnes</span></p>
+<span style="color:#b30000; font-size: 14px; margin-left: 5px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 17px;">jnes</span></p>
 
 <h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Titles levels</h3>
 
