@@ -17,9 +17,9 @@ layout: default
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. Afterwards, use only the abbreviation. <br />
   <span style="font-size: 13px; color: #4d4d4d">
-<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 17px;">ane</span>)<br />
+<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 15px;">ane</span>)<br />
 Use small-caps for Journals and Series (no need to write it in full): <br />
-<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 17px;">jnes</span>
+<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 15px;">jnes</span>
   </span></p>
 
 <h3 style="color:#b30000;">Titles levels</h3>
@@ -44,7 +44,7 @@ The multiple-author scheme is:<br />
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>For the first occurrence, write [First name] [Last name], afterwards [Last name]: <br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> “The Ras Shamra Tablet Inventory (<span style="font-variant: small-caps; font-size: 17px;">rsti</span>) is a research project co-directed by Miller C. Prosser and Dennis Pardee. […] Among Pardee’s published works, one of the first volumes transformed and ingested into <span style="font-variant: small-caps; font-size: 17px;">rsti</span> was <em>La Trouvaille Épigraphique de l’Ougarit</em>, a volume written jointly with Pierre Bordreuil.”
+  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> “The Ras Shamra Tablet Inventory (<span style="font-variant: small-caps; font-size: 15px;">rsti</span>) is a research project co-directed by Miller C. Prosser and Dennis Pardee. […] Among Pardee’s published works, one of the first volumes transformed and ingested into <span style="font-variant: small-caps; font-size: 15px;">rsti</span> was <em>La Trouvaille Épigraphique de l’Ougarit</em>, a volume written jointly with Pierre Bordreuil.”
   </span>
 </p>
 
@@ -65,7 +65,7 @@ April 12, 2017], 4–5).
   <li style="padding-bottom: 12px; text-align: justify;">For websites<br /> 
   <span style="font-size: 13px; color: black">[Website's name],  <[Web-Adresse]>, (accessed [Month] [Day], [Year]):</span> <br />
   <span style="font-size: 13px; color: #4d4d4d">
-  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Natural Language Toolkit (<span style="font-variant: small-caps; font-size: 17px;">nltk</span>): <http://www.nltk.org/> (accessed July 1, 2017).
+  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Natural Language Toolkit (<span style="font-variant: small-caps; font-size: 15px;">nltk</span>): <http://www.nltk.org/> (accessed July 1, 2017).
   </span>
   <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
     <li> <span style="color:#b30000; font-size: 12px; margin-left: -20px">&#x27A2;</span> Particular cases:
@@ -74,7 +74,7 @@ April 12, 2017], 4–5).
                  BabelNet: <http://babelnet.org/>, FrameNet: <https://framenet.icsi.berkeley.edu/fndrupal/>, VerbNet: <http://verbs.colorado.edu/>, and WordNet: <https://wordnet.princeton.edu/> (all accessed April 15, 2017).
            </li>
            <li><u>If the revision date is specified</u>:<br />
-               <span style="font-variant: small-caps; font-size: 17px;">w</span>3<span style="font-variant: small-caps; font-size: 17px;">c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).
+               <span style="font-variant: small-caps; font-size: 15px;">w</span>3<span style="font-variant: small-caps; font-size: 15px;">c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).
                                                                                                                                                </li>
            <li><u>For a personal website</u>: 
              <ul style="list-style-type: none; margin-left: -20px">
@@ -123,14 +123,14 @@ Note:
 <li style="padding-bottom: 12px; text-align: justify">For articles in journals<br />
 <span style="font-size: 13px; color: black">[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]: [Page(s)].</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Brinkman, John A. 1984. “Settlement Surveys and Documentary Evidence: Regional Variation and Secular Trend in Mesopotamian Demography.” <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">jnes</span> 43 (3): 169–180.
+  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Brinkman, John A. 1984. “Settlement Surveys and Documentary Evidence: Regional Variation and Secular Trend in Mesopotamian Demography.” <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">jnes</span> 43 (3): 169–180.
   </span>
   </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in electronic journals<br />
 <span style="font-size: 13px; color: black">[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]. <[Web-Address]>.</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Svensson, Patrik. 2009. “Humanities Computing as Digital Humanities.” <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">dhq</span> 3 (3). <http://digitalhumanities.org/dhq/vol/3/3/000065/000065.html>.
+  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Svensson, Patrik. 2009. “Humanities Computing as Digital Humanities.” <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">dhq</span> 3 (3). <http://digitalhumanities.org/dhq/vol/3/3/000065/000065.html>.
   </span>
   </li>
 
@@ -144,7 +144,7 @@ Note:
 <li style="padding-bottom: 12px; text-align: justify">For articles in an edited volume<br />
   <span style="font-size: 13px; color: black">[Author(s)]. [Year]. “[Title].” In [Title of the Book, in italics], edited by [First Name] [Family Name], [First Name] [Family Name], and [(last editor's) First Name] [(last editor's) Family Name], [Page(s)]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].</span><br />
   <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Binding, Ceri, Keith May, and Doug Tudhope. 2008. “Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">cidoc crm.</span>” In <em>Proceedings (<span style="font-variant: small-caps; font-size: 17px;">ecdl</span> 2008) 12th European Conference on Research and Advanced Technology for Digital Libraries, Aarhus</em>, edited by Birte Christensen-Dalsgaard, Donatella Castelli, Bolette Ammitzbøll Jurik, and Joan Lippincott, 280–290. Berlin: Springer.
+    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Binding, Ceri, Keith May, and Doug Tudhope. 2008. “Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">cidoc crm.</span>” In <em>Proceedings (<span style="font-variant: small-caps; font-size: 15px;">ecdl</span> 2008) 12th European Conference on Research and Advanced Technology for Digital Libraries, Aarhus</em>, edited by Birte Christensen-Dalsgaard, Donatella Castelli, Bolette Ammitzbøll Jurik, and Joan Lippincott, 280–290. Berlin: Springer.
   </span>
 </li>
 
@@ -165,7 +165,7 @@ Note:
 <li style="padding-bottom: 12px; text-align: justify">For articles edited volumes<br />
 <span style="font-size: 13px; color: black">[Editor(s), here mentioned like the Authors in the monographs], eds. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Dirksen, Dieter, and Gert von Bally, eds. 1997. <em>Optical  Technologies in the Humanities: Selected Contributions to the International Conference on New Technologies in the Humanities and Fourth International Conference on Optics within Life Sciences <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">owls</span> IV Münster, Germany, 9–13 July 1996.</em> Series of the International Society on Optics within Life Sciences 4. Berlin: Springer.
+  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Dirksen, Dieter, and Gert von Bally, eds. 1997. <em>Optical  Technologies in the Humanities: Selected Contributions to the International Conference on New Technologies in the Humanities and Fourth International Conference on Optics within Life Sciences <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">owls</span> IV Münster, Germany, 9–13 July 1996.</em> Series of the International Society on Optics within Life Sciences 4. Berlin: Springer.
   </span>
 </li>
 
@@ -179,15 +179,15 @@ Note:
 <li style="padding-bottom: 12px; text-align: justify">For Websites<br />
 <span style="font-size: 13px; color: black">[Author(s), if present]. [Year, if present or available]. [Title of the Website, in italics]. <[Web-Address]>.</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Bavant, Marc. 2014. <em><span style="font-variant: small-caps; font-size: 17px; font-style: italic;">svg</span> Cuneiform Tool (v4.3)</em>. <http://kursoj.pagesperso-orange.fr/cunei/>.<br />
-<span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Eraslan, Doğu Kaan. 2017b. <em>PySesh: A Python <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">nlp</span> Complement to Jsesh</em>. Last modified March 22, 2017. <https://github.com/D-K-E/PySesh>.
+  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Bavant, Marc. 2014. <em><span style="font-variant: small-caps; font-size: 15px; font-style: italic;">svg</span> Cuneiform Tool (v4.3)</em>. <http://kursoj.pagesperso-orange.fr/cunei/>.<br />
+<span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Eraslan, Doğu Kaan. 2017b. <em>PySesh: A Python <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">nlp</span> Complement to Jsesh</em>. Last modified March 22, 2017. <https://github.com/D-K-E/PySesh>.
   </span>
   </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For Web articles<br />
 <span style="font-size: 13px; color: black">[Author(s), if present]. [Year, if present or available]. [Title in italics]. [Title of the Website]. <[Web-Address]>.</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Crofts, Nick, Martin Doerr, Tony Gill, Stephen Stead, and Matthew Stiff. 2008. <em>Definition of the <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">cidoc</span> Conceptual Reference Model.</em> icom/cidoc Documentation Standards Group. <span style="font-variant: small-caps; font-size: 17px;">cidoc crm</span> Special Interest Group 5. <http://www.cidoc-crm.org/get-lastofficial-release>.
+  <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Crofts, Nick, Martin Doerr, Tony Gill, Stephen Stead, and Matthew Stiff. 2008. <em>Definition of the <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">cidoc</span> Conceptual Reference Model.</em> icom/cidoc Documentation Standards Group. <span style="font-variant: small-caps; font-size: 15px;">cidoc crm</span> Special Interest Group 5. <http://www.cidoc-crm.org/get-lastofficial-release>.
   </span>
   </li>
 </ul>
