@@ -243,6 +243,13 @@ Note:
   </span>
 </li>
 
+<li style="padding-bottom: 12px; text-align: justify">For articles of conference proceedings available only online<br />
+  <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s)]. [Year]. “[Title].“ <[Web-Address]></span><br />
+  <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
+    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>Jewell, Michael O., Faith K. Lawrence, Mischa M. Tuffield, Adam Prugel-Bennett, David E. Millard, Mark S. Nixon, m.c. schraefel, and Nigel R. Shadbolt. 2005. “OntoMedia: An Ontology for the Representation of Heterogeneous Media.” <https://eprints.soton.ac.uk/261024/>
+  </span>
+  </li>
+
 <li style="padding-bottom: 12px; text-align: justify">For PhD-, MA- or other Dissertations<br />
 <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author]. [Year]. “[Title] (PhD/MA/... Diss., Unpublished).” [Place of defence]</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
@@ -258,13 +265,7 @@ Note:
   </span>
   </li>
   
-  <li style="padding-bottom: 12px; text-align: justify">For article of conference proceedings available online<br />
-  <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s)]. [Year]. “[Title].“ <[Web-Address]></span><br />
-  <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>Jewell, Michael O., Faith K. Lawrence, Mischa M. Tuffield, Adam Prugel-Bennett, David E. Millard, Mark S. Nixon, m.c. schraefel, and Nigel R. Shadbolt. 2005. “OntoMedia: An Ontology for the Representation of Heterogeneous Media.” <https://eprints.soton.ac.uk/261024/>
-  </span>
-  </li>
-
+  
 <li style="padding-bottom: 12px; text-align: justify">For Web articles<br />
 <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s), if present]. [Year, if present or available]. [Title in italics]. [Title of the Website]. <[Web-Address]></span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
