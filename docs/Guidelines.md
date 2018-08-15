@@ -46,7 +46,7 @@ layout: default
   <li>… if one finds (Unicode U+12217) on a cuneiform tablet, the transliteration would read “lugal,” which means king.</li>
       </ul>
       </li>
-   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Use diacritic glyph, i.e.: Ras Šamra instead of Ras Shamra.</li>
+   <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Use diacritic glyph, i.e.: Ras Šamra instead of Ras Shamra.</li>
   </ul>
 
 <h3 style="color:#b30000;">Abbreviations</h3>
