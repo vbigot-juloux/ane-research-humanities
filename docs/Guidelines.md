@@ -62,7 +62,7 @@ The multiple-author scheme is:<br />
   <li>- “The <span style="font-variant: small-caps; font-size: 15px;">cidoc</span> Conceptual Reference Model (<span style="font-variant: small-caps; font-size: 15px;">cidoc crm</span>)<span style="font-size: 9px"><sup>71</sup></span> is a leading standard…”</li>
   </ul>
   </li>
-<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Please beware: Arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
+<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Be aware: Arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
   <li>Names with particles, including aristrocratic particles, shall be removed in citation within footnotes (“van…”, “de…”, “di…”, “von…”, “de la…”, etc.). In the list of references, if the name with particle is the first author, write:
   <ul style="list-style-type: none">
     <li>- In footnote: “Ludovico. Soldt.</li>
