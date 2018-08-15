@@ -51,16 +51,20 @@ The multiple-author scheme is:<br />
 <ul style="list-style-type: circle;">
   <li style="padding-bottom: 12px; text-align: justify;">The scheme for printed or electronic articles and monographs is: [Family Name] [Year], [Page(s)]: <br />
     <span style="padding-left: 15px; display: inline-block">
-      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>Korfmann 1983, 216–217, 242.<br/>
-      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>Seeher 1992: fig. 7.3–4;<br />
-      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>Makowski 2005, 14–15; Renfrew 1969, 9.
+      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Korfmann 1983, 216–217, 242.<br/>
+      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Seeher 1992: fig. 7.3–4.<br />
+      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Makowski 2005, 14–15; Renfrew 1969, 9.<br />
+      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>See Schmidt (2014, <http://jtei.revues.org/979> [accessed
+April 12, 2017], 4–5).
     </span>
   </li>
 
-
-  <li style="padding-bottom: 12px; text-align: justify;">For websites: “[Title (if present)].” <[Web-Adresse]>, last accessed [Month] [Day], [Year]: <br />
+  <li style="padding-bottom: 12px; text-align: justify;">For websites: [Website's name], s.v. "[Title (if present)],”  <[Web-Adresse]>, (accessed [Month] [Day], [Year]): <br />
   <span style="padding-left: 15px; display: inline-block">
-    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>
+    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Stanford Encyclopedia of Philosophy, s.v. “implicature, Gricean theory,” <https://plato.stanford.edu/entries/implicature/#GriThe> (accessed April 25, 2017)<br />
+    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> 
+    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> <em>if the revision date is specified</em>: <span style="font-variant: small-caps; font-size: 17px;">w3c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).
+    
   </span>
   </li>
   </ul>
@@ -72,11 +76,13 @@ Note:
    <span style="padding-left: 15px; display: inline-block">
      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> … as in Bovon 2004, 318–319. […] Furthermore, … (ibid., 321).</span>
   </li>
+  
   <li style="padding-bottom: 12px; text-align: justify">If there is more than 3 co-authors, [first co-author's name] + et al. [Year], [Page(s) if needed]: <br />
     <span style="padding-left: 15px; display: inline-block">
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>Gansell et al. 2014, 194–205.
     </span>
   </li>
+</ul>
 
 <h4 style="font-size: 13px; color:#b30000;">Citation in the list of references</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
