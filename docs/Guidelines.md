@@ -18,7 +18,8 @@ layout: default
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in daily journals<br />
 [Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics], [Month] [Day]. <[Web-Address]>.<br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> </li>
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Pannapacker, William. 2013. “Stop Calling It 'Digital Humanities.’” <em>The Chronicle of Higher Education</em>, February 18, 2013. <http://www.chronicle.com/article/Stop-Calling-
+It-Digital/137325>.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in an edited volume<br />
   [Author(s)]. [Year]. “[Title].” In [Title of the Book, in italics], edited by [First Name] [Family Name], [First Name] [Family Name], and [(last editor's) First Name] [(last editor's) Family Name], [Page(s)]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
