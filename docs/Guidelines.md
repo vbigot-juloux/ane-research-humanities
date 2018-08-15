@@ -54,16 +54,16 @@ The multiple-author scheme is:<br />
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Korfmann 1983, 216–217, 242.<br/>
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Seeher 1992: fig. 7.3–4.<br />
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Makowski 2005, 14–15; Renfrew 1969, 9.<br />
-      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>See Schmidt (2014, <http://jtei.revues.org/979> [accessed
+      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> See Schmidt (2014, <http://jtei.revues.org/979> [accessed
 April 12, 2017], 4–5).
     </span>
   </li>
 
   <li style="padding-bottom: 12px; text-align: justify;">For websites: [Website's name],  <[Web-Adresse]>, (accessed [Month] [Day], [Year]): <br />
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Natural Language Toolkit (<span style="font-variant: small-caps; font-size: 17px;">nltk</span>): <http://www.nltk.org/> (accessed July 1, 2017).
-  <ul style="list-style-type: square;">
+  <ul style="list-style-type: square; padding-left: 5px">
     <li> Particular cases:
-        <ul style="list-style-type:decimal; style="padding-left: 5px">
+        <ul style="list-style-type:decimal;">
            <li><u>For a succession of websites, with an access the same day</u>:<br />
                  BabelNet: <http://babelnet.org/>, FrameNet: <https://framenet.icsi.berkeley.edu/fndrupal/>, VerbNet: <http://verbs.colorado.edu/>, and WordNet: <https://wordnet.princeton.edu/> (all accessed April 15, 2017).
            </li>
@@ -73,11 +73,10 @@ April 12, 2017], 4–5).
            <li><u>For a personal website</u>: <br />
              Pagé-Perron 2017, (<http://irkalla.net/adab/> [accessed May 22, 2017]).<br />                                                                                                                                            
            Pérez and Granger 2007, <https://www.computer.org/csdl/mags/cs/2007/03/index.html> [accessed July 2, 2017]                                                                                                                                </li>
-                                                                                                                                         <li><u>As for an example of tools/approaches avaiblable online</ul>:<br />
+                                                                                                                                         <li><u>As for an example of tools/approaches avaiblable online</u>:<br />
          RegExr (<http://www.regexr.com/> [accessed May 19, 2017]). <br />
     Sigma.js is available as a Gephi module (<http://sigmajs.org/> [accessed May 19, 2017].<br />  <https://gephi.org/plugins/#/plugin/sigmaexporter> [accessed May 19, 2017]).<br />
-  For the Python programming language, see <https://www.python.org/> (accessed July 1, 2017).<br />
-                                                                                                                                         </li>
+  For the Python programming language, see <https://www.python.org/> (accessed July 1, 2017).<br />                                   </li>
            <li><u>No website title for this specific case</u>:<br />
 The volumes are freely downloadable at <https://oi.uchicago.edu/research/publications/assyrian-dictionary-oriental-institute-university-chicagocad> (accessed June 21, 2017).</li>                                        
         </ul>
