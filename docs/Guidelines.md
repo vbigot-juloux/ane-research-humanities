@@ -50,7 +50,7 @@ The multiple-author scheme is:<br />
     <li>- <u>With the exception of a translation's word</u>: <em>muḫḫu</em> (3,493), “skull, top, concerning (something)”.</li> 
     </ul>
   </li>
-<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always write websites between < > and not underlined (they should not be web-links--please de-activate each web-link in the text and bibliography).</li>
+<li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always write websites between < > and not underlined (they should not be web-links--please de-activate each web-link in the text and bibliography).</li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> English titles should be, as usual, written with capital first letters for verbs, substantives and adjectives.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Put all bibliography in footnotes, nothing in the text.</li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Call of footnote should follow a punctuation mark:
@@ -62,14 +62,14 @@ The multiple-author scheme is:<br />
   <li>- “The <span style="font-variant: small-caps; font-size: 15px;">cidoc</span> Conceptual Reference Model (<span style="font-variant: small-caps; font-size: 15px;">cidoc crm</span>)<sup style="font-size: 9px">71</sup> is a leading standard…”</li>
   </ul>
   </li>
-<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Be aware: Arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
+<li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Be aware: Arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
   <li>Names with particles, including aristrocratic particles, shall be removed in citation within footnotes (“van…”, “de…”, “di…”, “von…”, “de la…”, etc.). In the list of references, if the name with particle is the first author, write:
   <ul style="list-style-type: none">
     <li>- In footnote: “Ludovico. Soldt.</li>
      <li>- In the citation list: “Ludovico, Alessandro di. Soldt, Wilfred van.</li>
     </ul>
     </li>
-  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Do no write particle with capital.</li>
+  <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Do no write particle with capital.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Second Names should be abbreviated.</li>
   </ul>
 
