@@ -101,7 +101,7 @@ Note:
   
   <li style="padding-bottom: 12px; text-align: justify">If there is more than 3 co-authors, [first co-author's name] + et al. [Year], [Page(s) if needed]: <br />
     <span style="padding-left: 15px; display: inline-block">
-      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span>Gansell et al. 2014, 194–205.
+      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Gansell et al. 2014, 194–205.
     </span>
   </li>
 </ul>
