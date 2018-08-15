@@ -47,9 +47,9 @@ The multiple-author scheme is:<br />
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Put all bibliography in footnotes, nothing in the text.</li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Call of footnote should follow a punctuation mark:
 <ul style="list-style-type: none">
-  <li>- “… based on a text format.<sub>14</sub>“</li>
-  <li>- “… in his definition of apocryphal texts,<sub>38</sub>“</li>
-  <li>- “… in the Leuven Database of Ancient Books (LDAB):<sub>9</sub>“</li>
+  <li>- “… based on a text format.<sup>14</sup>“</li>
+  <li>- “… in his definition of apocryphal texts,<sup>38</sup>“</li>
+  <li>- “… in the Leuven Database of Ancient Books (LDAB):<sup>9</sup>“</li>
   </ul>
   </li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Please beware: arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
