@@ -38,7 +38,7 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
       </li>
     </ul>
   </li>
-  <li style="margin-top: -12px">L1 title name of level 1</li>
+  <li style="margin-top: -15px">L1 title name of level 1</li>
   </ul>
 
 <h3 style="color:#b30000;">Illustrations</h3>
