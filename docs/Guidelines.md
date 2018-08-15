@@ -61,17 +61,25 @@ April 12, 2017], 4–5).
 
   <li style="padding-bottom: 12px; text-align: justify;">For websites: [Website's name],  <[Web-Adresse]>, (accessed [Month] [Day], [Year]): <br />
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Natural Language Toolkit (<span style="font-variant: small-caps; font-size: 17px;">nltk</span>): <http://www.nltk.org/> (accessed July 1, 2017).
-  <ul style="list-style-type: circle; margin-top: -12px;">
+  <ul style="list-style-type: square;">
     <li> Particular cases:
-        <ul style="list-style-type:decimal; margin-top: -12px; style="padding-left: 5px">
-           <li><em>For a succession of websites, with an access the same day</em>: BabelNet: <http://babelnet.org/>, FrameNet: <https://framenet.icsi.berkeley.edu/fndrupal/>, VerbNet: <http://verbs.colorado.edu/>, and WordNet: <https://wordnet.princeton.edu/> (all accessed April 15, 2017).</li>
-           <li><em>If the revision date is specified</em>: <span style="font-variant: small-caps; font-size: 17px;">w</span>3<span style="font-variant: small-caps; font-size: 17px;">c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).</li>
-           <li><em>For a personal website</em>: Pagé-Perron 2017, (<http://irkalla.net/adab/> [accessed May 22, 2017]).</li>
-           <li>Pérez and Granger 2007, <https://www.computer.org/csdl/mags/cs/2007/03/index.html> [accessed July 2, 2017]<br />
-     <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> As for an example of tools/approaches avaiblable online:</em> RegExr (<http://www.regexr.com/> [accessed May 19, 2017]). <br />
+        <ul style="list-style-type:decimal; style="padding-left: 5px">
+           <li><u>For a succession of websites, with an access the same day</u>:<br />
+                 BabelNet: <http://babelnet.org/>, FrameNet: <https://framenet.icsi.berkeley.edu/fndrupal/>, VerbNet: <http://verbs.colorado.edu/>, and WordNet: <https://wordnet.princeton.edu/> (all accessed April 15, 2017).
+           </li>
+           <li><u>If the revision date is specified</u>:<br />
+               <span style="font-variant: small-caps; font-size: 17px;">w</span>3<span style="font-variant: small-caps; font-size: 17px;">c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).
+                                                                                                                                               </li>
+           <li><u>For a personal website</u>: <br />
+             Pagé-Perron 2017, (<http://irkalla.net/adab/> [accessed May 22, 2017]).<br />                                                                                                                                            
+           Pérez and Granger 2007, <https://www.computer.org/csdl/mags/cs/2007/03/index.html> [accessed July 2, 2017]                                                                                                                                </li>
+                                                                                                                                         <li><u>As for an example of tools/approaches avaiblable online</ul>:<br />
+         RegExr (<http://www.regexr.com/> [accessed May 19, 2017]). <br />
     Sigma.js is available as a Gephi module (<http://sigmajs.org/> [accessed May 19, 2017].<br />  <https://gephi.org/plugins/#/plugin/sigmaexporter> [accessed May 19, 2017]).<br />
-  For the Python programming language, see <https://www.python.org/> (accessed July 1, 2017).<br /></li>
-           <li><em>No website title for this specific case</em>: The volumes are freely downloadable at <https://oi.uchicago.edu/research/publications/assyrian-dictionary-oriental-institute-university-chicagocad> (accessed June 21, 2017).</li>                                        
+  For the Python programming language, see <https://www.python.org/> (accessed July 1, 2017).<br />
+                                                                                                                                         </li>
+           <li><u>No website title for this specific case</u>:<br />
+The volumes are freely downloadable at <https://oi.uchicago.edu/research/publications/assyrian-dictionary-oriental-institute-university-chicagocad> (accessed June 21, 2017).</li>                                        
         </ul>
     </li>
   </ul>
