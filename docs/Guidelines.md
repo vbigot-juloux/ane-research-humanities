@@ -51,7 +51,8 @@ The multiple-author scheme is:<br />
 <h4 style="font-size: 13px; color:#b30000;">Citation in footnote</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: circle;">
-  <li style="padding-bottom: 12px; text-align: justify;">The scheme for printed or electronic articles and monographs is: [Family Name] [Year], [Page(s)]: <br />
+  <li style="padding-bottom: 12px; text-align: justify;">Scheme for printed or electronic articles and monographs<br />
+    <span style="font-size: 13px; color: black">[Family Name] [Year], [Page(s)]:</span> <br />
     <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Korfmann 1983, 216–217, 242.<br/>
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Seeher 1992: fig. 7.3–4.<br />
@@ -61,7 +62,8 @@ April 12, 2017], 4–5).
     </span>
   </li>
 
-  <li style="padding-bottom: 12px; text-align: justify;">For websites: [Website's name],  <[Web-Adresse]>, (accessed [Month] [Day], [Year]): <br />
+  <li style="padding-bottom: 12px; text-align: justify;">For websites 
+  <span style="font-size: 13px; color: black">[Website's name],  <[Web-Adresse]>, (accessed [Month] [Day], [Year]):</span> <br />
   <span style="font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Natural Language Toolkit (<span style="font-variant: small-caps; font-size: 17px;">nltk</span>): <http://www.nltk.org/> (accessed July 1, 2017).
   </span>
@@ -74,20 +76,24 @@ April 12, 2017], 4–5).
            <li><u>If the revision date is specified</u>:<br />
                <span style="font-variant: small-caps; font-size: 17px;">w</span>3<span style="font-variant: small-caps; font-size: 17px;">c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).
                                                                                                                                                </li>
-           <li><u>For a personal website</u>: <br />
-             Pagé-Perron 2017, (<http://irkalla.net/adab/> [accessed May 22, 2017]).<br />                                                                                                                                            
-           Pérez and Granger 2007, <https://www.computer.org/csdl/mags/cs/2007/03/index.html> [accessed July 2, 2017]                                                                                                                                </li>
-                                                                                                                                         <li><u>As for an example of tools/approaches avaiblable online</u>:<br />
-         RegExr (<http://www.regexr.com/> [accessed May 19, 2017]). <br />
-    Sigma.js is available as a Gephi module (<http://sigmajs.org/> [accessed May 19, 2017].<br />  <https://gephi.org/plugins/#/plugin/sigmaexporter> [accessed May 19, 2017]).<br />
-  For the Python programming language, see <https://www.python.org/> (accessed July 1, 2017).<br />                                   </li>
+           <li><u>For a personal website</u>: 
+             <ul style="list-style-type: none;">
+               <li>- Pagé-Perron 2017, (<http://irkalla.net/adab/> [accessed May 22, 2017]).</li>                                                                                                                                         
+           <li>- Pérez and Granger 2007, <https://www.computer.org/csdl/mags/cs/2007/03/index.html> [accessed July 2, 2017].</li>   
+               </ul>
+               </li>
+                                                                                                                                         <li><u>As for an example of tools/approaches avaiblable online</u>:
+                                                                                                                                                  <ul style="list-style-type: none;">                                                                                                                                       <li>- RegExr (<http://www.regexr.com/> [accessed May 19, 2017]). </li>                                                                                                                                           <li- >Sigma.js is available as a Gephi module (<http://sigmajs.org/> [accessed May 19, 2017]. <https://gephi.org/plugins/#/plugin/sigmaexporter> [accessed May 19, 2017]).</li> 
+<li>- For the Python programming language, see <https://www.python.org/> (accessed July 1, 2017).</li>                                                                                                                                      </ul>
+          </li>
            <li><u>No website title for this specific case</u>:<br />
 The volumes are freely downloadable at <https://oi.uchicago.edu/research/publications/assyrian-dictionary-oriental-institute-university-chicagocad> (accessed June 21, 2017).</li>                                        
         </ul>
     </li>
   </ul>
  </li>
- <li style="padding-bottom: 12px; text-align: justify;">Online encyclopedias and similar: [Website's name], s.v. "[Title (if present)],”  <[Web-Adresse]>, (accessed [Month] [Day], [Year]): <br />
+ <li style="padding-bottom: 12px; text-align: justify;">For online encyclopedias and similar:<br />
+   <span style="font-size: 13px; color: black">[Website's name], s.v. "[Title (if present)],”  <[Web-Adresse]>, (accessed [Month] [Day], [Year]):</span> <br />
   <span style="padding-left: 15px; font-size: 13px; color: #4d4d4d">
     <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Stanford Encyclopedia of Philosophy, s.v. “implicature, Gricean theory,” <https://plato.stanford.edu/entries/implicature/#GriThe> (accessed April 25, 2017).<br />
    
@@ -115,63 +121,63 @@ Note:
 
 <ul style="list-style-type: circle;">
 <li style="padding-bottom: 12px; text-align: justify">For articles in journals<br />
-[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]: [Page(s)].<br />
+span style="font-size: 13px; color: black">[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]: [Page(s)].</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Brinkman, John A. 1984. “Settlement Surveys and Documentary Evidence: Regional Variation and Secular Trend in Mesopotamian Demography.” <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">jnes</span> 43 (3): 169–180.
   </span>
   </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in electronic journals<br />
-[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]. <[Web-Address]>.<br />
+span style="font-size: 13px; color: black">[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]. <[Web-Address]>.</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Svensson, Patrik. 2009. “Humanities Computing as Digital Humanities.” <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">dhq</span> 3 (3). <http://digitalhumanities.org/dhq/vol/3/3/000065/000065.html>.
   </span>
   </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in daily journals<br />
-[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics], [Month] [Day]. <[Web-Address]>.<br />
+span style="font-size: 13px; color: black">[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics], [Month] [Day]. <[Web-Address]>.</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Pannapacker, William. 2013. “Stop Calling It 'Digital Humanities.’” <em>The Chronicle of Higher Education</em>, February 18, 2013. <http://www.chronicle.com/article/Stop-Calling-It-Digital/137325>.
   </span>
   </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in an edited volume<br />
-  [Author(s)]. [Year]. “[Title].” In [Title of the Book, in italics], edited by [First Name] [Family Name], [First Name] [Family Name], and [(last editor's) First Name] [(last editor's) Family Name], [Page(s)]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
+  span style="font-size: 13px; color: black">[Author(s)]. [Year]. “[Title].” In [Title of the Book, in italics], edited by [First Name] [Family Name], [First Name] [Family Name], and [(last editor's) First Name] [(last editor's) Family Name], [Page(s)]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].</span><br />
   <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
     <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Binding, Ceri, Keith May, and Doug Tudhope. 2008. “Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">cidoc crm.</span>” In <em>Proceedings (<span style="font-variant: small-caps; font-size: 17px;">ecdl</span> 2008) 12th European Conference on Research and Advanced Technology for Digital Libraries, Aarhus</em>, edited by Birte Christensen-Dalsgaard, Donatella Castelli, Bolette Ammitzbøll Jurik, and Joan Lippincott, 280–290. Berlin: Springer.
   </span>
 </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For monographs<br />
-[Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
+<span style="font-size: 13px; color: black">[Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher]</span>.<br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Gardiner, Eileen, and Ronald G. Musto. 2015. <em>The Digital Humanities: A Primer for Students and Scholars</em>. New York: Cambridge University Press.
   </span>
 </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For electronic web-books<br />
-[Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher]. <[Web-Address]>.<br />
+span style="font-size: 13px; color: black">[Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher]. <[Web-Address]>.</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> 
   </span>
   </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles edited volumes<br />
-[Editor(s), here mentioned like the Authors in the monographs], eds. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
+span style="font-size: 13px; color: black">[Editor(s), here mentioned like the Authors in the monographs], eds. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Dirksen, Dieter, and Gert von Bally, eds. 1997. <em>Optical  Technologies in the Humanities: Selected Contributions to the International Conference on New Technologies in the Humanities and Fourth International Conference on Optics within Life Sciences <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">owls</span> IV Münster, Germany, 9–13 July 1996.</em> Series of the International Society on Optics within Life Sciences 4. Berlin: Springer.
   </span>
 </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For PhD-, MA- or other Dissertations<br />
-[Author]. [Year]. “[Title] (PhD/MA/... Diss., Unpublished).” [Place of defence].<br />
+span style="font-size: 13px; color: black">[Author]. [Year]. “[Title] (PhD/MA/... Diss., Unpublished).” [Place of defence].</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Lawrence, Faith K. 2008. “The Web of Community Trust Amateur Fiction Online: A Case Study in Community Focused Design for the Semantic Web.” PhD diss., University of Southampton.
   </span>
 </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For Websites<br />
-[Author(s), if present]. [Year, if present or available]. [Title of the Website, in italics]. <[Web-Address]>.<br />
+span style="font-size: 13px; color: black">[Author(s), if present]. [Year, if present or available]. [Title of the Website, in italics]. <[Web-Address]>.</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Bavant, Marc. 2014. <em><span style="font-variant: small-caps; font-size: 17px; font-style: italic;">svg</span> Cuneiform Tool (v4.3)</em>. <http://kursoj.pagesperso-orange.fr/cunei/>.<br />
 <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Eraslan, Doğu Kaan. 2017b. <em>PySesh: A Python <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">nlp</span> Complement to Jsesh</em>. Last modified March 22, 2017. <https://github.com/D-K-E/PySesh>.
@@ -179,7 +185,7 @@ Note:
   </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For Web articles<br />
-[Author(s), if present]. [Year, if present or available]. [Title in italics]. [Title of the Website]. <[Web-Address]>.<br />
+span style="font-size: 13px; color: black">[Author(s), if present]. [Year, if present or available]. [Title in italics]. [Title of the Website]. <[Web-Address]>.</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Crofts, Nick, Martin Doerr, Tony Gill, Stephen Stead, and Matthew Stiff. 2008. <em>Definition of the <span style="font-variant: small-caps; font-size: 17px; font-style: italic;">cidoc</span> Conceptual Reference Model.</em> icom/cidoc Documentation Standards Group. <span style="font-variant: small-caps; font-size: 17px;">cidoc crm</span> Special Interest Group 5. <http://www.cidoc-crm.org/get-lastofficial-release>.
   </span>
