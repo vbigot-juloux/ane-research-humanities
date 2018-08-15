@@ -28,17 +28,17 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 <p>Do not use “1,” “2,”, "A,” “B,” … Instead indicate heading levels: L1, L2, L3, L4. Try to avoid more than four levels.</p>
 <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
   <li>L1 title name of level 1
-    <ul style="list-style-type: none">
+    <ul style="list-style-type: none; margin-left: -12px;">
       <li>L2 sub-title name of level 2</li>
       <li>L2 sub-title name of level 2
-      <ul style="list-style-type: none">
+      <ul style="list-style-type: none; margin-left: -12px;">
         <li>L3 sub-title name of level 3</li>
         <li>L3 sub-title name of level 3</li>
         </ul>
       </li>
     </ul>
   </li>
-  <li>L1 title name of level 1</li>
+  <li style="margin-top: -12px">L1 title name of level 1</li>
   </ul>
 
 <h3 style="color:#b30000;">Illustrations</h3>
