@@ -4,7 +4,8 @@ layout: default
 ---
 
 <h2>Guidelines</h2>
-
+_The examples used below mostly come from “[CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving](http://ane-research-humanities.science/docs/CyberResearch-vol1).”
+<br />
 <span style="border: 0">
   <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>Abbreviations</a> | <a>Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
   </span>
@@ -21,9 +22,6 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 <h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Illustrations</h3>
 
 <h3 style="font-size: 12px;"><u>CITATIONS</u></h3>
-
-<h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Text formatting for the references</h4>
-
 _Nota bene_
 <br />
 The one-author scheme is:<br />
@@ -31,8 +29,11 @@ The one-author scheme is:<br />
 <br />
 The multiple-author scheme is:<br />
 [Family Name], [First Name], [First Name] [Family Name], and [(last author's) [First Name] [(last author's) Family Name]. And following...
+<h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Text formatting for the references</h4>
 
 <h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in text</h4>
+<p>For the first occurrence, write [First name] [Last name], afterwards [Last name]: <br />
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> “The Ras Shamra Tablet Inventory (<span style="font-variant: small-caps; font-size: 17px;">rsti</span>) is a research project co-directed by Miller C. Prosser and Dennis Pardee. [...] Among Pardee’s published works, one of the first volumes transformed and ingested into <span style="font-variant: small-caps; font-size: 17px;">rsti</span> was <em>La Trouvaille Épigraphique de l’Ougarit</em>, a volume written jointly with Pierre Bordreuil.”
 
 <h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in footnote</h4>
 
