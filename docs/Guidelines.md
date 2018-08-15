@@ -9,20 +9,11 @@ layout: default
 <br >
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <span style="border: 0">
-  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>Abbreviations</a> | <a>Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
+  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>Titles levels</a> | <a>Font</a> | <a>Abbreviations</a | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
   </span>
   
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <br />
-<h3 style="color:#b30000;">Abbreviations</h3>
-<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
-<p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. Afterwards, use only the abbreviation. <br />
-  <span style="font-size: 13px; color: #4d4d4d">
-<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 15px;">ane</span>)<br />
-Use small-caps for Journals and Series (no need to write it in full): <br />
-<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 15px;">jnes</span>
-  </span></p>
-
 <h3 style="color:#b30000;">Titles levels</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>Do not use “1,” “2,”, "A,” “B,” … Instead indicate heading levels: L1, L2, L3, L4. Try to avoid more than four levels.</p>
@@ -40,6 +31,15 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
   </li>
   <li style="margin-top: -15px">L1 title name of level 1</li>
   </ul>
+
+<h3 style="color:#b30000;">Abbreviations</h3>
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
+<p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. Afterwards, use only the abbreviation. <br />
+  <span style="font-size: 13px; color: #4d4d4d">
+<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 15px;">ane</span>)<br />
+Use small-caps for Journals and Series (no need to write it in full): <br />
+<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 15px;">jnes</span>
+  </span></p>
 
 <h3 style="color:#b30000;">Illustrations</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
