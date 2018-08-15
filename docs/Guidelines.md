@@ -68,7 +68,7 @@ April 12, 2017], 4–5).
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Natural Language Toolkit (<span style="font-variant: small-caps; font-size: 17px;">nltk</span>): <http://www.nltk.org/> (accessed July 1, 2017).
   </span>
   <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
-    <li> <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Particular cases:
+    <li> <span style="color:#b30000; font-size: 12px; margin-left: -20px">&#x27A2;</span> Particular cases:
         <ul style="list-style-type:decimal;">
            <li><u>For a succession of websites, with an access the same day</u>:<br />
                  BabelNet: <http://babelnet.org/>, FrameNet: <https://framenet.icsi.berkeley.edu/fndrupal/>, VerbNet: <http://verbs.colorado.edu/>, and WordNet: <https://wordnet.princeton.edu/> (all accessed April 15, 2017).
@@ -77,13 +77,13 @@ April 12, 2017], 4–5).
                <span style="font-variant: small-caps; font-size: 17px;">w</span>3<span style="font-variant: small-caps; font-size: 17px;">c</span> (last revised 2008, <https://www.w3.org/TR/xml/#syntax> [accessed June 10, 2017]).
                                                                                                                                                </li>
            <li><u>For a personal website</u>: 
-             <ul style="list-style-type: none;">
+             <ul style="list-style-type: none; margin-left: -20px">
                <li>- Pagé-Perron 2017, (<http://irkalla.net/adab/> [accessed May 22, 2017]).</li>                                                                                                                                         
            <li>- Pérez and Granger 2007, <https://www.computer.org/csdl/mags/cs/2007/03/index.html> [accessed July 2, 2017].</li>   
                </ul>
                </li>
-                                                                                                                                         <li><u>As for an example of tools/approaches avaiblable online</u>:
-                                                                                                                                                  <ul style="list-style-type: none;">                                                                                                                                       <li>- RegExr (<http://www.regexr.com/> [accessed May 19, 2017]). </li>                                                                                                                                           <li>- Sigma.js is available as a Gephi module (<http://sigmajs.org/> [accessed May 19, 2017]. <https://gephi.org/plugins/#/plugin/sigmaexporter> [accessed May 19, 2017]).</li> 
+                                                                                                                                         <li style="margin-top: -12px"><u>As for an example of tools/approaches avaiblable online</u>:
+                                                                                                                                                  <ul style="list-style-type: none; margin-left: -20px">                                                                                                                                       <li>- RegExr (<http://www.regexr.com/> [accessed May 19, 2017]). </li>                                                                                                                                           <li>- Sigma.js is available as a Gephi module (<http://sigmajs.org/> [accessed May 19, 2017]. <https://gephi.org/plugins/#/plugin/sigmaexporter> [accessed May 19, 2017]).</li> 
 <li>- For the Python programming language, see <https://www.python.org/> (accessed July 1, 2017).</li>                                                                                                                                      </ul>
           </li>
            <li><u>No website title for this specific case</u>:<br />
