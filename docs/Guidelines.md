@@ -20,7 +20,7 @@ layout: default
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: none">
   <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For computer language, use Courier New font, size 10pt in the content, size 9pt in the footnotes.</li>
-  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For ancient language transliterated in latin script, write the occurrence or expression in italic, exept when the word/expression is within quotation mark:<br />
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For ancient language transliterated in latin script, write the occurrence or expression in italic, except when the word/expression is within quotation mark:<br />
     <span style="font-size: 13px; color: #4d4d4d; padding-left: 18px">… is transcribed as “mḫṣ.”</span>
   </li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For cuneiform or hieroglyph sign(s), provide the unicode reference at the desired location. The publisher will change to cuneiform/hieroglyph script during the editing process. For example:
