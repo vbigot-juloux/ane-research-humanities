@@ -51,9 +51,9 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 
 <h3 style="color:#b30000;">Illustrations</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
-<p>Always provide a file in high resolution. For a photo, we recommand .tiff and for a graphic .svg.</p>
-<p>File name should be: [number]_[Author's name]: 1_Bigot-Juloux (for illustration 1), 2_Bigot-Juloux (for illustration 2), …</p>
-<p>Never add illustration(s) within the content. Instead, write in the desired location <span style="color: rgba(191, 4, 27, 0.97)">[PLACE ILLUSTRATION “number + size HERE]</span>. There are three different sizes: Small (S), Medium (M), Large (L). So you should write for example:</p>
+<p>Always provide a file in high resolution. For a photo, we recommand .tiff and for a graphic .svg.<br />
+ The file name should be: <span style="color: rgba(191, 4, 27, 0.97)">[Author's last name]_[number]</span>: Bigot-Juloux_1.svg (for illustration 1), Bigot-Juloux_2.tiff (for illustration 2), …<br />
+Never add illustration(s) within the content. Instead, write in the desired location <span style="color: rgba(191, 4, 27, 0.97)">[PLACE ILLUSTRATION “number”(size) HERE]</span>. There are three different sizes: Small (S), Medium (M), Large (L). So you should write for example:</p>
 <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d;">
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> [PLACE ILLUSTRATION 1(S) HERE]</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> [PLACE ILLUSTRATION 2(L) HERE]</li>
