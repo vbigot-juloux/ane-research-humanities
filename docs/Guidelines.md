@@ -42,6 +42,14 @@ The multiple-author scheme is:<br />
 <ul style="list-style-type: none">
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always use long dash ( – ) to mean a page or time interval.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Pay attention to the use of full stops, inverted commas, and italics.</li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Quotation mark should include other punctuation marks:
+  <ul>
+    <li>- … which defined objects as a descriptive list of qualities, or “factors,” allowed objects…</li>
+    <li>- … from geographically defined styles to the notion of “communities of styles.</li>
+    <li>- Its inflectional form “t-m-t-ḫṣ-n,”…</li>
+    <li><u>With the exception of a translation's word: <em>muḫḫu</em (3,493), “skull, top, concerning (something)”. 
+    </ul>
+  </li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always write websites between < > and not underlined (they should not be web-links--please de-activate each web-link in the text and bibliography).</li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> English titles should be, as usual, written with capital first letters for verbs, substantives and adjectives.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Put all bibliography in footnotes, nothing in the text.</li>
@@ -50,9 +58,11 @@ The multiple-author scheme is:<br />
   <li>- “… based on a text format.<span style="font-size: 9px"><sup>14</sup></span>“</li>
   <li>- “… in his definition of apocryphal texts,<span style="font-size: 9px"><sup>38</sup></span>“</li>
   <li>- “… in the Leuven Database of Ancient Books (LDAB):<span style="font-size: 9px"><sup>9</sup></span>“</li>
+  <li>- “… on site (mounted on an optical theodolite).<span style="font-size: 9px"><sup>15</sup></span>”</li>
+  <li>- “The <span style="font-variant: small-caps; font-size: 15px;">cidoc</span> Conceptual Reference Model (<span style="font-variant: small-caps; font-size: 15px;">cidoc crm</span>)<span style="font-size: 9px"><sup>71</sup></span> is a leading standard…”</li>
   </ul>
   </li>
-<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Please beware: arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
+<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Please beware: Arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
   <li>Names with particles, including aristrocratic particles, shall be removed in citation within footnotes (“van…”, “de…”, “di…”, “von…”, “de la…”, etc.). In the list of references, if the name with particle is the first author, write:
   <ul style="list-style-type: none">
     <li>- In footnote: “Ludovico. Soldt.</li>
