@@ -9,13 +9,14 @@ layout: default
 <span style="border: 0">
   <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>Abbreviations</a> | <a>Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
   </span>
+  
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
-<br />
 <h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Abbreviations</h3>
 <p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. <br />
-<span style="color:#b30000; font-size: 14px; padding-left: 5px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 17px;">ane</span>)<br />
+<span style="color:#b30000; font-size: 14px; padding-left: 10px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 17px;">ane</span>)<br />
 Use small-caps for Journals and Series (no need to write it in full): <br />
-<span style="color:#b30000; font-size: 14px; padding-left: 5px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 17px;">jnes</span></p>
+<span style="color:#b30000; font-size: 14px; padding-left: 10px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 17px;">jnes</span></p>
 
 <h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Titles levels</h3>
 
