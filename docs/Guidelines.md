@@ -3,7 +3,7 @@ title: Guidelines
 layout: default
 ---
 
-<h2>Guidelines</h2>
+<h2 style="color:#b30000; font-size: 15px">Guidelines</h2>
 <p>Note: The examples used below mostly come from <em><a href="http://ane-research-humanities.science/docs/CyberResearch-vol1" target="_blank">CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</a></em>.</p>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <span style="border: 0">
@@ -34,7 +34,7 @@ The multiple-author scheme is:<br />
 
 <h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in text</h4>
 <p>For the first occurrence, write [First name] [Last name], afterwards [Last name]: <br />
-<span style="paddding-left: 10px"><span style="color:#b30000; font-size: 14px;">&#x27A2;</span> “The Ras Shamra Tablet Inventory (<span style="font-variant: small-caps; font-size: 17px;">rsti</span>) is a research project co-directed by Miller C. Prosser and Dennis Pardee. [...] Among Pardee’s published works, one of the first volumes transformed and ingested into <span style="font-variant: small-caps; font-size: 17px;">rsti</span> was <em>La Trouvaille Épigraphique de l’Ougarit</em>, a volume written jointly with Pierre Bordreuil.”</span></p>
+<span style="padding-left: 10px"><span style="color:#b30000; font-size: 14px;">&#x27A2;</span> “The Ras Shamra Tablet Inventory (<span style="font-variant: small-caps; font-size: 17px;">rsti</span>) is a research project co-directed by Miller C. Prosser and Dennis Pardee. [...] Among Pardee’s published works, one of the first volumes transformed and ingested into <span style="font-variant: small-caps; font-size: 17px;">rsti</span> was <em>La Trouvaille Épigraphique de l’Ougarit</em>, a volume written jointly with Pierre Bordreuil.”</span></p>
 
 <h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Citation in footnote</h4>
 
