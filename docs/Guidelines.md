@@ -100,7 +100,7 @@ The multiple-author scheme is:<br />
 <h4 style="font-size: 13px; color:#b30000;">Citation in footnote</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: circle;">
-  <li style="padding-bottom: 12px; text-align: justify;">Scheme for printed or electronic articles and monographs<br />
+  <li style="padding-bottom: 12px; text-align: justify; margin-top: 12px">Scheme for printed or electronic articles and monographs<br />
     <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Family Name] [Year], [Page(s)]</span> <br />
     <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Korfmann 1983, 216–217, 242.<br/>
@@ -169,7 +169,7 @@ Note:
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 
 <ul style="list-style-type: circle;">
-<li style="padding-bottom: 12px; text-align: justify">For articles in journals<br />
+<li style="padding-bottom: 12px; text-align: justify; margin-top: 12px">For articles in journals<br />
 <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]: [Page(s)]</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Brinkman, John A. 1984. “Settlement Surveys and Documentary Evidence: Regional Variation and Secular Trend in Mesopotamian Demography.” <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">jnes</span> 43 (3): 169–180.
