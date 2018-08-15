@@ -93,7 +93,7 @@ The volumes are freely downloadable at <https://oi.uchicago.edu/research/publica
     </li>
   </ul>
  </li>
- <li style="padding-bottom: 12px; text-align: justify;">For online encyclopedias and similar:<br />
+ <li style="padding-bottom: 12px; text-align: justify; margin-top: -12px">For online encyclopedias and similar:<br />
    <span style="font-size: 13px; color: black">[Website's name], s.v. "[Title (if present)],”  <[Web-Adresse]>, (accessed [Month] [Day], [Year]):</span> <br />
   <span style="padding-left: 15px; font-size: 13px; color: #4d4d4d">
     <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Stanford Encyclopedia of Philosophy, s.v. “implicature, Gricean theory,” <https://plato.stanford.edu/entries/implicature/#GriThe> (accessed April 25, 2017).<br />
