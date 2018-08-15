@@ -20,7 +20,7 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 
 <h3><span style="color:#b30000; font-size: 14px;">&#9758;</span> Illustrations</h3>
 
-<h3 style="font-size: 12px; font-style: underline">Citations</h3>
+<h3 style="font-size: 12px;"><u>CITATIONS</u></h3>
 
 <h4 style="font-size: 13px"><span style="color:#b30000; font-size: 14px;">&#9758;</span> Text formatting for the references</h4>
 
