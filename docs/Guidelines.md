@@ -67,8 +67,8 @@ April 12, 2017], 4–5).
   <span style="font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Natural Language Toolkit (<span style="font-variant: small-caps; font-size: 17px;">nltk</span>): <http://www.nltk.org/> (accessed July 1, 2017).
   </span>
-  <ul style="list-style-type: square; padding-left: 5px; font-size: 13px; color: #4d4d4d">
-    <li> Particular cases:
+  <ul style="list-style-type: none; padding-left: 5px; font-size: 13px; color: #4d4d4d">
+    <li> <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Particular cases:
         <ul style="list-style-type:decimal;">
            <li><u>For a succession of websites, with an access the same day</u>:<br />
                  BabelNet: <http://babelnet.org/>, FrameNet: <https://framenet.icsi.berkeley.edu/fndrupal/>, VerbNet: <http://verbs.colorado.edu/>, and WordNet: <https://wordnet.princeton.edu/> (all accessed April 15, 2017).
