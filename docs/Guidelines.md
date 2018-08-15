@@ -10,11 +10,11 @@ layout: default
 <ul style="list-style-type: circle;">
 <li style="padding-bottom: 12px; text-align: justify">For articles in journals<br />
 [Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]: [Page(s)].<br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Brinkman, John A. 1984. “Settlement Surveys and Documentary Evidence: Regional Variation and Secular Trend in Mesopotamian Demography.” <span style="font-variant: small-caps; font-size: 14px"><em>JNES</em></span> 43 (3): 169–180.</li>
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Brinkman, John A. 1984. “Settlement Surveys and Documentary Evidence: Regional Variation and Secular Trend in Mesopotamian Demography.” <span style="font-variant: small-caps; font-size: 14px; font-style: italic;">jnes</span> 43 (3): 169–180.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in electronic journals<br />
 [Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics] [Volume number]. <[Web-Address]>.<br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Svensson, Patrik. 2009. “Humanities Computing as Digital Humanities.” <span style="font-variant: small-caps"><em>dhq</em></span> 3 (3). <http://digitalhumanities.org/dhq/vol/3/3/000065/000065.html>.</li>
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Svensson, Patrik. 2009. “Humanities Computing as Digital Humanities.” <span style="font-variant: small-caps; font-size: 14px; font-style: italic;">dhq</span> 3 (3). <http://digitalhumanities.org/dhq/vol/3/3/000065/000065.html>.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in daily journals<br />
 [Author(s)]. [Year]. “[Title].” [Name of the Journal, in italics], [Month] [Day]. <[Web-Address]>.<br />
@@ -22,7 +22,7 @@ layout: default
 
 <li style="padding-bottom: 12px; text-align: justify">For articles in an edited volume<br />
   [Author(s)]. [Year]. “[Title].” In [Title of the Book, in italics], edited by [First Name] [Family Name], [First Name] [Family Name], and [(last editor's) First Name] [(last editor's) Family Name], [Page(s)]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
-  <span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Binding, Ceri, Keith May, and Doug Tudhope. 2008. “Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the <span style="font-variant: small-caps; font-size: 14px">cidoc crm.</span>” In <em>Proceedings (ECDL 2008) 12th European Conference on Research and Advanced Technology for Digital Libraries, Aarhus</em>, edited by Birte Christensen-Dalsgaard, Donatella Castelli, Bolette Ammitzbøll Jurik, and Joan Lippincott, 280–290. Berlin: Springer.</li>
+  <span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Binding, Ceri, Keith May, and Doug Tudhope. 2008. “Semantic Interoperability in Archaeological Datasets: Data Mapping and Extraction via the <span style="font-variant: small-caps; font-size: 14px; font-style: italic;">cidoc crm.</span>” In <em>Proceedings (<span style="font-variant: small-caps; font-size: 14px; font-style: italic;">ecdl</span> 2008) 12th European Conference on Research and Advanced Technology for Digital Libraries, Aarhus</em>, edited by Birte Christensen-Dalsgaard, Donatella Castelli, Bolette Ammitzbøll Jurik, and Joan Lippincott, 280–290. Berlin: Springer.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For monographs<br />
 [Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
@@ -34,7 +34,7 @@ layout: default
 
 <li style="padding-bottom: 12px; text-align: justify">For articles edited volumes<br />
 [Editor(s), here mentioned like the Authors in the monographs], eds. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher].<br />
-<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Dirksen, Dieter, and Gert von Bally, eds. 1997. <em>Optical  Technologies in the Humanities: Selected Contributions to the International Conference on New Technologies in the Humanities and Fourth International Conference on Optics within Life Sciences <span style="font-variant: small-caps; font-size: 14px">OWLS</span> IV Münster, Germany, 9–13 July 1996.</em> Series of the International Society on Optics within Life Sciences 4. Berlin: Springer.</li>
+<span style="color:#b30000; font-size: 14px;">&#x27A2;</span> Dirksen, Dieter, and Gert von Bally, eds. 1997. <em>Optical  Technologies in the Humanities: Selected Contributions to the International Conference on New Technologies in the Humanities and Fourth International Conference on Optics within Life Sciences <span style="font-variant: small-caps; font-size: 14px; font-style: italic;">OWLS</span> IV Münster, Germany, 9–13 July 1996.</em> Series of the International Society on Optics within Life Sciences 4. Berlin: Springer.</li>
 
 <li style="padding-bottom: 12px; text-align: justify">For PhD-, MA- or other Dissertations<br />
 [Author]. [Year]. “[Title] (PhD/MA/... Diss., Unpublished).” [Place of defence].<br />
