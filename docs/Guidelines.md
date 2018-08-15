@@ -55,11 +55,11 @@ The multiple-author scheme is:<br />
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Put all bibliography in footnotes, nothing in the text.</li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Call of footnote should follow a punctuation mark:
 <ul style="list-style-type: none">
-  <li>- “… based on a text format.<span style="font-size: 9px"><sup>14</sup></span>“</li>
-  <li>- “… in his definition of apocryphal texts,<span style="font-size: 9px"><sup>38</sup></span>“</li>
-  <li>- “… in the Leuven Database of Ancient Books (LDAB):<span style="font-size: 9px"><sup>9</sup></span>“</li>
-  <li>- “… on site (mounted on an optical theodolite).<span style="font-size: 9px"><sup>15</sup></span>”</li>
-  <li>- “The <span style="font-variant: small-caps; font-size: 15px;">cidoc</span> Conceptual Reference Model (<span style="font-variant: small-caps; font-size: 15px;">cidoc crm</span>)<span style="font-size: 9px"><sup>71</sup></span> is a leading standard…”</li>
+  <li>- “… based on a text format.<sup style="font-size: 9px">14</sup>“</li>
+  <li>- “… in his definition of apocryphal texts,<sup  style="font-size: 9px">38</sup>“</li>
+  <li>- “… in the Leuven Database of Ancient Books (LDAB):<sup style="font-size: 9px">9</sup>“</li>
+  <li>- “… on site (mounted on an optical theodolite).<sup style="font-size: 9px">15</sup>”</li>
+  <li>- “The <span style="font-variant: small-caps; font-size: 15px;">cidoc</span> Conceptual Reference Model (<span style="font-variant: small-caps; font-size: 15px;">cidoc crm</span>)<sup style="font-size: 9px">71</sup> is a leading standard…”</li>
   </ul>
   </li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Be aware: Arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
