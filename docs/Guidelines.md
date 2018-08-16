@@ -106,7 +106,7 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
    <li style="list-style-type: none;"><a href="#titles2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
-<h3 style="color:#b30000;">Illustrations</h3>
+<h3 style="color:#b30000;"><a name="illust"></a>Illustrations</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>Illustrations include figures, maps, charts, graphs, tabular data. For a figure (i.e., photo, sketch), we recommand .tiff format, however you can also provide a .jpg format <u>in 300 dpi</u>; for vector data (map, graph and chart), ai., eps, or .svg format; for tabular data .xsl or pdf. file.<br />
  The file name should be: <span style="color: rgba(191, 4, 27, 0.97)">[Author's last name]_[number]</span>: Bigot-Juloux_1.svg (for illustration 1), Bigot-Juloux_2.tiff (for illustration 2), …<br />
