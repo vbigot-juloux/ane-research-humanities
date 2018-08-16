@@ -246,14 +246,14 @@ Note:
 </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For articles of conference proceedings available only online<br />
-  <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s)]. [Year]. “[Title].“ <[Web-Address]></span><br />
+  <span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s)]. [Year]. “[Title].“ [Volume title], edited by [Editor(s)]. [Place of Publication]: [Publisher]. <[Web-Address]></span><br />
   <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
-    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Jewell, Michael O., Faith K. Lawrence, Mischa M. Tuffield, Adam Prugel-Bennett, David E. Millard, Mark S. Nixon, m.c. schraefel, and Nigel R. Shadbolt. 2005. “OntoMedia: An Ontology for the Representation of Heterogeneous Media.” <https://eprints.soton.ac.uk/261024/>
+    <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Ide, Nancy, and James Pustejovsky. 2010. “What Does Interoperability Mean, Anyway? Toward an Operational Definition of Interoperability for Language Technology.” In <em>Proceedings of the Second International Conference on Global Interoperability for Language Resources, Hong Kong, 18–20 January 2010</em>, edited by Alex Chengyu Fang, Nancy Ide, and Jonathan Webster. Hong Kong: City University of Hong Kong. <https://www.cs.vassar.edu/~ide/papers/ICGL10.pdf>.
   </span>
   </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For PhD-, MA- or other Dissertations<br />
-<span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author]. [Year]. “[Title] (PhD/MA/... Diss., Unpublished).” [Place of defence]</span><br />
+<span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author]. [Year]. “[Title]” PhD/MA/... Diss., [Place of defence]</span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Lawrence, Faith K. 2008. “The Web of Community Trust Amateur Fiction Online: A Case Study in Community Focused Design for the Semantic Web.” PhD diss., University of Southampton.
   </span>
