@@ -55,7 +55,7 @@ layout: default
       <li>- “Identifiers (<span style="font-variant: small-caps; font-size: 15px;">id</span>) are simply unique numbers that do not have a specific meaning. Their quality resides in their uniqueness.” (Martino and Martino def.) “Identifier (<span style="font-variant: small-caps; font-size: 15px;">id</span>): a unique number that does not have a specific meaning. Its quality resides in its uniqueness.” (Pagé-Perron def.)</li> 
       <li>- “Continuous Skip-gram model: one of two alternative models one can choose from when training data in Word2vec. While training, the Continuous Skip-gram model predicts the words that may appear near the target word.” Svärd et al. def.)</li>
       <li>- “A ‘library’ is a collection of commonly used programming functions that are distributed as a package for use by a wide range of users.” (Monroe def.)</li>
-       <li<a href="#add-reco2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
+       <li><a href="#add-reco2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
     </ul>
   </li>
   </ul>
