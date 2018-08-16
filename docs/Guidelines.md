@@ -9,7 +9,7 @@ layout: default
 <br >
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <span style="border: 0">
-  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#reco" name="reco2">General recommendation</a> | <a>Font</a> | <a>Abbreviations</a> | <a>Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
+  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#reco" name="reco2">General recommendation</a> | <a href="#font" name="font2">Font</a> | <a href="#abbr" name="abbr">Abbreviations</a> | <a href="#titles" name="titles">Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
   </span>
 
   
@@ -26,7 +26,7 @@ layout: default
 
 <h4 style="font-size: 12px">Additional recommendations</h4>
 <ul style="list-style-type: circle; text-align: justify">
-  <li>To facilitate the understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelors’ degree</b>, we have decided to add two glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two glossaries with names of authors (see the sub-section below for further information):
+  <li>To facilitate the understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelors’ degree</b>, we have decided to add two glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two glossaries with names of authors (see the sub-section <a href="#glossaries" name="glossaries">below</a> for further information):
 <ul style="list-style-type: square">
   <li>Technical words (related to the field of research of Anthropology, Archaeology, Philology, Philosophy, History, and methods including digital practices and computer science).</li>
   <li>Toponyms, languages/writing, chronologies (a quick overview).</li>
@@ -38,19 +38,21 @@ layout: default
 <li>If you quote a word, expression or sentence in another language than English, provide your translation in footnote.</li>
 </ul>
 
-<h3 style="color:#b30000;">Collaborative glossaries</h3>
+<h3 style="color:#b30000;"><a name="glossaries"></a>Collaborative glossaries</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>To avoid forgetting words or expressions, we recommand that your paper being read by a non-specialist in ancient Near Eastern studies or in your discipline (i.e., Archaeology, Anthropology, etc) or a non-digital practitioner. Ask him to highlight each word/expression which has a lack of explanation.</p>
 <p>Your explanation of a technical word or approach/method must be accessible to a wide audience, including neophytes in ancient Near Eastern studies, beginners, student (bachelor' degree). Your explanation/definition can be within the content or in footnote.</p>
-<ul>
-  <li>Examples of definition in footnote:
-    <ul>
-      <li></li>
+<ul style="list-style-type: none">
+  <li> <span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> Examples of definition in footnote:
+    <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d;">
+      <li>“Locus (pl. loci): the basic spatial unit in most recording systems in Near Eastern Archaeology. The exact denotation of this term (i.e., the archaeological entity that is modeled by the abstract unit) can vary among different systems.” (Matskevich And Sharon def.)</li>
+      <li>“Processual (in Archaeology): during the 1960s and 1970s, an approach to interpreting the past via generalized cultural processes; it is based on a belief that the dynamics of the development of societies have regularities that can be applied to chronologically and geographically remote instances.” (Matskevich And Sharon def.)</li>
+      <li>“Identifiers (ID) are simply unique numbers that do not have a specific meaning. Their quality resides in their uniqueness.” (Martino and Martino def.)</li>                          
     </ul>
   </li>
   </ul>
 
-<h3 style="color:#b30000;">Font</h3>
+<h3 style="color:#b30000;"><a name="font"></a>Font</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: none">
   <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For computer language, use Courier New font, size 10pt in the content, size 9pt in the footnotes.</li>
@@ -66,7 +68,7 @@ layout: default
    <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Use diacritic glyph, i.e.: Ras Šamra instead of Ras Shamra.</li>
   </ul>
 
-<h3 style="color:#b30000;">Abbreviations</h3>
+<h3 style="color:#b30000;"><a name="abbr"></a>Abbreviations</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. Afterwards, use only the abbreviation. <br />
   <span style="font-size: 13px; color: #4d4d4d">
@@ -75,7 +77,7 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 <span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 15px;"><em>jnes</em></span>
   </span></p>
 
-<h3 style="color:#b30000;">Titles levels</h3>
+<h3 style="color:#b30000;"><a name="titles"></a>Titles levels</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>Do not use “1,” “2,”, "A,” “B,” … Instead indicate heading levels: L1, L2, L3, L4. Try to avoid more than four levels.</p>
 <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d; margin-top: -16px">
