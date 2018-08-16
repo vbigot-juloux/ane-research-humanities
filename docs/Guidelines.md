@@ -25,12 +25,12 @@ layout: default
 <p>Send a .doc/docx file (Word is prefered) and a .pdf.</p>
 
 <h4 style="font-size: 12px">Additional recommendations</h4>
-<ul style="list-style-type: circle">
+<ul style="list-style-type: circle; text-align: justify">
   <li>To facilitate understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelor’s degree</b>, we have decided to add two indexes/glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two indexes/glossaries with names of authors:
 <ul style="list-style-type: square">
   <li>Technical words (related to the field of research of Anthropology, Archaeology, Philology, Philosophy, History, and methods including digital practices and computer science).</li>
   <li>Toponyms, languages/writing, chronologies (a quick overview).</li>
-  <li style="list-style-type: square"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Of course, you are free to use your own style, for explaining contexts, and concepts in your paper; it will be the editors' task to select what we think relevant for the indexes/glossaries.</li>
+  <li style="list-style-type: square"><u>Note</u>: Of course, you are free to use your own style, for <u>explaining contexts, and concepts</u> in your paper; it will be the editors' task to select what we think relevant for the indexes/glossaries.</li>
 </ul>
   </li>
 
