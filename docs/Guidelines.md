@@ -9,7 +9,7 @@ layout: default
 <br >
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <span style="border: 0">
-  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#reco" name="reco2">General recommendation</a> | <a href="#font" name="font2">Font</a> | <a href="#abbr" name="abbr2">Abbreviations</a> | <a href="#titles" name="titles2">Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
+  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#reco" name="reco2">General recommendation</a> | <a href="#font" name="font2">Font</a> | <a href="#abbr" name="abbr2">Abbreviations</a> | <a href="#titles" name="titles2">Titles levels</a> | <a href="#illust" name="illust2">Illustrations</a> | <a href="#Tform" name="Tform2">Text formatting for the references</a> |  <a href="#inText" name="inText2">Citation in text</a> | <a href="#inFoot" name="inFoot2">Citation in footnote</a> | <a href="#inRef" name="inRef2">Citation in the list of references</a> 
   </span>
 
   
@@ -25,9 +25,9 @@ layout: default
   <li style="list-style-type: none;"><a href="#reco2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
-<h4 style="font-size: 12px">Additional recommendations</h4>
+<h4 style="font-size: 12px"><a href="#add-reco" name="add-reco2"></a>Additional recommendations</h4>
 <ul style="list-style-type: circle; text-align: justify">
-  <li>To facilitate the understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelors’ degree</b>, we have decided to add two glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two glossaries with names of authors (see the sub-section <a href="#glossaries" name="glossaries">below</a> for further information):
+  <li>To facilitate the understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelors’ degree</b>, we have decided to add two glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two glossaries with names of authors (see the sub-section <a href="#glossaries" name="glossaries2">below</a> for further information):
 <ul style="list-style-type: square">
   <li>Technical words (related to the field of research of Anthropology, Archaeology, Philology, Philosophy, History, and methods including digital practices and computer science).</li>
   <li>Toponyms, languages/writing, chronologies (a quick overview).</li>
@@ -35,7 +35,7 @@ layout: default
 </ul>
   </li>
 
-<li>Articles (including abstracts, bios and keywords) are in English language. For non English native, <b>we ask your draft to be reviewed by an <u>English native</u> scholar</b>. Your paper could be refused if the English is not good enough. Be aware that an extra cost can be asked to author in the case that a professional copy-editor must review the English in your article--for the first volume on CyberResearch, co-editors had to pay 4500 USD, mostly to review the English.</li> 
+<li style="margin-top: -12px;">Articles (including abstracts, bios and keywords) are in English language. For non English native, <b>we ask your draft to be reviewed by an <u>English native</u> scholar</b>. Your paper could be refused if the English is not good enough. Be aware that an extra cost can be asked to author in the case that a professional copy-editor must review the English in your article--for the first volume on CyberResearch, co-editors had to pay 4500 USD, mostly to review the English.</li> 
 <li>If you quote a word, expression or sentence in another language than English, provide your translation in footnote.</li>
 </ul>
 
@@ -55,6 +55,7 @@ layout: default
       <li>- “Identifiers (<span style="font-variant: small-caps; font-size: 15px;">id</span>) are simply unique numbers that do not have a specific meaning. Their quality resides in their uniqueness.” (Martino and Martino def.) “Identifier (<span style="font-variant: small-caps; font-size: 15px;">id</span>): a unique number that does not have a specific meaning. Its quality resides in its uniqueness.” (Pagé-Perron def.)</li> 
       <li>- “Continuous Skip-gram model: one of two alternative models one can choose from when training data in Word2vec. While training, the Continuous Skip-gram model predicts the words that may appear near the target word.” Svärd et al. def.)</li>
       <li>- “A ‘library’ is a collection of commonly used programming functions that are distributed as a package for use by a wide range of users.” (Monroe def.)</li>
+       <li<a href="#add-reco2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
     </ul>
   </li>
   </ul>
@@ -73,6 +74,7 @@ layout: default
       </ul>
       </li>
    <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Use diacritic glyph, i.e.: Ras Šamra instead of Ras Shamra.</li>
+   <li style="list-style-type: none;"><a href="#font2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
 <h3 style="color:#b30000;"><a name="abbr"></a>Abbreviations</h3>
@@ -82,7 +84,8 @@ layout: default
 <span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 15px;">ane</span>)<br />
 Use small-caps for Journals and Series (no need to write it in full): <br />
 <span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 15px;"><em>jnes</em></span>
-  </span></p>
+  </span><br />
+   <a href="#reco2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></p>
 
 <h3 style="color:#b30000;"><a name="titles"></a>Titles levels</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
@@ -100,6 +103,7 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
     </ul>
   </li>
   <li style="margin-top: -15px">L1 title name of level 1</li>
+   <li style="list-style-type: none;"><a href="#titles2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
 <h3 style="color:#b30000;">Illustrations</h3>
@@ -111,6 +115,7 @@ Never add illustration(s) within the content. Instead, write in the desired loca
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> [PLACE ILLUSTRATION 1(S) HERE]</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> [PLACE ILLUSTRATION 2(L) HERE]</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> [PLACE ILLUSTRATION 3(M) HERE]</li>
+   <li style="list-style-type: none;"><a href="#illust2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
 <h3 style="font-size: 12px; background-color: #f2f2f2; text-align: center">Citation</h3>
@@ -133,7 +138,7 @@ The multiple-author scheme is:<br />
     <li>- Its inflectional form “t-m-t-ḫṣ-n,”…</li>
     <li>- <u>With the exception of a translation's word</u>: <em>muḫḫu</em> (3,493), “skull, top, concerning (something)”.</li> 
     </ul>
-  </li>
+ </li>
 <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always write websites between < > and not underlined (they should not be web-links--please de-activate each web-link in the text and bibliography).</li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> English titles should be, as usual, written with capital first letters for verbs, substantives and adjectives.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Put all bibliography in footnotes, nothing in the text.</li>
@@ -156,6 +161,7 @@ The multiple-author scheme is:<br />
   <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Do no write particle with capital.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Second Names should be abbreviated.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> When <span style="font-variant: small-caps; font-size: 15px;">dois</span> of cited publications are available, please include them.</li>
+   <li style="list-style-type: none;"><a href="#Tform2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
 <h4 style="font-size: 13px; color:#b30000;">Citation in text</h4>
@@ -163,7 +169,8 @@ The multiple-author scheme is:<br />
 <p>For the first occurrence, write <span style="color: rgba(191, 4, 27, 0.97)">[First name] [Last name]</span>, afterwards <span styel="rgba(191, 4, 27, 0.97)">[Last name]</span> <br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> “The Ras Shamra Tablet Inventory (<span style="font-variant: small-caps; font-size: 15px;">rsti</span>) is a research project co-directed by Miller C. Prosser and Dennis Pardee. […] Among Pardee’s published works, one of the first volumes transformed and ingested into <span style="font-variant: small-caps; font-size: 15px;">rsti</span> was <em>La Trouvaille Épigraphique de l’Ougarit</em>, a volume written jointly with Pierre Bordreuil.”
-  </span>
+  </span><br />
+   <a href="#inText2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a>
 </p>
 
 <h4 style="font-size: 13px; color:#b30000;">Citation in footnote</h4>
@@ -232,6 +239,7 @@ Note:
       <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Gansell et al. 2014, 194–205.
     </span>
   </li>
+   <li style="list-style-type: none;"><a href="#inFoot2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
 </ul>
 
 <h4 style="font-size: 13px; color:#b30000;">Citation in the list of references</h4>
@@ -317,4 +325,5 @@ Note:
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Crofts, Nick, Martin Doerr, Tony Gill, Stephen Stead, and Matthew Stiff. 2008. <em>Definition of the <span style="font-variant: small-caps; font-size: 15px; font-style: italic;">cidoc</span> Conceptual Reference Model.</em> icom/cidoc Documentation Standards Group. <span style="font-variant: small-caps; font-size: 15px;">cidoc crm</span> Special Interest Group 5. <http://www.cidoc-crm.org/get-lastofficial-release>.
   </span>
   </li>
+   <li style="list-style-type: none;"><a href="#inRef2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
 </ul>
