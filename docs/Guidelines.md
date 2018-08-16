@@ -20,22 +20,35 @@ layout: default
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: circle">
    <li style="margin-top: 12px">Length of a chapter: between 6000 and 8000 words (including footnotes).</li>
-  <li>Provide and abstract (between 200 and 250 words), a bio (200 words), and six keywords.</li>
+  <li>Provide and abstract (between 200 and 250 words), a bio (200 words, and that starts by “Your first name last name")), and six keywords. Your abstract (including keywords) and your bio must be in separate files than your paper--files names: "Last name_abstract" (example: Smith_abstract.doc) and "Last name_bio" (example: Smith_bio.doc).</li>
   </ul>
 <p>Send a .doc/docx file (Word is prefered) and a .pdf.</p>
 
 <h4 style="font-size: 12px">Additional recommendations</h4>
 <ul style="list-style-type: circle; text-align: justify">
-  <li>To facilitate understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelor’s degree</b>, we have decided to add two indexes/glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two indexes/glossaries with names of authors:
+  <li>To facilitate the understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelors’ degree</b>, we have decided to add two glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two glossaries with names of authors (see the sub-section below for further information):
 <ul style="list-style-type: square">
   <li>Technical words (related to the field of research of Anthropology, Archaeology, Philology, Philosophy, History, and methods including digital practices and computer science).</li>
   <li>Toponyms, languages/writing, chronologies (a quick overview).</li>
-  <li style="list-style-type: square"><u>Note</u>: Of course, you are free to use your own style, for <u>explaining contexts, and concepts</u> in your paper; it will be the editors' task to select what we think relevant for the indexes/glossaries.</li>
+  <li style="list-style-type: square"><u>Note</u>: Of course, you are free to use your own style, for <u>explaining contexts, and concepts</u> in your paper; it will be the editors' task to select what content is relevant for the glossaries.</li>
 </ul>
   </li>
 
 <li>Articles (including abstracts, bios and keywords) are in English language. For non English native, <b>we ask your draft to be reviewed by an <u>English native</u> scholar</b>. Your paper could be refused if the English is not good enough. Be aware that an extra cost can be asked to author in the case that a professional copy-editor must review the English in your article--for the first volume on CyberResearch, co-editors had to pay 4500 USD, mostly to review the English.</li> 
+<li>If you quote a word, expression or sentence in another language than English, provide your translation in footnote.</li>
 </ul>
+
+<h3 style="color:#b30000;">Collaborative glossaries</h3>
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
+<p>To avoid forgetting words or expressions, we recommand that your paper being read by a non-specialist in ancient Near Eastern studies or in your discipline (i.e., Archaeology, Anthropology, etc) or a non-digital practitioner. Ask him to highlight each word/expression which has a lack of explanation.</p>
+<p>Your explanation of a technical word or approach/method must be accessible to a wide audience, including neophytes in ancient Near Eastern studies, beginners, student (bachelor' degree). Your explanation/definition can be within the content or in footnote.</p>
+<ul>
+  <li>Examples of definition in footnote:
+    <ul>
+      <li></li>
+    </ul>
+  </li>
+  </ul>
 
 <h3 style="color:#b30000;">Font</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
