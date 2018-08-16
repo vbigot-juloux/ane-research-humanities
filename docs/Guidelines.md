@@ -9,13 +9,32 @@ layout: default
 <br >
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <span style="border: 0">
-  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>Font</a> | <a>Abbreviations</a> | <a>Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
+  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a>General recommendations</a> | <a>Font</a> | <a>Abbreviations</a> | <a>Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
   </span>
 
   
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <br />
-  
+
+<h3 style="color:#b30000;">General recommentation</h3>
+<hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
+<ul style="list-style-type: circle">
+   <li>Length of a chapter: between 6000 and 8000 words (including footnotes).</li>
+  <li>Provide and abstract (between 200 and 250 words), a bio (200 words), and six keywords.</li>
+  </ul>
+<p>Send a .doc/docx file (Word is prefered) and a .pdf.</p>
+
+<h4 style="font-size: 12px">Additional recommendations</h4>
+<ul style="list-style-type: circle">
+  <li>To facilitate understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelor’s degree</b>, we have decided to add two indexes/glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two indexes/glossaries with names of authors:
+<ul style="list-style-type: square">
+  <li>Technical words (related to the field of research of Anthropology, Archaeology, Philology, Philosophy, History, and methods including digital practices and computer science).</li>
+  <li>Toponyms, languages/writing, chronologies (a quick overview).</li>
+  <li style="list-style-type: square"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Of course, you are free to use your own style, for explaining contexts, and concepts in your paper; it will be the editors' task to select what we think relevant for the indexes/glossaries.
+</ul>
+  </li>
+
+<li>Articles (including abstracts, bios and keywords) are in English language. For non English native, <b>we ask your draft to be reviewed by an <u>English native</u> scholar</b>. Your paper could be refused if the English is not good enough. Be aware that an extra cost can be asked to author in the case that a professional copy-editor must review the English in your article--for the first volume on CyberResearch, co-editors had to pay 4500 USD, mostly to review the English.</li> 
 <h3 style="color:#b30000;">Font</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: none">
@@ -61,7 +80,7 @@ Use small-caps for Journals and Series (no need to write it in full): <br />
 
 <h3 style="color:#b30000;">Illustrations</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
-<p>Always provide a file in high resolution. For a photo, we recommand .tiff and for a graphic .svg.<br />
+<p>Illustrations include figures, maps, charts, graphs, tabular data. For a figure (i.e., photo, sketch), we recommand .tiff format, however you can also provide a .jpg format <u>in 300 dpi</u>; for vector data (map, graph and chart), ai., eps, or .svg format; for tabular data .xsl or pdf. file.<br />
  The file name should be: <span style="color: rgba(191, 4, 27, 0.97)">[Author's last name]_[number]</span>: Bigot-Juloux_1.svg (for illustration 1), Bigot-Juloux_2.tiff (for illustration 2), …<br />
 Never add illustration(s) within the content. Instead, write in the desired location <span style="color: rgba(191, 4, 27, 0.97)">[PLACE ILLUSTRATION “number”(size) HERE]</span>. There are three different sizes: Small (S), Medium (M), Large (L). So you should write for example:</p>
 <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d;">
@@ -75,9 +94,9 @@ _Nota bene_
 <br />
 The one-author scheme is:<br />
 <span style="color: rgba(191, 4, 27, 0.97); font-size: 12">[Family Name], [First Name].</span> <span style="font-size: 12">And following...</span><br />
-<br />
 The multiple-author scheme is:<br />
 <span style="color: rgba(191, 4, 27, 0.97); font-size: 12">[Family Name], [First Name], [First Name] [Family Name], and [(last author's) [First Name] [(last author's) Family Name].</span> <span style="font-size: 12">And following...</span>
+
 <h4 style="font-size: 13px; color:#b30000;">Text formatting for the references</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: none">
@@ -112,8 +131,8 @@ The multiple-author scheme is:<br />
     </li>
   <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Do no write particle with capital.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Second Names should be abbreviated.</li>
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> When <span style="font-variant: small-caps; font-size: 15px;">dois</span> of cited publications are available, please include them.</li>
   </ul>
-
 
 <h4 style="font-size: 13px; color:#b30000;">Citation in text</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
