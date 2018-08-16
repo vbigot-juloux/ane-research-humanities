@@ -19,7 +19,7 @@ layout: default
 <h3 style="color:#b30000;">General recommentation</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: circle">
-   <li>Length of a chapter: between 6000 and 8000 words (including footnotes).</li>
+   <li style="margin-top: 12px">Length of a chapter: between 6000 and 8000 words (including footnotes).</li>
   <li>Provide and abstract (between 200 and 250 words), a bio (200 words), and six keywords.</li>
   </ul>
 <p>Send a .doc/docx file (Word is prefered) and a .pdf.</p>
@@ -30,11 +30,13 @@ layout: default
 <ul style="list-style-type: square">
   <li>Technical words (related to the field of research of Anthropology, Archaeology, Philology, Philosophy, History, and methods including digital practices and computer science).</li>
   <li>Toponyms, languages/writing, chronologies (a quick overview).</li>
-  <li style="list-style-type: square"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Of course, you are free to use your own style, for explaining contexts, and concepts in your paper; it will be the editors' task to select what we think relevant for the indexes/glossaries.
+  <li style="list-style-type: square"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Of course, you are free to use your own style, for explaining contexts, and concepts in your paper; it will be the editors' task to select what we think relevant for the indexes/glossaries.</li>
 </ul>
   </li>
 
 <li>Articles (including abstracts, bios and keywords) are in English language. For non English native, <b>we ask your draft to be reviewed by an <u>English native</u> scholar</b>. Your paper could be refused if the English is not good enough. Be aware that an extra cost can be asked to author in the case that a professional copy-editor must review the English in your article--for the first volume on CyberResearch, co-editors had to pay 4500 USD, mostly to review the English.</li> 
+</ul>
+
 <h3 style="color:#b30000;">Font</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: none">
