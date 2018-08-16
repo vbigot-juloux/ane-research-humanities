@@ -9,7 +9,7 @@ layout: default
 <br >
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <span style="border: 0">
-  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#reco" name="reco2">General recommendation</a> | <a href="#font" name="font2">Font</a> | <a href="#abbr" name="abbr">Abbreviations</a> | <a href="#titles" name="titles">Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
+  <span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#reco" name="reco2">General recommendation</a> | <a href="#font" name="font2">Font</a> | <a href="#abbr" name="abbr2">Abbreviations</a> | <a href="#titles" name="titles2">Titles levels</a> | <a>Illustrations</a> | <a>Text formatting for the references</a> |  <a>Citation in text</a> | <a>Citation in footnote</a> | <a>Citation in the list of references</a> 
   </span>
 
   
@@ -22,6 +22,7 @@ layout: default
    <li style="margin-top: 12px">Length of a chapter: between 6000 and 8000 words (including footnotes).</li>
   <li>Provide and abstract (between 200 and 250 words), a bio (200 words, and that starts by “Your first name last name"), and six keywords.</li>
     <li>You should send your work (.doc/docx files, “Word" is prefered) as follow: (1) an abstract (including keywords)--"Last name_abstract" (example: Smith_abstract.doc); (2) a bio--"Last name_bio" (example: Smith_bio.doc); (3) your chapter--"Last name_abstract_chapter" (example: Smith_chapter.doc).</li>
+  <li style="list-style-type: none;"><a href="#reco2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
 <h4 style="font-size: 12px">Additional recommendations</h4>
