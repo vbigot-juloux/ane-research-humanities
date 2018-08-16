@@ -38,7 +38,7 @@ layout: default
   <span style="font-size: 13px; color: #4d4d4d">
 <span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 15px;">ane</span>)<br />
 Use small-caps for Journals and Series (no need to write it in full): <br />
-<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 15px;">jnes</span>
+<span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> <span style="font-variant: small-caps; font-size: 15px;"><em>jnes</em></span>
   </span></p>
 
 <h3 style="color:#b30000;">Titles levels</h3>
@@ -231,9 +231,10 @@ Note:
 </li>
 
 <li style="padding-bottom: 12px; text-align: justify">For electronic web-books<br />
-<span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication]: [Publisher]. <[Web-Address]></span><br />
+<span style="font-size: 13px; color: rgba(191, 4, 27, 0.97)">[Author(s)]. [Year]. [Title of the Book, in italics]. [Series and Number, if the volume is in a series]. [Place of Publication if available]: [Publisher if available]. <[Web-Address]></span><br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
   <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> 
+  Everson, Michael, Karljuergen Feuerheim, and Steve Tinney. 2004. <em>Final Proposal to Encode the Cuneiform Script in the <span style="font-variant: small-caps; font-size: 15px;">smp</span> of the <span style="font-variant: small-caps; font-size: 15px;">ucs</span></em>. <http://std.dkuug.dk/jtc1/sc2/wg2/docs/n2786.pdf>.
   </span>
   </li>
 
