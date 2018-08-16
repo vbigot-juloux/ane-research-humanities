@@ -164,7 +164,7 @@ The multiple-author scheme is:<br />
    <li style="list-style-type: none;"><a href="#Tform2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
-<h4 style="font-size: 13px; color:#b30000;">Citation in text</h4>
+<h4 style="font-size: 13px; color:#b30000;"><a name="inText"></a>Citation in text</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <p>For the first occurrence, write <span style="color: rgba(191, 4, 27, 0.97)">[First name] [Last name]</span>, afterwards <span styel="rgba(191, 4, 27, 0.97)">[Last name]</span> <br />
 <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
@@ -173,7 +173,7 @@ The multiple-author scheme is:<br />
    <a href="#inText2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a>
 </p>
 
-<h4 style="font-size: 13px; color:#b30000;">Citation in footnote</h4>
+<h4 style="font-size: 13px; color:#b30000;"><a name="inFoot"></a>Citation in footnote</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: circle;">
   <li style="padding-bottom: 12px; text-align: justify; margin-top: 12px">Scheme for printed or electronic articles and monographs<br />
@@ -242,7 +242,7 @@ Note:
    <li style="list-style-type: none;"><a href="#inFoot2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
 </ul>
 
-<h4 style="font-size: 13px; color:#b30000;">Citation in the list of references</h4>
+<h4 style="font-size: 13px; color:#b30000;"><a name="inRef"></a>Citation in the list of references</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 
 <ul style="list-style-type: circle;">
