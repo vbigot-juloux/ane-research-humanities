@@ -20,7 +20,7 @@ layout: default
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: circle">
    <li style="margin-top: 12px">Length of a chapter: between 6000 and 8000 words (including footnotes).</li>
-  <li>Provide an abstract (between 200 and 250 words) + six keywords, a bio (200 words which starts with “Your first name, last name").</li>
+  <li>Provide an abstract (between 200 and 250 words) + six keywords, a bio (max 150 words which starts with “Your first name, last name").</li>
     <li>You should send your work (.doc/docx files, “Word" is prefered) as follow: (1) an abstract (including keywords)--"Last name_abstract" (example: Smith_abstract.doc); (2) a bio--"Last name_bio" (example: Smith_bio.doc); (3) your chapter--"Last name_abstract_chapter" (example: Smith_chapter.doc).</li>
   <li style="list-style-type: none;"><a href="#reco2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
