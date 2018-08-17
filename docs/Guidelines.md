@@ -20,29 +20,29 @@ layout: default
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: circle">
    <li style="margin-top: 12px">Length of a chapter: between 6000 and 8000 words (including footnotes).</li>
-  <li>Provide and abstract (between 200 and 250 words) + six keywords, a bio (200 words which starts by “Your first name last name").</li>
+  <li>Provide an abstract (between 200 and 250 words) + six keywords, a bio (200 words which starts with “Your first name, last name").</li>
     <li>You should send your work (.doc/docx files, “Word" is prefered) as follow: (1) an abstract (including keywords)--"Last name_abstract" (example: Smith_abstract.doc); (2) a bio--"Last name_bio" (example: Smith_bio.doc); (3) your chapter--"Last name_abstract_chapter" (example: Smith_chapter.doc).</li>
   <li style="list-style-type: none;"><a href="#reco2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
 <h4 style="font-size: 12px"><a href="#add-reco" name="add-reco2"></a>Additional recommendations</h4>
 <ul style="list-style-type: circle; text-align: justify">
-  <li>To facilitate the understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelors’ degree</b>, we have decided to add two glossaries. Both will be collective; in other words, <u>editors will select few relevant (and non-repetitive) quotations from your paper</u> to creating two glossaries with names of authors (see the sub-section <a href="#glossaries" name="glossaries2">below</a> for further information):
+  <li>To facilitate the understanding to follow your demonstration, especially to <b>neophytes, beginners and bachelors’ degree</b>, we have decided to add two glossaries. Both will be collective; in other words, <u>editors will select a few relevant (and non-repetitive) quotations from your paper</u> to create two glossaries with names of authors (see the sub-section <a href="#glossaries" name="glossaries2">below</a> for further information):
 <ul style="list-style-type: square">
-  <li>Technical words (related to the field of research of Anthropology, Archaeology, Philology, Philosophy, History, and methods including digital practices and computer science).</li>
+  <li>Technical words (related to the field of research in Anthropology, Archaeology, Philology, Philosophy, History, and methods including digital practices and computer science).</li>
   <li>Toponyms, languages/writing, chronologies (a quick overview).</li>
   <li style="list-style-type: square"><u>Note</u>: Of course, you are free to use your own style, for <u>explaining contexts, and concepts</u> in your paper; it will be the editors' task to select what content is relevant for the glossaries.</li>
 </ul>
   </li>
 
-<li style="margin-top: -12px;">Articles (including abstracts, bios and keywords) are in English language. For non English native, <b>we ask your draft to be reviewed by an <u>English native</u> scholar</b>. Your paper could be refused if the English is not good enough. Be aware that an extra cost can be asked to author in the case that a professional copy-editor must review the English in your article--for the first volume on CyberResearch, co-editors had to pay 4500 USD, mostly to review the English.</li> 
-<li>If you quote a word, expression or sentence in another language than English, provide your translation in footnote.</li>
+<li style="margin-top: -12px;">Articles (including abstracts, bios and keywords) are in the English language. For non-English natives, <b>we ask that your draft to be revieweded by an <u>English native</u> scholar</b>. Your paper could be refused if the English is not good enough. Be aware that an extra charge may be asked of the author if it is necessary that a professional copy-editor must review the English in your article--for the first volume on CyberResearch, co-editors had to pay 4500 USD, mostly to review the English.</li> 
+<li>If you quote a word, expression or sentence in a language other than English, provide your translation in a footnote.</li>
 </ul>
 
 <h3 style="color:#b30000;"><a name="glossaries"></a>Collaborative glossaries</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
-<p>To avoid forgetting words or expressions, we recommand that your paper being read by one or several non-specialists in ancient Near Eastern studies or in your discipline (i.e., Archaeology, Anthropology, etc) or a non-digital practitioner. Ask them to highlight each word/expression which has a lack of explanation.</p>
-<p>Your explanation of a technical word or approach/method must be accessible to a wide audience, including neophytes in ancient Near Eastern studies, beginners, student (bachelor' degree). Your explanation/definition can be within the content or in footnote.</p>
+<p>To avoid forgetting words or expressions, we recommend that your paper be read by one or several non-specialists in ancient Near Eastern studies or in your discipline (i.e., Archaeology, Anthropology, etc.) or a non-digital practitioner. Ask them to highlight each word/expression which lacks an explanation.</p>
+<p>Your explanation of a technical word or approach/method must be accessible to a wide audience, including neophytes in ancient Near Eastern studies, beginners, students (bachelor' degree). Your explanation/definition can be within the content or in a footnote.</p>
 <ul style="list-style-type: none">
   <li style="margin-left: -20px; text-align: justify"><span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> Examples of definitions in footnote (quotations from <em><a href="http://ane-research-humanities.science/docs/CyberResearch-vol1" target="_blank">CyberResearch on the Ancient Near East and Neighboring Regions)</a></em>:
     <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d; text-align: justify;">
@@ -64,7 +64,7 @@ layout: default
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: none">
   <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For computer language, use Courier New font, size 10pt in the content, size 9pt in the footnotes.</li>
-  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For ancient language transliterated in latin script, write the occurrence or expression in italic, except when the word/expression is between quotation marks:<br />
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For ancient languages transliterated in Latin script, write the occurrence or expression in italics, except when the word/expression is between quotation marks:<br />
     <span style="font-size: 13px; color: #4d4d4d; padding-left: 18px">… is transcribed as “mḫṣ.”</span>
   </li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> For cuneiform or hieroglyph sign(s), provide the unicode reference at the desired location. The publisher will change to cuneiform/hieroglyph script during the editing process. For example:
@@ -73,13 +73,13 @@ layout: default
   <li>… if one finds (Unicode U+12217) on a cuneiform tablet, the transliteration would read “lugal,” which means king.</li>
       </ul>
       </li>
-   <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Use diacritic glyph, i.e.: Ras Šamra instead of Ras Shamra.</li>
+   <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Use diacritic glyphs, i.e.: Ras Šamra instead of Ras Shamra.</li>
    <li style="list-style-type: none;"><a href="#font2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
   </ul>
 
 <h3 style="color:#b30000;"><a name="abbr"></a>Abbreviations</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
-<p>Abbreviation, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation under brackets. Afterwards, use only the abbreviation. <br />
+<p>Abbreviations, including acronyms, shall be in small-caps. Write the full name of the first occurrence and then its abbreviation within brackets. Afterwards, use only the abbreviation. <br />
   <span style="font-size: 13px; color: #4d4d4d">
 <span style="color:#b30000; font-size: 14px; padding-left: 15px">&#x27A2;</span> ancient Near East (<span style="font-variant: small-caps; font-size: 15px;">ane</span>)<br />
 Use small-caps for Journals and Series (no need to write it in full): <br />
@@ -129,11 +129,11 @@ The multiple-author scheme is:<br />
 <h4 style="font-size: 13px; color:#b30000;">Text formatting for the references</h4>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
 <ul style="list-style-type: none">
-  <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always use long dash ( – ) to mean a page or time interval.</li>
+  <li style="margin-top: 12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always use a long dash ( – ) to mean a page or time interval.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Pay attention to the use of full stops, inverted commas, and italics.</li>
-  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Quotation mark should include other punctuation marks:
+  <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Quotation marks should include other punctuation marks:
   <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
-    <li>- … which defined objects as a descriptive list of qualities, or “factors,” allowed objects…</li>
+    <li>- … which define objects as a descriptive list of qualities, or “factors,” allowed objects…</li>
     <li>- … from geographically defined styles to the notion of “communities of styles.</li>
     <li>- Its inflectional form “t-m-t-ḫṣ-n,”…</li>
     <li>- <u>With the exception of a translation's word</u>: <em>muḫḫu</em> (3,493), “skull, top, concerning (something)”.</li> 
@@ -142,7 +142,7 @@ The multiple-author scheme is:<br />
 <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Always write websites between < > and not underlined (they should not be web-links--please de-activate each web-link in the text and bibliography).</li>
 <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> English titles should be, as usual, written with capital first letters for verbs, substantives and adjectives.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Put all bibliography in footnotes, nothing in the text.</li>
-<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Call of footnote should follow a punctuation mark:
+<li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span>A footnote notation should follow a punctuation mark:
 <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
   <li>- … based on a text format.<sup style="font-size: 9px">14</sup></li>
   <li>- … in his definition of apocryphal texts,<sup  style="font-size: 9px">38</sup></li>
@@ -152,13 +152,13 @@ The multiple-author scheme is:<br />
   </ul>
   </li>
 <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Be aware: Arabic family names beginning with “al-” should be put in the reference list according to the order required by what follows “al-”.</li>
-  <li>Names with particles, including aristrocratic particles, shall be removed in citation within footnotes (“van…”, “de…”, “di…”, “von…”, “de la…”, etc.). In the list of references, if the name with particle is the first author, write:
+  <li>Names with particles, including aristocratic particles, shall be removed in citation within footnotes (“van…”, “de…”, “di…”, “von…”, “de la…”, etc.). In the list of references, if the name with a particle is the first author, write:
   <ul style="list-style-type: none; font-size: 13px; color: #4d4d4d">
     <li>- <u>In footnote</u>: Ludovico. Soldt.</li>
     <li>- <u>In the citation list</u>: Ludovico, Alessandro di. Soldt, Wilfred van.</li>
     </ul>
     </li>
-  <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Do no write particle with capital.</li>
+  <li style="margin-top: -12px"><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Do no capitalize a particle.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> Second Names should be abbreviated.</li>
   <li><span style="color:#b30000; font-size: 12px;">&#x27A2;</span> When <span style="font-variant: small-caps; font-size: 15px;">dois</span> of cited publications are available, please include them.</li>
    <li style="list-style-type: none;"><a href="#Tform2" style="text-decoration: none"><img src="../assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%; margin-top: -5px; margin-left: -5px"/></a></li>
@@ -229,7 +229,7 @@ The volumes are freely downloadable at <https://oi.uchicago.edu/research/publica
 
 Note: 
 <ul style="list-style-type:decimal; margin-top: -12px">
-  <li style="padding-bottom: 12px; text-align: justify">If there is the need to mention two or more consecutive times a same work, after the first normal citation in the same paragraph, the abbreviation “ibid.” should be used as substitution of <span style="color: rgba(191, 4, 27, 0.97)">[Author Year]</span>:<br />
+  <li style="padding-bottom: 12px; text-align: justify">If there is the need to mention the same work two or more consecutive times, after the first normal citation in the same paragraph, the abbreviation “ibid.” should be used as a substitution of <span style="color: rgba(191, 4, 27, 0.97)">[Author Year]</span>:<br />
    <span style="padding-left: 15px; display: inline-block; font-size: 13px; color: #4d4d4d">
      <span style="color:#b30000; font-size: 12px;">&#x27A2;</span> … as in Bovon 2004, 318–319. […] Furthermore, … (ibid., 321).</span>
   </li>
