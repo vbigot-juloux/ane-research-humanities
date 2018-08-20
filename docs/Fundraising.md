@@ -16,7 +16,7 @@ layout: default
  
  <h2>Fundraising campaign</h2>
  
- <p>Help us to cover the copy-editing costs of this first volume on CyberResearch!</p>
+ <p>Help us to cover the copy-editing costs of the <a href="CyberResearch-vol1" target="_blank">first volume on CyberResearch</a>!</p>
  
  <p>The fundraising campaign will start soon...</p>
 
