@@ -6,23 +6,30 @@ title: About
 <h2>Co-editors</h2>
 _By (surnames) alphabetical order_
 
-<h3>Vanessa Bigot Juloux</h3>
-
+<h3><a name="bigot-juloux"></a>Vanessa Bigot Juloux</h3>
 <p>V. Bigot Juloux holds an advanced degree in Ugaritic (École des Langues et des Civilisations de l’Orient Ancien). She is a PhD candidate at the École Pratique des Hautes Études (<span class="small">ephe</span>) and Paris Sciences et Lettres (<span class="small">psl</span>), and a research associate at the Institute of Archaeology (Andrews University, Michigan). Her research focuses on Ugaritic narrative texts and violent behavior for political purposes. She is involved in several committees at the American Schools of Oriental Research (<span class="small">asor</span>). Since 2016, she has been co-organizing and co-chairing sessions on violence and digital humanities at asor and Computer Applications and Quantitative Methods in Archaeology (<span class="small">caa</span>) annual meetings, and she is also co-organizing and co-chairing an asor/ephe European symposium (2018). She has recently developed open-access guidelines for analyzing actions in <span class="small">tei-xml</span>. She is currently co-editing a volume on violence in ancient cultures.<br />
-For futher information, see <a href="http://vanessajuloux.xyz" target="_blank">vanessajuloux.xyz</a>. <a href="CyberResearch-vol1.html#bigot-juloux2" style="text-decoration: none"><img src="assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
+For futher information, see <a href="http://vanessajuloux.xyz" target="_blank">vanessajuloux.xyz</a>.</p>
 
-<h3>Terhi Nurmikko-Fuller</h3>
-
-<h3>Amy Rebecca Gansell</h3>
+<h3><a name="gansell"></a>Amy Rebecca Gansell</h3>
 <p>A. R. Gansell holds a BA in Anthropology/Archaeology from Barnard College of Columbia University and an MA and PhD in Art History from Harvard University. She is an Associate Professor of Art History in the Art and Design Department at St. John's University in New York. Her research has been supported by grants from   the U.S. National Endowment for the Humanities (<span class="small">neh</span>) and The American Academic Research Institute in Iraq (<span class="small">taarii</span>). Her collaborative data-mining projects on Levantine ivory sculptures have been published in the Journal of Archaeological Science and the proceedings of the Computer Applications and Quantitative Methods in Archaeology (<span class="small">caa</span>) annual meeting. Her most recent work, presenting a <span class="small">3d</span> model of a Neo-Assyrian queen, appears in <em>the American Journal of Archaeology</em>.<br />
-For further information, see <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Academia.edu</a>. <a href="CyberResearch-vol1.html#gansell2" style="text-decoration: none"><img src="assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
+For further information, see <a href="https://stjohns.academia.edu/AmyRebeccaGansell" target="_blank">Academia.edu</a>.</p>
 
-<h3>Alessandro di Ludovico</h3>
+<h3><a name="ludovico"></a>Alessandro di Ludovico</h3>
 <p>A. di Ludovico has a PhD in Archaeology and Art History of the Ancient Near East from La Sapienza University of Rome. He is currently a research fellow on projects concerning the historical geography of pre-classical Western Asia. His research interests mainly focus on figurative languages, material production, and the cultural history of third-millennium <span class="small">bce</span> Syria and Mesopotamia, all fields that he has investigated for many years using both quantitative and qualitative methods. He has participated in several international meetings on Near Eastern Archaeology, Assyriology, and Digital Humanities, and he has worked as an archaeologist on field projects in Syria and Palestine.<br />
-For further information, see <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Academia.edu</a>. <a href="CyberResearch-vol1.html#ludovico2" style="text-decoration: none"><img src="assets/baseline_keyboard_return_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/></a></p>
+For further information, see <a href="https://uniroma1.academia.edu/AlessandroDiLudovico" target="_blank">Academia.edu</a>.</p>
 
-<h3>Sveta Matskevich</h3>
+<h3><a name="matskevich"></a>Sveta Matskevich</h3>
+<p>S. Matskevich is a postdoctoral fellow at the Zinman Institute of Archaeology at the University of Haifa and an associated research fellow in the Institute of Archaeology at the Hebrew University of Jerusalem where she earned her PhD. Trained as a field archaeologist, she has participated in excavation projects in Israel, Greece, and Turkey, mainly as a surveyor, draughtsperson, and Database Management System architect and administrator. Her research interests include archaeological
+data management, field methods, and the history of archaeology. She is currently starting her own excavation of the site of Tel Mevorakh (Israel) as part of a regional project investigating the natural environment and transportation networks in southern Phoenicia during the Middle-to-Late Bronze Age.<br />
+For further information, see <a href="https://huji.academia.edu/SvetaMatskevich" target="_blank">Academia.edu</a>.</p>
 
-<h3>Leann Pace</h3>
+<h3><a name="ludovico"></a>Terhi Nurmikko-Fuller</h3>
+<p>T. Nurmikko-Fuller holds a PhD from the University of Southampton. She is currently a lecturer in Digital Humanities at the Australian National University. Her research focuses on examining the potential of harnessing Semantic Web technologies to support and diversify scholarship in the humanities. To date, she has published on the use of Linked Open Data with musicological and library metadata; on the
+ontological representation of the narrative structure, philological, bibliographical, and museological data of ancient Mesopotamian literary compositions; and on the roles gamification and informal online environments can play in facilitating the learning process. Terhi was selected as a Fellow of the Software Sustainability Institute in 2016 and has visiting scholar status at the University of Oxford e-Research Centre.<br />
+For further information, see <a href="https://anu-au.academia.edu/TerhiNurmikkoFuller" target="_blank">Academia.edu</a>.</p>
 
-<3>Randall W. Younker</h3>
+<h3><a name="pace"></a>Leann Pace</h3>
+
+<h3><a name="younker"></a>Randall W. Younker</h3>
+<p>R. W. Younker is a Professor (Archaeology and History of Antiquity), Director of Ph.D. (Biblical and Ancient Near Eastern Archaeology) Program at Andrews University, and Director of the Institute of Archaeology. He is also chair of ASOR Membership and Outreach committee.<br />
+For further information, see <a href="https://www.andrews.edu/sem/faculty_staff/faculty/randall-younker.html" target="_blank">Academia.edu</a>.</p>
