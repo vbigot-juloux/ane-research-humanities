@@ -19,3 +19,18 @@ layout: default
  <p>Help us to cover the copy-editing costs of this first volume on CyberResearch!</p>
  
  <p>The fundraising campaign will start soon...</p>
+ <br />
+ <br />
+ <br />
+  <br />
+ <br />
+ <br />
+  <br />
+ <br />
+ <br />
+  <br />
+ <br />
+ <br />
+  <br />
+ <br />
+ <br />
