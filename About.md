@@ -1,6 +1,6 @@
 ---
-layout: About
-title: home
+layout: default
+title: About
 ---
 
 <h2>Co-editors</h2>
