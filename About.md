@@ -35,7 +35,8 @@ For further information, see <a href="https://anu-au.academia.edu/TerhiNurmikkoF
 
 <h3><a name="pace"></a>Leann Pace</h3>
 <p><em>Co-editor: “<a href="http://ane-research-humanities.science/docs/Violence-vol1">The Use of Violence in the Ancient Near East and Neighboring Regions: Case Studies on Texts, Images and Archaeology</a>” (forthcoming 2019)</em>. </p>
-<p style="padding-bottom: 20px"></p>
+<p style="padding-bottom: 20px"><br />
+For further information, see <a href="https://wfu.academia.edu/LeannPace" target="_blank">Academia.edu</a>.</p>
 
 <h3><a name="younker"></a>Randall W. Younker</h3>
 <p><em>Co-editor: “<a href="http://ane-research-humanities.science/docs/ASOR-EPHE-PSL-European-Symposium">Les Actes of ASOR/EPHE-PSL European Symposium, Paris, Sept. 4-5, 2018. Collaborative Projects among European and International Scholars for the Study of Ancient Worlds Using Digital Approaches</a>” (forthcoming 2019), “<a href="http://ane-research-humanities.science/docs/ASOR-EPHE-PSL-European-Symposium">Les Actes of ASOR/EPHE-PSL European Symposium, Paris, Sept. 4-6, 2018. Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds</a>” (forthcoming 2020)</em>. </p>
