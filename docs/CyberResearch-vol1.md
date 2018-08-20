@@ -18,7 +18,7 @@ Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill,
 
 <span id="fund-home">
        <!--<img src="assets/outline_message_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/>-->
-      Fundraising campaign: <a href="" target="_blank" style="color:white; font-weight: 600; text-decoration: underline">help us</a> to cover the copy-editing costs of this first volume on CyberResearch <a href="Fundraising" target="_blank">&#10145;</a>
+      Fundraising campaign: <a href="" target="_blank" style="color:white; font-weight: 600; text-decoration: underline">help us</a> to cover the copy-editing costs of this first volume on CyberResearch <a href="Fundraising.html" target="_blank">&#10145;</a>
 <br />
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
