@@ -11,7 +11,7 @@ title: home
 <br />
 <br />
 A strong team of co-editors with combined skills in particular to domains of research related to ANE, including Anthropology, Archaeology, Art History, Philology and digital practices: <br />
-<a href="About#bigot-juloux" target="_blank">V. Bigot Juloux</a> | <a href="About#gansell" target="_blank">A. R. Gansell</a> | <a href="About#ludovico" target="_blank">A. di Ludovico</a> | <a href="About#nurmikko-fuller" target="_blank">T. Nurmikko-Fuller</a> | <a href="About#matskevich" target="_blank">S. Matskevich</a> | <a href="About#pace" target="_blank">L. Pace</a> | <a href="About#younker" target="_blank">Randall W. Younker</a>
+<a href="About#bigot-juloux">V. Bigot Juloux</a> | <a href="About#gansell">A. R. Gansell</a> | <a href="About#ludovico">A. di Ludovico</a> | <a href="About#nurmikko-fuller">T. Nurmikko-Fuller</a> | <a href="About#matskevich">S. Matskevich</a> | <a href="About#pace">L. Pace</a> | <a href="About#younker">Randall W. Younker</a>
 
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Digital Practices, including Computer Sciences</h2>
 <ul style="list-style-type: none;">
