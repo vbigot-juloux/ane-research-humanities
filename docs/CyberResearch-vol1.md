@@ -15,13 +15,13 @@ layout: default
  
 <h2> CyberResearch on the Ancient Near East and Neighboring Regions. Case Studies on Archaeological Data, Objects, Texts, and Digital Archiving</h2>
 Vanessa Bigot Juloux, Amy Rebecca Gansell, Alessandro di Ludovico (eds.). Brill, Digital Bible Studies 2. 2018, 460 +  XXVIII.<br />
-<!--
+
 <span id="fund-home">
        <!--<img src="assets/outline_message_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/>-->
-      Fundraising campaign: <a href="" target="_blank" style="color:white; font-weight: 600; text-decoration: underline">help us</a> to cover the copy-editing costs of this first volume on CyberResearch <a href="" target="_blank">&#10145;</a>
+      Fundraising campaign: <a href="" target="_blank" style="color:white; font-weight: 600; text-decoration: underline">help us</a> to cover the copy-editing costs of this first volume on CyberResearch <a href="Fundraising" target="_blank">&#10145;</a>
 <br />
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
--->
+
 
 <span style="border: 0">
 	<span style="color:#b30000; font-size: 14px;">&#9758;</span> <a href="#eds" name="eds2">Co-editors</a> | <a href="#authors" name="authors2">Authors</a> | <a href="#table-content" name="table-content2">Table of contents</a> | <a href="#readership" name="readership2">Readership</a> | <a href="#acknowledgment" name="acknowledgment2">Acknowledgment</a> | <a href="#OA" name="OA2">On Open Access</a> | <a href="#panels" name="panels2">Panels</a> 
