@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<h2>Co-editors</h2>
+<h2><span style="color:orange; font-size: 18px">&#9788;</span> Co-editors</h2>
 _By (surnames) alphabetical order_
 
 <h3><a name="bigot-juloux"></a>Vanessa Bigot Juloux</h3>
