@@ -23,7 +23,7 @@ technical background or familiarity with the ancient cultures.</em> <a href="doc
 <li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Terhi Nurmikko-Fuller, and Sveta Matskevich. <em>Forthcoming 2019</em>. <a href="docs/CyberResearch-vol2.html">Read more...</a>
 </li>
 
-<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “Les Actes of ASOR/EPHE-PSL European Symposium, Paris, Sept. 4-5, 2018. Collaborative Projects among European and International Scholars for the Study of Ancient Worlds Using Digital Approaches” co-editors, Vanessa Bigot Juloux and Randall W. Younker. <em>Forthcoming last term 2019</em>. <a href="docs/ASOR-EPHE-PSL-European-Symposium.html">Read more...</a>
+<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “Les Actes of ASOR/EPHE-PSL European Symposium, Paris, Sept. 4-5, 2018. Collaborative Projects among European and International Scholars for the Study of Ancient Worlds Using Digital Approaches” co-editors, Vanessa Bigot Juloux and Randall W. Younker. <em>Forthcoming first term 2020</em>. <a href="docs/ASOR-EPHE-PSL-European-Symposium.html">Read more...</a>
 </li>
 
 </ul>
