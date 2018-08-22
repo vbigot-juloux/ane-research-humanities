@@ -35,7 +35,7 @@ For further information, see <a href="https://anu-au.academia.edu/TerhiNurmikkoF
 
 <h3><a name="pace"></a><span style="color:#b30000; font-size: 14px">&#8702;</span> Leann Pace</h3>
 <p><em>Co-editor: “<a href="http://ane-research-humanities.science/docs/Violence-vol1">The Use of Violence in the Ancient Near East and Neighboring Regions: Case Studies on Texts, Images and Archaeology</a>” (forthcoming 2019)</em>. </p>
-<p style="padding-bottom: 20px"><br />
+<p style="padding-bottom: 20px">L. Pace received her doctoral degree in Near Eastern Archaeology from the University of Chicago and now serves as an Assistant Teaching Professor at Wake Forest University. She is currently a senior staff member on the Tell Keisan excavations in Israel. Her current research interests include foodways in the ancient Near East and the ways in which archaeological excavation and interpretation intersects with modern tourism, religion, politics, and economics in the region. <br />
 For further information, see <a href="https://wfu.academia.edu/LeannPace" target="_blank">Academia.edu</a>; <a href="mailto:pacelc@wfu.edu">pacelc@wfu.edu</a>.</p>
 
 <h3><a name="younker"></a><span style="color:#b30000; font-size: 14px">&#8702;</span> Randall W. Younker</h3>
