@@ -37,7 +37,7 @@ Eleven chapters present a rich array of material, spanning the fifth through the
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <img src="../assets/baseline_get_app_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/> View <a href="https://brill.com/flyer/title/34932?print=pdf" target="_target">PDF Flyer</a>.<br />
 <img src="../assets/baseline_add_shopping_cart_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/> Order on <a href="https://brill.com/view/title/34932" target="_blank">Brill website</a> (Free Ebook and hardback).<br/>
-<img src="../assets/baseline_get_app_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/> Or download <a ref="http://www.oapen.org/search?identifier=1000352;keyword=cyberresearch" target="_blank">from oapen.org</a> the volume in Open Access.
+<img src="../assets/baseline_get_app_black_18dp.png" style="border:0; -webkit-box-shadow: 0 0 0; width: 2%"/> Or download <a href="http://www.oapen.org/search?identifier=1000352;keyword=cyberresearch" target="_blank">from oapen.org</a> the volume in Open Access.
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 
 
