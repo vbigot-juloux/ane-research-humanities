@@ -22,7 +22,7 @@ A strong team of co-editors with combined skills in particular to domains of res
 technical background or familiarity with the ancient cultures.</em> <a href="docs/CyberResearch-vol1.html">Read more...</a>
        </li>
 
-<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Sveta Matskevich, and Alessandro di Ludovico, in collaboration with Terhi Nurmikko Fuller and Randall W. Younker. <em>Forthcoming late 2020</em>. <a href="docs/CyberResearch-vol2.html">Read more...</a>
+<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Sveta Matskevich, and Alessandro di Ludovico, in collaboration with Terhi Nurmikko-Fuller and Randall W. Younker. <em>Forthcoming late 2020</em>. <a href="docs/CyberResearch-vol2.html">Read more...</a>
 </li>
 
 <li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “CyberResearch on the Ancient Near East, Bible World, and Neighboring Regions (vol. 3),” co-editors, Vanessa Bigot Juloux, Sveta Matskevich, and Alessandro di Ludovico. <em>Forthcoming 2021</em>. <a href="docs/CyberResearch-vol3.html">Read more...</a>
