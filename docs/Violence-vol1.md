@@ -14,7 +14,7 @@ layout: default
  </div>
 
 <h2> Anthropology and Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds.</h2>
-Vanessa Bigot Juloux and Alessandro di Ludovico (eds.) in collaboration with Randall W. Younker. Forthcoming late 2020, <a href="https://ugarit-verlag.com" target="_blank">Ugarit Verlag</a>, printed volume and in open-access (thanks to <a href="https://knowledgeunlatched.org" target="_blank">KU</a> award).<br />
+Vanessa Bigot Juloux and Alessandro di Ludovico (eds.) in collaboration with Randall W. Younker. Forthcoming late 2020, <a href="https://ugarit-verlag.com/en/" target="_blank">Ugarit Verlag</a>, printed volume and in open-access (thanks to <a href="https://knowledgeunlatched.org" target="_blank">KU</a> award).<br />
 <br />
 _Manuscript in preparation_
 <h3>Overview</h3>
