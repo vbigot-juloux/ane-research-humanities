@@ -19,7 +19,7 @@ layout: default
 
 <p>The third volume on digital and computational practices is currently under preparation and should be in open access too as previous digital practices volumes in addition to the printed volume. We are optimistic about having the third volume published by the end of of 2021.
 <br /><br />
-The forthcoming volume will include papers dealing with digital and computational approaches in research and teaching of the following disciplines: archeology, history, art history, cultural anthropology, epigraphy, paleoenvironment, paleography, philology, and religious studies of ancient Western Asia, Egypt, and the Mediterranean world. <a href="https://vbigot-juloux.github.io/ane-research-humanities/docs/News">Read more →</a>
+The forthcoming volume will include papers dealing with digital and computational approaches in research and teaching of the following disciplines: archeology, history, art history, cultural anthropology, epigraphy, paleoenvironment, paleography, philology, and religious studies of ancient Western Asia, Egypt, and the Mediterranean world. <a href="https://vbigot-juloux.github.io/ane-research-humanities/docs/CyberResearch-vol3">Read more →</a>
 </p>
 <br />
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
