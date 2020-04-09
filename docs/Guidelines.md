@@ -16,7 +16,7 @@ layout: default
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #cccccc;" />
 <br />
 
-_Further examples can be downloaded on <a href="http://ane-research-humanities.science/docs/Recommendations_to_Authors.pdf">Github</a>_
+_Further examples can be downloaded on <a href="Recommendations_to_Authors.pdf">Github</a>_
 
 <h3 style="color:#b30000;"><a name="reco"></a>General recommentation</h3>
 <hr style="height:0; margin:0; background:transparent; border-bottom:0.5px solid #b30000;" />
