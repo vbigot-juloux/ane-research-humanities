@@ -13,13 +13,13 @@ layout: default
 </span>
  </div>
 
-<h2><span style="font-weight: 400">[Preliminary titled]</span> CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving</h2>
-Vanessa Bigot Juloux, Sveta Matskevich, and Alessandro di Ludovico (eds.), in collaboration with Terhi Nurmikko Fuller and Randall W. Younker. Forthcoming late 2020.<br />
+<h2><span style="font-weight: 400">[Preliminary titled]</span> The Ancient World Goes Digital CyberResearch </h2>
+Vanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich (eds.), in collaboration with Randall W. Younker. Forthcoming late 2021.<br />
 <br />
 _Manuscript in preparation_
 <h3> Overview</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Chronology: 3rd millennium BC - 5th century AD.</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Chronology: 3rd millennium BC - 10th century AD.</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Region: Mesopotamia, Levant, Cyprus, Arabian Peninsula, and Mediterranean world.</li>
   <li style="text-align: justify"><span style="color:#b30000; font-size: 14px">&#8702;</span> Special elements: Some essays dealing with ancient texts will include non-Latin scripts to represent the Greek, Mesopotamian, Ugaritic, and other Semitic languages.</li>
 </ul>
