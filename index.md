@@ -22,10 +22,10 @@ A strong team of co-editors with combined skills in particular to domains of res
 technical background or familiarity with the ancient cultures.</em> <a href="docs/CyberResearch-vol1.html">Read more...</a>
        </li>
 
-<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “The Ancient World Goes Digital CyberResearch vol. 2,” co-editors, Vanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich, in collaboration with Randall W. Younker. <em>Forthcoming late 2021</em>. <a href="docs/CyberResearch-vol2.html">Read more...</a>
+<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “The Ancient World Goes Digital, CyberResearch vol. 2,” co-editors, Vanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich, in collaboration with Randall W. Younker. <em>Forthcoming late 2021</em>. <a href="docs/CyberResearch-vol2.html">Read more...</a>
 </li>
 
-<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “The Ancient World Goes Digital CyberResearch vol. 3,” co-editors, VVanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich, in collaboration with Randall W. Younker. <em>Forthcoming 2022</em>. <a href="docs/CyberResearch-vol3.html">Read more...</a>
+<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “The Ancient World Goes Digital, CyberResearch vol. 3,” co-editors, VVanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich, in collaboration with Randall W. Younker. <em>Forthcoming 2022</em>. <a href="docs/CyberResearch-vol3.html">Read more...</a>
 </li>
 
 </ul>
