@@ -14,12 +14,12 @@ layout: default
  </div>
 
 <h2> Anthropology and Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds.</h2>
-Vanessa Bigot Juloux and Alessandro di Ludovico (eds.) in collaboration with Randall W. Younker. Forthcoming late 2020, <a href="https://ugarit-verlag.com/en/" target="_blank">Ugarit Verlag</a>, printed volume and in open-access (thanks to <a href="https://knowledgeunlatched.org" target="_blank">KU</a> award).<br />
+Vanessa Bigot Juloux and Alessandro di Ludovico (eds.) in collaboration with Randall W. Younker. Forthcoming late 2021.<br />
 <br />
 _Manuscript in preparation_
 <h3>Overview</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Chronology: From the 3rd millennium BC to the 8th century AD.</li>
+  <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Chronology: From the 3rd millennium BC to the 10th century AD.</li>
   <li><span style="color:#b30000; font-size: 14px">&#8702;</span> Region: Egypt, Ḫatti, Iran, Mesopotamia, Roman Empire, Ugarit.</li>
   <li style="text-align: justify"><span style="color:#b30000; font-size: 14px">&#8702;</span> Special elements: Some essays dealing with ancient texts will include non-Latin scripts to represent the cuneiform script and other Semitic writings.</li>
 </ul>
