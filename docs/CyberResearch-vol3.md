@@ -13,23 +13,23 @@ layout: default
 </span>
  </div>
 
-<h2><span style="font-weight: 400">[Preliminary titled]</span> CyberResearch on the Ancient Near East, Bible World, and Neighboring Regions (vol. 3).</h2>
-Vanessa Bigot Juloux, Sveta Matskevich, and Alessandro di Ludovico (eds.). Forthcoming 2021.<br />
+<h2><span style="font-weight: 400">[Preliminary titled]</span> The Ancient World Goes Digital, CyberResearch vol.3 </h2>
+Vanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich (eds.), in collaboration with Randall W. Younker. Forthcoming late 2022.<br />
 <br />
 
 <h3>Calls for papers: Digital and Computational Practices in ancient Near Eastern and Biblical Studies</h3>
 
-<p>The third volume on digital and computational practices is currently under preparation and should be in open access too as previous digital practices volumes in addition to the printed volume. We are optimistic about having the third volume published by the end of of 2021.
+<p>The third volume on digital and computational practices is currently under preparation and should be in open access too as previous digital practices volumes in addition to the printed volume. We are optimistic about having the third volume published by the end of of 2022.
 <br /><br />
 The forthcoming volume will include papers dealing with digital and computational approaches in research and teaching of the following disciplines: archeology, history, art history, cultural anthropology, epigraphy, paleoenvironment, paleography, philology, and religious studies of ancient Western Asia, Egypt, and the Mediterranean world.
 <br /><br />
 At the moment we still accept contributions themed around Biblical Studies, Levant, Egypt, and more broadly Mediterranean world from the Iron Age until Late Antiquity.
 <br /><br />
-The sample articles can be found at http://ane-research-humanities.science/docs/CyberResearch-vol1. The second volume, co-edited by Vanessa Bigot Juloux, Sveta Matskevich and Alessandro di Ludovico, is under review process and should be published in late 2020.
+The sample articles can be found at http://ane-research-humanities.science/docs/CyberResearch-vol1. The second volume, co-edited by Vanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich, is under review process and should be published in late 2021.
 <br /><br />
-Please send your proposals (maximum 500 words) to one of the co-editors (see addresses below) by May 1, 2020.
+Please send your proposals (maximum 500 words) to one of the co-editors (see addresses below) by Sept 1, 2021.
 <br /><br />
-Vanessa Bigot Juloux: vanessa.bigot-juloux AT ephe.psl.eu<br />
+Vanessa Bigot Juloux: vanessa.bigotjuloux AT icloud.com<br />
 Alessandro di Ludovico: alediludo AT gmail.com<br />
 Sveta Matskevich: svetlana.matskevich AT mail.huji.ac.il<br />
 </p>
