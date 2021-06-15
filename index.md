@@ -22,10 +22,10 @@ A strong team of co-editors with combined skills in particular to domains of res
 technical background or familiarity with the ancient cultures.</em> <a href="docs/CyberResearch-vol1.html">Read more...</a>
        </li>
 
-<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “CyberResearch on the Ancient Near East and Neighboring Regions (vol. 2). Evaluating new tools and methods for Archaeological Data, Objects, Texts, and Digital Archiving,” co-editors, Vanessa Bigot Juloux, Sveta Matskevich, and Alessandro di Ludovico, in collaboration with Terhi Nurmikko-Fuller and Randall W. Younker. <em>Forthcoming late 2020</em>. <a href="docs/CyberResearch-vol2.html">Read more...</a>
+<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “The Ancient World Goes Digital CyberResearch vol. 2,” co-editors, Vanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich, in collaboration with Randall W. Younker. <em>Forthcoming late 2021</em>. <a href="docs/CyberResearch-vol2.html">Read more...</a>
 </li>
 
-<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “CyberResearch on the Ancient Near East, Bible World, and Neighboring Regions (vol. 3),” co-editors, Vanessa Bigot Juloux, Sveta Matskevich, and Alessandro di Ludovico. <em>Forthcoming 2021</em>. <a href="docs/CyberResearch-vol3.html">Read more...</a>
+<li style="padding-top: 12px; text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “The Ancient World Goes Digital CyberResearch vol. 3,” co-editors, VVanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich, in collaboration with Randall W. Younker. <em>Forthcoming 2022</em>. <a href="docs/CyberResearch-vol3.html">Read more...</a>
 </li>
 
 </ul>
@@ -34,11 +34,11 @@ technical background or familiarity with the ancient cultures.</em> <a href="doc
 <h2> <span style="color:orange; font-size: 18px">&#9788;</span> On Violence</h2>
 
 <ul style="list-style-type: none;">
- <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “Anthropology and Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds (Vol. 1)” co-editors, Vanessa Bigot Juloux and Alessandro di Ludovico, in collaboration with Randall W. Younker. <em>Forthcoming 2020</em>. <a href="docs/Violence-vol1.html">Read more...</a></li>
+ <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “Anthropology and Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds (Vol. 1)” co-editors, Vanessa Bigot Juloux and Alessandro di Ludovico, in collaboration with Randall W. Younker. <em>Forthcoming late 2021</em>. <a href="docs/Violence-vol1.html">Read more...</a></li>
 
- <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “Anthropology and Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds (Vol. 2)” co-editors, Vanessa Bigot Juloux and Alessandro di Ludovico. <em>Forthcoming 2021</em>.</li>
+ <li style="text-align: justify; text-justify: inter-word;"><span style="color:#b30000; font-size: 14px">&#8702;</span> Preliminary titled: “Anthropology and Interaction between Violence, Order, and Conflict within the Political Sphere of Ancient Worlds (Vol. 2)” co-editors, Vanessa Bigot Juloux and Alessandro di Ludovico. <em>Forthcoming 2022</em>.</li>
 
 </ul>
 
 
-Interested in submitting a paper to <a href="mailto:vanessa.bigot-juloux@ephe.psl.eu?subject=CyberResearch vol. 3 submission">CyberResearch vol.3</a> or to <a href="mailto:vanessa.bigot-juloux@ephe.psl.eu?subject=Use of Violence vol. 2 submission">the Use of Violence vol. 2</a>?
+Interested in submitting a paper to <a href="mailto:vanessa.bigotjuloux@icloud.com?subject=CyberResearch vol. 3 submission">CyberResearch vol.3</a> or to <a href="mailto:vanessa.bigotjuloux@icloud.com?subject=Use of Violence vol. 2 submission">the Use of Violence vol. 2</a>?
