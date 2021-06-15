@@ -13,7 +13,7 @@ layout: default
 </span>
  </div>
 
-<h2><span style="font-weight: 400">[Preliminary titled]</span> The Ancient World Goes Digital CyberResearch </h2>
+<h2><span style="font-weight: 400">[Preliminary titled]</span> The Ancient World Goes Digital, CyberResearch vol.2 </h2>
 Vanessa Bigot Juloux, Alessandro di Ludovico, and Sveta Matskevich (eds.), in collaboration with Randall W. Younker. Forthcoming late 2021.<br />
 <br />
 _Manuscript in preparation_
